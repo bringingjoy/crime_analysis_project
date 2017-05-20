@@ -1,0 +1,1249 @@
+type,facility_name,facility_address1,facility_address2,city,state,zip,phone_number,gps,latitude,longitude,owner_if_private,owner_addr,owner_addr2,owner_city,owner_state,owner_zip,owner_phone,serialid
+State Correctional Facility,Bibb Correctional Facility,565 Bibb Lane,,Brent,Alabama,35034,(205) 926-5252,,,,,,,,,,,1
+State Correctional Facility,Bullock Correctional Facility,Highway 82 East,,Union Springs,Alabama,36089,(334) 738-5625,,,,,,,,,,,2
+State Correctional Facility,Donaldson Correctional Facility,100 Warrior Lane,,Bessemer,Alabama,35023-7299,(205) 436-3681,,,,,,,,,,,3
+State Correctional Facility,Draper Correctional Facility,2828 Alabama 143,,Elmore,Alabama,36025,(334) 567-2221,,,,,,,,,,,4
+State Correctional Facility,Easterling Correctional Facility,200 Wallace Drive,,Clio,Alabama,36017-2615,(334) 397-4471,,,,,,,,,,,5
+State Correctional Facility,Elmore Correction Facility,3520 Marion Spillway Rd.,,Elmore,Alabama,36025,(334) 567-1460,,,,,,,,,,,6
+State Correctional Facility,Fountain Correctional Facility,Fountain 3800,,Atmore,Alabama,36503-3800,(251) 368-8122,,,,,,,,,,,7
+State Correctional Facility,Hamilton Aged & Infirmed,223 Sasser Drive,,Hamilton,Alabama,35570,(205) 921-7453,,,,,,,,,,,8
+State Correctional Facility,Holman Correctional Facility,Holman 3700,,Atmore,Alabama,36503-3700,(251) 368-8173,,,,,,,,,,,9
+State Correctional Facility,Kilby Correctional Facility,12201 Wares Ferry Rd,,Montgomery,Alabama,36117,(334) 215-6600,,,,,,,,,,,10
+State Correctional Facility,Limestone Correctional Facility,28779 Nick Davis Rd,,Harvest,Alabama,35749,(256) 233-4600,,,,,,,,,,,11
+State Correctional Facility,St Clair Correctional Facility,1000 St. Clair Road,,Springville,Alabama,35146,(205) 467-6111,,,,,,,,,,,12
+State Correctional Facility,Staton Correctional Facility,2690 Marion Spillway Rd,,Elmore,Alabama,36025,(334) 567-2221,,,,,,,,,,,13
+State Correctional Facility,Tutwiler Prison for Women,8966 US Hwy 231 N,,Wetumpka,Alabama,36092,(334) 567-4369,,,,,,,,,,,14
+State Correctional Facility,Ventress Correctional Facility,379 Alabama 239,,Clayton,Alabama,36016,(334) 775-3331,,,,,,,,,,,15
+Contract Facility,ATEF,102 Industrial Parkway,P.O. Box 1970,Columbiana,Alabama,35051,(205) 669-1187,,,,"Community Education Centers, Inc. (CEC)",35 Fairfield Place,,West Caldwell,NJ,07006,(973) 226-2900,16
+Contract Facility,Perry County Detention Facility,4805 Hwy 80 East,,Uniontown,Alabama,36786,(334) 628-8885,,,,"LCS Corrections Service, Inc.",100-D William O. Stutes Str.,,Lafayette,LA,70506,(337) 234-1533,17
+Work Releases/ Work Centers/ Camps,Alex City Work Release Center,Hwy 22 W,,Alexander City,Alabama,35010,(256) 234-7533,,,,,,,,,,,18
+Work Releases / Work Centers/ Camps,Atmore Work Release Center,9947 Hwy 21 N,,Atmore,Alabama,36503,(251) 368-9115,,,,,,,,,,,19
+Work Releases/ Work Centers/ Camps,Birmingham Work Release Center,1216 25th Street N,,Birmingham,Alabama,35234-3196,(205) 252-2994,,,,,,,,,,,20
+Work Releases/ Work Centers/ Camps,Camden Work Release Center,1780 Alabama Highway 221,,Camden,Alabama,36726,(334) 682-4287,,,,,,,,,,,21
+Work Releases/ Work Centers/ Camps,Childersburg Work Release Center,13501 Plant Road,,Childersburg,Alabama,35044,(256) 378-3821,,,,,,,,,,,22
+Work Releases/ Work Centers/ Camps,Decatur Work Release Center,1401 Highway 20 West,,Decatur,Alabama,35601,(256) 350-0876,,,,,,,,,,,23
+Work Releases/ Work Centers/ Camps,Elba Work Release Center,1620 Boswell St,,Elba,Alabama,36323,(334) 897-5738,,,,,,,,,,,24
+Work Releases/ Work Centers/ Camps,Frank Lee Youth Center,5305 Ingram Rd,,Deatsville,Alabama,36022,(334) 290-3200,,,,,,,,,,,25
+Work Releases / Work Centers / Camps,Hamilton Work Release Center,1826 Bexar Ave. East,,Hamilton,Alabama,35570,(205) 921-9308,,,,,,,,,,,26
+Work Releases/ Work Centers/ Camps,Loxley Work Release Center,14880 County Road 64,,Loxley,Alabama,36551,(251) 964-5044,,,,,,,,,,,27
+Work Releases/ Work Centers/ Camps,Mobile Work Release Center,2423 Interstate 65 Service Rd S,,Prichard,Alabama,36610,(251) 452-0098,,,,,,,,,,,28
+Work Releases/ Work Centers/ Camps,Montgomery Women's Facility,12085 Wares Ferry Road,,Montgomery,Alabama,36117,(334) 215-0756,,,,,,,,,,,29
+Work Releases/ Work Centers/ Camps,Red Eagle Honor Farm,1290 Red Eagle Road,,Montgomery,Alabama,36110,(334) 242-2510,,,,,,,,,,,30
+State Correctional Facility,Anchorage Correctional Complex,1400 East 4th Avenue,,Anchorage,Alaska,99501,(907) 269-4100,,,,,,,,,,,31
+State Correctional Facility,Anvil Mountain Correctional Center,1810 Center Creek Rd.,P.O. Box 730,Nome,Alaska,99762,(907) 443-2241,,,,,,,,,,,32
+State Correctional Facility,Fairbanks Correctional Center,1931 Eagan Avenue,,Fairbanks,Alaska,99701,(907) 458-6700,,,,,,,,,,,33
+State Correctional Facility,Goose Creek Correctional Center,22301 West Alsop Road,,Wasilla,Alaska,99654,(907) 864-8100,,,,,,,,,,,34
+State Correctional Facility,Hiland Mountain Correctional Center,9101 Hesterberg Road,,Eagle River,Alaska,99577,(907) 694-9511,,,,,,,,,,,35
+State Correctional Facility,Ketchikan Correctional Center,1201 Schoenbar Road,,Ketchikan,Alaska,99901-6270,(907) 228-7350,,,,,,,,,,,36
+State Correctional Facility,Lemon Creek Correctional Center,2000 Lemon Creek Road,,Juneau,Alaska,99801,(907) 465-6200,,,,,,,,,,,37
+State Correctional Facility,Mat-Su Pretrial,339 East Dogwood Avenue,,Palmer,Alaska,99645,(907) 745-0943,,,,,,,,,,,38
+State Correctional Facility,Palmer Correctional Center,Mi 58 Glen Hwy,,Palmer,Alaska,99645,(907) 745-5054,,,,,,,,,,,39
+State Correctional Facility,Point Mackenzie Correctional Farm,3690 S Guernsey Rd,,Wasilla,Alaska,99654,(907) 376-2976,,,,,,,,,,,40
+State Correctional Facility,Spring Creek Correctional Center,3600 Bette Cato,,Seward,Alaska,99664,(907) 224-8200,,,,,,,,,,,41
+State Correctional Facility,Wildwood Correctional Complex,10 Chugach Avenue,,Kenai,Alaska,99611,(907) 260-7200,,,,,,,,,,,42
+State Correctional Facility,Yukon Kuskokwim Correctional Center,1000 Chief Eddie Hoffman Highway,P.O. Box 400,Bethel,Alaska,99559,(907) 543-5245,,,,,,,,,,,43
+State Correctional Facility,ASPC - Perryville,2105 North Citrus Road,,Goodyear,Arizona,85395,(623) 853-0304,,,,,,,,,,,44
+State Correctional Facility,ASPC - Lewis,26700 South Highway 85,,Buckeye,Arizona,85326,(623) 386-6160,,,,,,,,,,,45
+State Correctional Facility,ASPC - Yuma,7125 East Juan Sanchez Blvd,,San Luis,Arizona,85349,(928) 627-8871,,,,,,,,,,,46
+State Correctional Facility,ASPC - Douglas,6911 N. BDI Blvd,,Douglas,Arizona,85607,(520) 364-7521,,,,,,,,,,,47
+State Correctional Facility,ASPC - Tucson,10000 South Wilmot,,Tucson,Arizona,85734,(520) 574-0024,,,,,,,,,,,48
+State Correctional Facility,ASPC - Safford,896 S. Cook Road,,Safford,Arizona,85546,(928) 428-4698,,,,,,,,,,,49
+State Correctional Facility,ASPC - Eyman,4374 East Butte Avenue,,Florence,Arizona,85132,(520) 868-0201,,,,,,,,,,,50
+State Correctional Facility,ASPC - Florence,1305 E Butte Ave,,Florence,Arizona,85132,(520) 868-4011,,,,,,,,,,,51
+State Correctional Facility,ASPC - Phoenix,2500 E. Van Buren St,,Phoenix,Arizona,85008,(602) 685-3100,,,,,,,,,,,52
+State Correctional Facility,ASPC - Winslow,2100 South Highway 87,,Winslow,Arizona,86047,(928) 289-9551,,,,,,,,,,,53
+Contract Facility,ASP - Phoenix West,3402 West Cocopah,,Phoenix,Arizona,85009,(602) 352-0350,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,54
+Contract Facility,Marana CCTF,12610 W. Silverbell Rd,,Marana,Arizona,85653,(520) 682-2077,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,55
+Contract Facility,ASP - Florence West,915 East Diversion Dam Road,,Florence,Arizona,85132,(520) 868-4251,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,56
+Contract Facility,ASP - Kingman,4626 W. English Dr.,,Golden Valley,Arizona,86414,(928) 565-2460,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,57
+Contract Facility,Central ArizonaCorrectional Facility,1401 East Diversion Dam Road,,Florence,Arizona,85132,(520) 868-4809,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,58
+Contract Facility,Eloy Detention Center,1705 East Hanna Road,,Eloy,Arizona,85131,(520) 466-4141,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,59
+Contract Facility,Florence Correctional Center,1100 Bowling Road,,Florence,Arizona,85132,(520) 868-9095,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,60
+Contract Facility,Central Arizona Detention Center,1155 North Pinal Parkway,,Florence,Arizona,85132,(520) 868-3668,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,61
+Contract Facility,La Palma Correctional Center,5501 North La Palma Road,,Eloy,Arizona,85131,(520) 464-3200,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,62
+Contract Facility,Saguaro Correctional Center,1250 East Arica Road,,Eloy,Arizona,85131,(520) 464-0500,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,63
+Contract Facility,Red Rock Correctional Center,1750 East Arica Road,,Eloy,Arizona,85131,(520) 464-3800,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,64
+State Correctional Facility,Cummins Unit,,,,Arkansas,71643,(870) 850-8899,"34 3.109', -91 35.065'",34.0518167,-91.5844167,,,,,,,,65
+State Correctional Facility,Delta Regional Unit,,,Dermott,Arkansas,71638,(870) 538-2000,"33 31.062', -91 24.741'",33.5177,-91.41235,,,,,,,,66
+State Correctional Facility,East Arkansas Regional Unit,,,,Arkansas,,(870) 295-4700,"34 50.937', -90 35.934'",34.84895,-90.5989,,,,,,,,67
+State Correctional Facility,Grimes Unit,300 Corrections Dr,,Newport,Arkansas,72112,(870) 523-5877,,,,,,,,,,,68
+State Correctional Facility,J. Aaron Hawkins Sr. Center,,,,Arkansas,,(501) 897-2256,"34 36.123', -92 11.568'",34.60205,-92.1928,,,,,,,,69
+State Correctional Facility,Maximum Security Unit,,,,Arkansas,,(501) 842-3800,"34 27.273', -91 54.928'",34.45455,-91.9154667,,,,,,,,70
+State Correctional Facility,McPherson Unit,300 Wackenhut Way,,Newport,Arkansas,72112,(870) 523-2639,,,,,,,,,,,71
+Work Release Center,Mississippi County Work Release Center,,,,Arkansas,,(870) 658-2214,"35 46.600', -89 57.886'",35.7766667,-89.9647667,,,,,,,,72
+State Correctional Facility,North Central Unit,10 Prison Circle,,Calico Rock,Arkansas,72519,(870) 297-4311,,,,,,,,,,,73
+Work Release Center,Northwest Arkansas Work Release Center,210 Spring St.,,Springdale,Arkansas,72764,(479) 756-2037,,,,,,,,,,,74
+State Correctional Facility,Ouachita River Unit,,,,Arkansas,,(501) 467-3400,"34 20.692', -92 50.542'",34.3448667,-92.8423667,,,,,,,,75
+State Correctional Facility,Pine Bluff Unit,899 Free Line Dr,,Pine Bluff,Arkansas,71603,(870) 267-6510,,,,,,,,,,,76
+State Correctional Facility,Randall L. Williams Correctional Facility,7206 W 7th Ave,,Pine Bluff,Arkansas,71603,(870) 267-6800,,,,,,,,,,,77
+State Correctional Facility,Texarkana Regional Correction Center,305 East 5th Street,,Texarkana,Arkansas,71854,(870) 779-3939,,,,,,,,,,,78
+State Correctional Facility,Tucker Unit,,,,Arkansas,,(501) 842-2519,"34 27.273', -91 54.928'",34.45455,-91.9154667,,,,,,,,79
+State Correctional Facility,Varner Unit,,,,Arkansas,,(870) 575-1800,"34 2.542', -91 36.460'",34.0423667,-91.6076667,,,,,,,,80
+State Correctional Facility,Wrightsville Unit,,,,Arkansas,,(501) 897-5806,"34 36.088', -92 11.514'",34.6014667,-92.1919,,,,,,,,81
+State Correctional Facility,Pelican Bay State Prison (PBSP),5905 Lake Earl Drive,,Crescent City,California,95531,(707) 465-1000,,,,,,,,,,,82
+State Correctional Facility,High Desert State Prison (HDSP),475-750 Rice Canyon Rd.,,Susanville,California,96127,(530) 251-5100,,,,,,,,,,,83
+State Correctional Facility,California Correctional Center (CCC),711-045 Center Rd.,,Susanville,California,96127,(530) 257-2181,,,,,,,,,,,84
+State Correctional Facility,San Quentin State Prison,San Quentin,,San Quentin,California,94964,(415) 454-1460,,,,,,,,,,,85
+State Medical Facility,California Medical Facility (CMF),1600 California Dr.,,Vacaville,California,95696,(707) 448-6841,,,,,,,,,,,86
+State Correctional Facility,"California State Prison, Solano (SOL)",2100 Peabody Road,,Vacaville,California,95696,(707) 451-0182,,,,,,,,,,,87
+State Correctional Facility,Folsom State Prison (FSP),300 Prison Road,,Represa,California,95671,(916) 985-2561,,,,,,,,,,,88
+State Correctional Facility,"California State Prison, Sacramento (SAC)",100 Prison Road,,Represa,California,95671,(916) 985-8610,,,,,,,,,,,89
+State Correctional Facility,Mule Creek State Prison (MCSP),4001 Highway 104,,Ione,California,95640,(209) 274-4911,,,,,,,,,,,90
+Youth Correctional Facility,N.A. Chaderjian Youth Correctional Facility,7650 South Newcastle Road,P.O. Box 213014,Stockton,California,95215,(209) 944-6400,,,,,,,,,,,91
+Youth Correctional Facility,O.H. Close Youth Correctional Facility,7650 South Newcastle Road,P.O. Box 213001,Stockton,California,95215,(209) 944-6391,,,,,,,,,,,92
+State Correctional Facility,"California Health Care Facility, Stockton",7707 Austin Road,,Stockton,California,95215,(209) 467-2500,,,,,,,,,,,93
+State Correctional Facility,Deuel Vocational Institution (DVI),23500 Kasson Road,,Tracy,California,95376,(209) 835-4141,,,,,,,,,,,94
+State Correctional Facility,Sierra Conservation Center (SCC),5100 O'Byrnes Ferry Road,,Jamestown,California,95327,(209) 984-5291,,,,,,,,,,,95
+State Correctional Facility,Correctional Training Facility (CTF),Highway 101 North,,Soledad,California,93960,(831) 678-3951,,,,,,,,,,,96
+State Correctional Facility,Salinas Valley State Prison (SVSP),31625 Highway 101,,Soledad,California,93960,(831) 678-5500,,,,,,,,,,,97
+State Correctional Facility,Central California Women's Facility (CCWF),23370 Road 22,,Chowchilla,California,93610,(559) 665-5531,,,,,,,,,,,98
+State Correctional Facility,Valley State Prison (VSP),21633 Avenue 24,,Chowchilla,California,93610,(559) 665-6100,,,,,,,,,,,99
+State Correctional Facility,Pleasant Valley State Prison (PVSP),24863 West Jayne Avenue,,Coalinga,California,93210,(559) 935-4900,,,,,,,,,,,100
+State Correctional Facility,Avenal State Prison (ASP),#1 Kings Way,,Avenal,California,93204,(559) 386-0587,,,,,,,,,,,101
+State Medical Facility,"California Substance Abuse Treatment Facility and State Prison, Corcoran (SATF-CSP, Corcoran)",900 Quebec Avenue,,Corcoran,California,93212,(559) 992-7100,,,,,,,,,,,102
+State Correctional Facility,"California State Prison, Corcoran (CSP-COR)",4001 King Avenue,,Corcoran,California,93212,(559) 992-8800,,,,,,,,,,,103
+State Correctional Facility,California Men's Colony (CMC),Highway 1,,San Luis Obispo,California,93409,(805) 547-7900,,,,,,,,,,,104
+State Correctional Facility,Wasco State Prison-Reception Center (WSP),701 Scofield Avenue,,Wasco,California,93280,(661) 758-8400,,,,,,,,,,,105
+State Correctional Facility,North Kern State Prison (NKSP),2737 West Cecil Avenue,,Delano,California,93215,(661) 721-2345,,,,,,,,,,,106
+State Correctional Facility,Kern Valley State Prison (KVSP),3000 West Cecil Avenue,,Delano,California,93216,(661) 721-6300,,,,,,,,,,,107
+State Correctional Facility,California Correctional Institution (CCI),24900 Highway 202,,Tehachapi,California,93561,(661) 822-4402,,,,,,,,,,,108
+State Correctional Facility,"California State Prison, Los Angeles County (LAC)",44750 60th Street West,,Lancaster,California,93536,(661) 729-2000,,,,,,,,,,,109
+Youth Correctional Facility,Ventura Youth Correctional Facility,3100 Wright Road,,Camarillo,California,93010,(805) 485-7951,,,,,,,,,,,110
+State Correctional Facility,California Institution for Men (CIM),14901 Central Avenue,,Chino,California,91710,(909) 597-1821,,,,,,,,,,,111
+State Correctional Facility,California Institution for Women (CIW),16756 Chino-Corona Road,,Corona,California,92880,(909) 597-1771,,,,,,,,,,,112
+State Correctional Facility,California Rehabilitation Center (CRC),5th Street & Western,,Norco,California,92860,(951) 737-2683,,,,,,,,,,,113
+State Correctional Facility,Richard J. Donovan Correctional Facility (RJD),480 Alta Road,,San Diego,California,92179,(619) 661-6500,,,,,,,,,,,114
+State Correctional Facility,"California State Prison, Centinela (CEN)",2302 Brown Road,,Imperial,California,92251,(760) 337-7900,,,,,,,,,,,115
+State Correctional Facility,Calipatria State Prison (CAL),7018 Blair Road,,Calipatria,California,92233,(760) 348-7000,,,,,,,,,,,116
+State Correctional Facility,Ironwood State Prison (ISP),19005 Wiley's Well Road,,Blythe,California,92225,(760) 921-3000,,,,,,,,,,,117
+State Correctional Facility,Chuckawalla Valley State Prison (CVSP),19025 Wiley's Well Rd.,,Blythe,California,92225,(760) 922-5300,,,,,,,,,,,118
+Contract Facility,San Diego Correctional Facility,446 Alta Rd,,San Diego,California,92158,(619) 661-9119,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,119
+Contract Facility,CAI - Boston Avenue,2727 Boston Avenue,,San Diego,California,92113,(619) 232-1066,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,120
+Contract Facility,California City Correctional Center,22844 Virginia Boulevard,,California City,California,93505,(760) 373-1764,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,121
+Contract Facility,CAI - Ocean View,551 South 35th Street,,San Diego,California,92113,(619) 232-8600,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,122
+Contract Facility,Golden State Medium Community Correctional Facility,611 Frontage Road,,McFarland,California,93250,(661) 792-2731,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,123
+Contract Facility,Central Valley MCCF,254 Taylor Avenue,,McFarland,California,93250,(661) 792-2033,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,124
+Contract Facility,Adelanto Detention Facility East & West,10400 Rancho Road,PO Box 6005,Adelanto,California,92301,(760) 561-6100,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,125
+Contract Facility,Desert View MCCF,10450 Rancho Rd,,Adelanto,California,92301,(760) 246-1171,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,126
+Contract Facility,Taft Correctional Institution,1500 Cadet Rd.,,Taft,California,93268,(661) 763-2510,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,127
+Contract Facility,Western Region Detention Facility at San Diego,220 West C Street,,San Diego,California,92101,(619) 232-9221,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,128
+State Correctional Facility,ACC - Arrowhead Correctional Center,,,Canon City,Colorado,81212,(719) 269-5601,"38 26.452', -105 9.480'",38.4408667,-105.158,,,,,,,,129
+State Correctional Facility,AVCF - Arkansas Valley Correctional Facility,,,Ordway,Colorado,81034,(719) 267-3520,"38 11.415', -103 50.511'",38.19025,-103.84185,,,,,,,,130
+State Correctional Facility,BVCC - Buena Vista Correctional Complex,,,Buena Vista,Colorado,81211,(719) 395-2404,"3826'15.06"", -1059'9.42""",38.4375167,-105.1526167,,,,,,,,131
+State Correctional Facility,CCC - Colorado Correctional Center (Camp George West),15445 South Golden Road,,Golden,Colorado,80401,(303) 273-1620,,,,,,,,,,,132
+State Correctional Facility,CCF - Centennial Correctional Facility,,,Canon City,Colorado,81215,(719) 269-5510,"38 26.251', -105 9.157'",38.4375167,-105.1526167,,,,,,,,133
+State Correctional Facility,CSP - Colorado State Penitentiary,,,Canon City,Colorado,81215,(719) 269-5120,"38 26.251', -105 9.157'",38.4375167,-105.1526167,,,,,,,,134
+State Correctional Facility,CTCF - Colorado Territorial Correctional Facility,,,Canon City,Colorado,81215,(719) 269-4002,"38 26.187', -105 14.928'",38.43645,-105.2488,,,,,,,,135
+State Correctional Facility,DCC - Delta Correctional Center,11363 Lockhart Road,,Delta,Colorado,81416,(970) 874-7614,,,,,,,,,,,136
+State Correctional Facility,Denver Reception & Diagnostic Center,10900 Smith Road,,Denver,Colorado,80239,(303) 371-4804,,,,,,,,,,,137
+State Correctional Facility,DWCF - Denver Women's Correctional Facility,3600 Havana,,Denver,Colorado,80239,(303) 371-4804,,,,,,,,,,,138
+State Correctional Facility,FCF - Fremont Correctional Facility,,,Canon City,Colorado,81215,(719) 269-5002,"38 25.331', -105 9.674'",38.4221833,-105.1612333,,,,,,,,139
+State Correctional Facility,FLCF - Fort Lyon Correctional Facility - CLOSED,,,,Colorado,,,"38 4.482', -103 7.882'",38.0747,-103.1313667,,,,,,,,140
+State Correctional Facility,FMCC - Four Mile Correctional Center,,,Canon City,Colorado,81212,(719) 269-5601,"38 26.246', -105 9.155'",38.4374333,-105.1525833,,,,,,,,141
+State Correctional Facility,LCF - Limon Correctional Facility,,,Limon,Colorado,80826,(719) 775-9221,"39 13.065', -103 41.530'",39.21775,-103.6921667,,,,,,,,142
+State Correctional Facility,LVCF - La Vista Correctional Facility,1401 W. 17th Street,,Pueblo,Colorado,81003,(719) 544-4800,,,,,,,,,,,143
+State Correctional Facility,RCC - Rifle Correctional Center,200 County Road 219,,Rifle,Colorado,81650,(970) 625-7578,,,,,,,,,,,144
+State Correctional Facility,SCC - Skyline Correctional Center,,,Canon City,Colorado,81212,(719) 269-5601,"38 25.359', -105 9.701'",38.42265,-105.1616833,,,,,,,,145
+State Correctional Facility,SCCF - San Carlos Correctional Facility,1410 W. 13th St.,,Pueblo,Colorado,81003,(719) 544-4800,,,,,,,,,,,146
+State Correctional Facility,SCF - Sterling Correctional Facility,,,Sterling,Colorado,80751,(970) 521-5010,"40 36.676', -103 9.731'",40.6112667,-103.1621833,,,,,,,,147
+State Correctional Facility,TCF - Trinidad Correctional Facility,21000 Highway 350 East,,Model,Colorado,81059,(719) 845-3226,,,,,,,,,,,148
+Youth Correctional Facility,YOS - Youthful Offender System,1300 West 13th Street,,Pueblo,Colorado,81003,(719) 544-4800,,,,,,,,,,,149
+Contract Facility,BCCF - Bent County Correctional Facility,11560 Road FF75,,Las Animas,Colorado,81054,(719) 456-2610,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,150
+Contract Facility,CCCF - Crowley County Correctional Facility,,,Olney Springs,Colorado,81062,(719) 267-3548,"38 9.406', -103 57.443'",38.1567667,-103.9573833,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,151
+Contract Facility,CMRC - Cheyenne Mountain Re-entry Center,2925 E. Las Vegas Street,,Colorado Springs,Colorado,80906,(719) 390-0125,,,,"Community Education Centers, Inc. (CEC)",35 Fairfield Place,,West Caldwell,NJ,07006,(973) 226-2900,152
+Contract Facility,Huerfano County Correctional Center,304 Ray Sandoval Street,,Walsenburg,Colorado,81089,(719) 738-3246,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,153
+Contract Facility,KCCC - Kit Carson Correctional Center,49777 County Road V,,Burlington,Colorado,80807,(719) 346-9450,"39 18.200', -102 14.647'",39.3033333,-102.2441167,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,154
+Contract Facility,Aurora Detention Facility,3130 North Oakland Street,,Aurora,Colorado,80010,(303) 361-6612,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,155
+State Correctional Facility,Bergin Correctional Institution - CLOSED,251 Middle Turnpike,,Storrs,Connecticut,06268,(860) 487-2712,,,,,,,,,,,156
+State Correctional Facility,Bridgeport Correctional Center,1106 North Avenue,,Bridgeport,Connecticut,06604,(203) 579-6131,,,,,,,,,,,157
+State Correctional Facility,Brooklyn Correctional Institution,59 Hartford Road,,Brooklyn,Connecticut,06234,(860) 779-4500,,,,,,,,,,,158
+State Correctional Facility,Cheshire Correctional Institution,900 Highland Avenue,,Cheshire,Connecticut,06410,(203) 651-6100,,,,,,,,,,,159
+State Correctional Facility,Corrigan-Radgowski Correctional Center,986 Norwich-New London Turnpike,,Uncasville,Connecticut,06382,(860) 848-5700,,,,,,,,,,,160
+State Correctional Facility,Enfield Correctional Institution,289 Shaker Road,POB 1500,Enfield,Connecticut,06082,(860) 763-7300,,,,,,,,,,,161
+State Correctional Facility,Garner Correctional Institution,50 Nunnawauk Road,,Newtown,Connecticut,06470,(203) 270-2800,,,,,,,,,,,162
+State Correctional Facility,Gates Correctional Institution - CLOSED,131 North Bridebrook Road,,Niantic,Connecticut,06357,(860) 691-4700,,,,,,,,,,,163
+State Correctional Facility,Hartford Correctional Center,177 Weston Street,,Hartford,Connecticut,06120,(860) 240-1800,,,,,,,,,,,164
+State Correctional Facility,MacDougall-Walker Correctional Institution,"1153 East Street, South",,Suffield,Connecticut,06080,(860) 627-2100,,,,,,,,,,,165
+Youth Correctional Facility,Manson Youth Institution,42 Jarvis Street,,Cheshire,Connecticut,06410,(203) 806-2500,,,,,,,,,,,166
+State Correctional Facility,New Haven Correctional Center,245 Whalley Avenue,POB 8000,New Haven,Connecticut,06511,(203) 974-4111,,,,,,,,,,,167
+State Correctional Facility,Niantic Annex,201 West Main Street,,Niantic,Connecticut,06357,(860) 451-3001,,,,,,,,,,,168
+State Correctional Facility,Northern Correctional Institution,287 Bilton Road,POB 665,Somers,Connecticut,06071,(860) 763-8600,,,,,,,,,,,169
+State Correctional Facility,Osborn Correctional Institution,335 Bilton Road,POB 100,Somers,Connecticut,06071,(860) 814-4600,,,,,,,,,,,170
+State Correctional Facility,Robinson Correctional Institution,285 Shaker Road,POB 1400,Enfield,Connecticut,06082,(860) 253-8000,,,,,,,,,,,171
+State Correctional Facility,Webster Correctional Institution - CLOSED,111 Jarvis Street,,Cheshire,Connecticut,06410,(203) 271-5900,,,,,,,,,,,172
+State Correctional Facility,Willard-Cybulski Correctional Institution,391 Shaker Road,,Enfield,Connecticut,06082,(860) 763-6100,,,,,,,,,,,173
+State Correctional Facility,York Correctional Institution,201 West Main Street,,Niantic,Connecticut,06357,(860) 451-3001,,,,,,,,,,,174
+State Correctional Facility,Baylor Women's Correctional Institution (BWCI),,,New Castle,Delaware,19720,(302) 577-3004,"39 42.214', -75 34.892'",39.7035667,-75.5815333,,,,,,,,175
+State Correctional Facility,James T. Vaughn Correctional Center,,,Smyrna,Delaware,19977,(302) 653-9261,"39 19.962', -75 36.007'",39.3327,-75.6001167,,,,,,,,176
+State Correctional Facility,Sussex Correctional Institution (SCI),23203 Dupont Blvd,,Georgetown,Delaware,19947,(302) 856-5280,"38 39.578', -75 22.200'",38.6596333,-75.37,,,,,,,,177
+Youth Correctional Facility,Howard R. Young Correctional Institution,1301 E. 12th Street,,Wilmington,Delaware,19801,(302) 429-7700,"39 44.502', -75 31.816'",39.7417,-75.5302667,,,,,,,,178
+State Correctional Facility,Apalachee Correctional Institution East (Male),35 Apalachee Drive,,Sneads,Florida,32460-4166,(850) 718-0688,,,,,,,,,,,179
+State Correctional Facility,Apalachee Correctional Institution West (Male),52 West Unit Drive,,Sneads,Florida,32460-4165,(850) 718-0577,,,,,,,,,,,180
+Contract Facility,Bay Correctional Facility (Male),5400 Bayline Drive,,Panama City,Florida,32404-5492,(850) 769-1455,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,181
+Contract Facility,Blackwater River Correctional Facility (Male),5914 Jeff Ates Road,,Milton,Florida,32583,(850) 983-4100,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,182
+State Correctional Facility,Calhoun Correctional Institution (Male)- Workcamp Adjacent,19562 SE Institution Drive,,Blountstown,Florida,32424-5156,(850) 237-6500,,,,,,,,,,,183
+State Correctional Facility,Century Correctional Institution (Male)- Workcamp Adjacent,400 Tedder Road,,Century,Florida,32535-3659,(850) 256-2600,,,,,,,,,,,184
+State Correctional Facility,Franklin Correctional Institution (Male)- Workcamp Adjacent,1760 Highway 67 North,,Carrabelle,Florida,32322,(850) 697-1100,,,,,,,,,,,185
+Contract Facility,Gadsden Correctional Facility (Female),6044 Greensboro Highway,,Quincy,Florida,32351-9100,(850) 875-9701,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,186
+Contract Facility,Graceville Correctional Facility (Male),5168 Ezell Rd.,,Graceville,Florida,32440,(850) 263-5500,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,187
+Contract Facility,Citrus County Detention Facility,2604 W. Woodland Ridge Drive,,Lecanto,Florida,34461,(352) 527-3332,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,188
+State Correctional Facility,Gulf Correctional Institution (Male),500 Ike Steele Road,,Wewahitchka,Florida,32465-0010,(850) 639-1000,,,,,,,,,,,189
+State Correctional Facility,Holmes Correctional Institution (Male)- Workcamp Adjacent,3142 Thomas Drive,,Bonifay,Florida,32425-0190,(850) 547-8600,,,,,,,,,,,190
+State Correctional Facility,Jackson Correctional Institution (Male)- Workcamp Adjacent,5563 10th Street,,Malone,Florida,32445-3144,(850) 569-5260,,,,,,,,,,,191
+State Correctional Facility,Jefferson Correctional Institution (Male),1050 Big Joe Road,,Monticello,Florida,32344-0430,(850) 342-0500,,,,,,,,,,,192
+State Correctional Facility,Liberty Correctional Institution (Male)- Workcamp Adjacent,11064 N.W. Dempsey Barron Road,,Bristol,Florida,32321-9711,(850) 643-9400,,,,,,,,,,,193
+State Correctional Facility,Northwest Florida Reception Center (Male),4455 Sam Mitchell Drive,,Chipley,Florida,32428-3501,(850) 773-6100,,,,,,,,,,,194
+State Correctional Facility,Okaloosa Correctional Institution (Male)- Workcamp Adjacent,3189 Colonel Greg Malloy Road,,Crestview,Florida,32539-6708,(850) 682-0931,,,,,,,,,,,195
+State Correctional Facility,Quincy Annex (Male),2225 Pat Thomas Parkway,,Quincy,Florida,32351-8645,(850) 627-5400,,,,,,,,,,,196
+State Correctional Facility,Santa Rosa CI (Male),5850 East Milton Rd.,,Milton,Florida,32583-7914,(850) 983-5800,,,,,,,,,,,197
+State Correctional Facility,Taylor Correctional Institution (Male)- Workcamp Adjacent,8501 Hampton Springs Road,,Perry,Florida,32348-8747,(850) 838-4000,,,,,,,,,,,198
+State Correctional Facility,Wakulla Correctional Institution (Male)- Workcamp Adjacent,110 Melaleuca Drive,,Crawfordville,Florida,32327-4963,(850) 410-1895,,,,,,,,,,,199
+State Correctional Facility,Walton Correctional Institution (Male)- Workcamp Adjacent,691 Institution Road,,DeFuniak Springs,Florida,32433-1831,(850) 951-1300,,,,,,,,,,,200
+State Correctional Facility,Baker Correctional Institution (Male)- Workcamp Adjacent,20706 US Highway 90 West,,Sanderson,Florida,32087-2359,(386) 719-4500,,,,,,,,,,,201
+State Correctional Facility,Columbia Correctional Institution (Male)- Workcamp Adjacent,216 S.E. Corrections Way,,Lake City,Florida,32025-2013,(386) 754-7600,,,,,,,,,,,202
+State Correctional Facility,Cross City Correctional Institution (Male)- Workcamp Adjacent,568 NE 255th Street,,Cross City,Florida,32628,(352) 498-4444,,,,,,,,,,,203
+State Correctional Facility,Florida State Prison (Male)- Workcamp Adjacent,7819 N.W. 228th Street,,Raiford,Florida,32026-1000,(904) 368-2500,,,,,,,,,,,204
+State Correctional Facility,Florida Women's Reception Center- Workcamp Adjacent,3700 NW 111th Place,,Ocala,Florida,34482-1479,(352) 840-8000,,,,,,,,,,,205
+State Correctional Facility,Hamilton Correctional Institution (Male)- Workcamp Adjacent,10650 SW 46th Street,,Jasper,Florida,32052-1360,(386) 792-5151,,,,,,,,,,,206
+Contract Facility,Lake City Correctional Facility (Male Youth),7906 East Highway 90,,Lake City,Florida,32055-6290,(386) 755-3379,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,207
+Youth Correctional Facility,Lancaster Correctional Institution (Male Youth)- Workcamp Adjacent,3449 S.W. State Road 26,,Trenton,Florida,32693-5641,(352) 463-4100,,,,,,,,,,,208
+State Correctional Facility,Lawtey Correctional Institution (Male),22298 NE County Road 200B,,Lawtey,Florida,32058,(904) 782-2000,,,,,,,,,,,209
+Youth Correctional Facility,"Lowell Correctional Institution (Female, Youth)",11120 NW Gainesville Rd,,Ocala,Florida,34482-1479,(352) 401-5301,,,,,,,,,,,210
+State Correctional Facility,Madison Correctional Institution (Male)- Workcamp Adjacent,382 Southwest MCI Way,,Madison,Florida,32340-4430,(850) 973-5300,,,,,,,,,,,211
+State Correctional Facility,Marion Correctional Institution (Male)- Workcamp Adjacent,3269 NW 105th Street,,Ocala,Florida,34475,(352) 401-6400,,,,,,,,,,,212
+State Correctional Facility,Mayo Correctional Institution (Male)- Workcamp Adjacent,8784 US Highway 27 West,,Mayo,Florida,32066-3458,(386) 294-4500,,,,,,,,,,,213
+State Correctional Facility,Putnam Correctional Institution (Male),128 Yelvington Road,,East Palatka,Florida,32131-2112,(386) 326-6800,,,,,,,,,,,214
+State Correctional Facility,Suwannee Correctional Institution (Male),5964 U.S. Highway 90,,Live Oak,Florida,32060,(386) 963-6201,,,,,,,,,,,215
+State Correctional Facility,Tomoka Correctional Institution (Male) - Workcamp Adjacent,3950 Tiger Bay Road,,Daytona Beach,Florida,32124-1098,(386) 323-1070,,,,,,,,,,,216
+State Correctional Facility,Union Correctional Institution (Male),7819 N.W. 228th Street,,Raiford,Florida,32026-4000,(386) 431-2000,,,,,,,,,,,217
+State Correctional Facility,Avon Park Correctional Institution (Male) - Workcamp Adjacent,,,,Florida,,(863) 453-3174,"27.6619444, -81.3594444",27.6619444,-81.3594444,,,,,,,,218
+State Correctional Facility,Central Florida Reception Center (Male),7000 H C Kelley Rd,,Orlando,Florida,32831-2518,(407) 207-7777,,,,,,,,,,,219
+State Correctional Facility,Charlotte Correctional Institution (Male),33123 Oil Well Road,,Punta Gorda,Florida,33955-9701,(941) 833-2300,,,,,,,,,,,220
+State Correctional Facility,Dade Correctional Institution (Male),19000 S. W. 377th Street,,Florida City,Florida,33034-6409,(305) 242-1900,,,,,,,,,,,221
+State Correctional Facility,DeSoto Annex (Male) - Workcamp Adjacent,13617 S.E. Highway 70,,Arcadia,Florida,34266-7800,(863) 494-3727,,,,,,,,,,,222
+State Correctional Facility,Everglades Correctional Institution (Male),1599 S.W. 187th Ave.,,Miami,Florida,33194,(305) 228-2000,,,,,,,,,,,223
+State Correctional Facility,Hardee Correctional Institution (Male)- Workcamp Adjacent,6901 State Road 62,,Bowling Green,Florida,33834-9505,(863) 767-4500,,,,,,,,,,,224
+Youth Correctional Facility,"Hernando Correctional Institution (Female, Youth)",16415 Springhill Drive,,Brooksville,Florida,34604-8167,(352) 797-5794,,,,,,,,,,,225
+State Correctional Facility,Homestead Correctional Institution (Female),19000 S. W. 377th Street,,Florida City,Florida,33034-6409,(305) 242-1770,,,,,,,,,,,226
+State Correctional Facility,Lake Correctional Institution (Male),19225 U.S. Highway 27,,Clermont,Florida,34715-9025,(352) 394-6146,,,,,,,,,,,227
+State Correctional Facility,Martin Correctional Institution (Male) - Workcamp Adjacent,1150 S.W. Allapattah Road,,Indiantown,Florida,34956-4397,(772) 597-3705,,,,,,,,,,,228
+Contract Facility,Moore Haven Correctional Facility (Male),1282 Florida 78,,Moore Haven,Florida,33471,(863) 946-2420,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,229
+State Correctional Facility,Okeechobee Correctional Institution (Male),3420 N.E. 168th St.,,Okeechobee,Florida,34972-4824,(863) 462-5400,,,,,,,,,,,230
+State Correctional Facility,Polk Correctional Institution (Male) - Workcamp Adjacent,10800 Evans Road,,Polk City,Florida,33868-6925,(863) 984-2273,,,,,,,,,,,231
+Contract Facility,South Bay Correctional Facility (Male),"600 U.S. Highway 27, South",,South Bay,Florida,33493-2233,(561) 992-9505,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,232
+State Correctional Facility,South Florida Reception Center (Male),14000 NW 41st Street,,Doral,Florida,33178-3003,(305) 592-9567,,,,,,,,,,,233
+State Correctional Facility,Sumter Correctional Institution (Male),9544 County Road 476B,,Bushnell,Florida,33513-0667,(352) 569-6100,,,,,,,,,,,234
+State Correctional Facility,Zephyrhills Correctional Institution (Male),2739 Gall Boulevard,,Zephyrhills,Florida,33541-9701,(813) 782-5521,,,,,,,,,,,235
+Work Camps / Work Release / Road Prisons,Berrydale Forestry Camp (Male),6920 Highway 4,,Jay,Florida,32565-2204,(850) 675-4564,,,,,,,,,,,236
+Work Camps / Work Release / Road Prisons,Calhoun Work Camp - (Male),19564 SE Inst. Drive,,Blountstown,Florida,32424-5156,(850) 237-6632,,,,,,,,,,,237
+Work Camps / Work Release / Road Prisons,Century Work Camp - (Male),400 Tedder Road,,Century,Florida,32535-3659,(850) 256-2600,,,,,,,,,,,238
+Work Camps / Work Release / Road Prisons,Franklin Work Camp,1760 Highway 67,,Carrabelle,Florida,32322,(850) 697-1464,,,,,,,,,,,239
+Work Camps / Work Release / Road Prisons,Graceville Work Camp - (Male),5230 Ezell Road,,Graceville,Florida,32440-4289,(850) 263-9230,,,,,,,,,,,240
+Work Camps / Work Release / Road Prisons,Gulf Forestry Camp (Male),3222 DOC Whitfield Road,,White City,Florida,32465,(850) 827-4000,,,,,,,,,,,241
+Work Camps / Work Release / Road Prisons,Holmes Work Camp - (Male),3182 Thomas Drive,,Bonifay,Florida,32425-4238,(850) 547-2703,,,,,,,,,,,242
+Work Camps / Work Release / Road Prisons,Jackson Work Camp - (Male),5607 10th Street,,Malone,Florida,32445-9998,(850) 569-5260,,,,,,,,,,,243
+Work Camps / Work Release / Road Prisons,Liberty Work Camp - South Unit- (Male),11064 NW Dempsey Barron Road,,Bristol,Florida,32321-0711,(850) 643-9542,,,,,,,,,,,244
+Work Camps / Work Release / Road Prisons,Okaloosa Work Camp - (Male),3189 Colonel Greg Malloy Road,,Crestview,Florida,32539-6708,(850) 682-0931,,,,,,,,,,,245
+Work Camps / Work Release / Road Prisons,Taylor Work Camp (Male),8501 Hampton Springs Road,,Perry,Florida,32348-0000,(850) 223-4501,,,,,,,,,,,246
+Work Camps / Work Release / Road Prisons,Wakulla Work Camp - (Male),110 Melaleuca Drive,,Crawfordville,Florida,32327-4963,(850) 413-9663,,,,,,,,,,,247
+Work Camps / Work Release / Road Prisons,Baker Work Camp - (Male),20706 US Highway 90 West,,Sanderson,Florida,32087-2359,(386) 719-6130,,,,,,,,,,,248
+Work Camps / Work Release / Road Prisons,Cross City Work Camp - (Male),568 N.E. 255th Street,,Cross City,Florida,32628,(352) 498-4444,,,,,,,,,,,249
+Work Camps / Work Release / Road Prisons,Gainesville Work Camp (Male),700 NE 55th Blvd.,,Gainesville,Florida,32641-6067,(352) 955-2045,,,,,,,,,,,250
+Work Camps / Work Release / Road Prisons,Lancaster Work Camp - (Male),3449 SW SR 26,,Trenton,Florida,32693-5641,(352) 463-4100,,,,,,,,,,,251
+Work Camps / Work Release / Road Prisons,Lowell Work Camp (Female),11120 NW Gainesville Road,,Ocala,Florida,34482-000,(352) 401-5301,,,,,,,,,,,252
+Work Camps / Work Release / Road Prisons,Madison Work Camp - (Male),382 SW MCI Way,,Madison,Florida,32340-4430,(850) 973-5302,,,,,,,,,,,253
+Work Camps / Work Release / Road Prisons,Marion Work Camp - (Male),Post Office Box 158,,Lowell,Florida,32663-0158,(352) 401-6400,,,,,,,,,,,254
+Work Camps / Work Release / Road Prisons,Mayo Work Camp - (Male),8976 US 27 West,,Mayo,Florida,32066,(386) 294-4752,,,,,,,,,,,255
+Work Camps / Work Release / Road Prisons,RMC Work Camp - (Male),P.O. Box 628,,Lake Butler,Florida,32054,(386) 496-4050,,,,,,,,,,,256
+Work Camps / Work Release / Road Prisons,Suwannee Work Camp - (Male),5964 US Highway 90,,Live Oak,Florida,32060,(386) 963-6101,,,,,,,,,,,257
+Work Camps / Work Release / Road Prisons,Tomoka Work Camp - (Male),3950 Tiger Bay Road,,Daytona Beach,Florida,32124-1098,(386) 254-2656,,,,,,,,,,,258
+Work Camps / Work Release / Road Prisons,Union Correctional Work Camp,13600 NW 258th Court,,Raiford,Florida,32083,(386) 431-4450,,,,,,,,,,,259
+Work Camps / Work Release / Road Prisons,Arcadia Road Prison (Male),2961 N.W. County Road 661,,Arcadia,Florida,34266-8203,(863) 993-4628,,,,,,,,,,,260
+Work Camps / Work Release / Road Prisons,Avon Park Work Camp - (Male),Post Office Box 1100,,Avon Park,Florida,33826-1100,(863) 453-3174,,,,,,,,,,,261
+Work Camps / Work Release / Road Prisons,Big Pine Key Road Prison (Male),450 Key Deer Blvd.,P.O. Box 430509,Big Pine Key,Florida,33043-0509,(305) 872-2231,,,,,,,,,,,262
+Work Camps / Work Release / Road Prisons,DeSoto Work Camp (Male),13617 SE Highway 70,,Arcadia,Florida,34266-0000,(863) 494-3727,,,,,,,,,,,263
+Work Camps / Work Release / Road Prisons,Ft. Myers Work Camp (Male),2575 Ortiz Avenue,,Fort Myers,Florida,33994-1107,(239) 332-6915,,,,,,,,,,,264
+Work Camps / Work Release / Road Prisons,Hardee Work Camp - (Male),6899 State Road 62,,Bowling Green,Florida,33834-9505,(863) 767-4500,,,,,,,,,,,265
+Work Camps / Work Release / Road Prisons,Largo Road Prison (Male),5201 Ulmerton Road,,Clearwater,Florida,33760-4006,(727) 570-5135,,,,,,,,,,,266
+Work Camps / Work Release / Road Prisons,Loxahatchee Road Prison (Male),230 Sunshine Road,,West Palm Beach,Florida,33411-3616,(561) 791-4760,,,,,,,,,,,267
+Work Camps / Work Release / Road Prisons,Martin Work Camp - (Male),100 SW Allapattah Road,,Indiantown,Florida,34956-4310,(772) 597-1013,,,,,,,,,,,268
+Work Camps / Work Release / Road Prisons,Polk Work Camp - (Male),10800 Evans Road,,Polk City,Florida,33868-6925,(863) 984-2273,,,,,,,,,,,269
+Work Camps / Work Release / Road Prisons,Sumter Basic Training Unit,9544 County Road 476B,,Bushnell,Florida,33513-0667,(352) 569-6180,,,,,,,,,,,270
+Work Camps / Work Release / Road Prisons,Sumter Work Camp - (Male),9858 County Road 476B,,Bushnell,Florida,33513-0667,(352) 569-6114,,,,,,,,,,,271
+Work Releases,Panama City WRC (Male),3609 Highway 390,,Panama City,Florida,32405-2795,(850) 872-4178,,,,,,,,,,,272
+Work Releases,Pensacola WRC (Male),3050 North L. Street,,Pensacola,Florida,32501-1010,(850) 595-8920,,,,,,,,,,,273
+Work Releases,SHISA- East (Female),2830 Park Street,,Jacksonville,Florida,32205-8017,(904) 389-1303,,,,,,,,,,,274
+Work Releases,SHISA- West (Female),418 West Virginia Street,,Tallahassee,Florida,32301-1030,(850) 222-4859,,,,,,,,,,,275
+Work Releases,Tallahassee WRC (Male),2616A Springhill Road,,Tallahassee,Florida,32305-6739,(850) 488-2478,,,,,,,,,,,276
+Work Releases,Bridges of Jacksonville WRC (Male),601 Agmac Avenue,,Jacksonville,Florida,32254,(904) 674-0850,,,,,,,,,,,277
+Work Releases,Daytona Beach WRC (Male),3601 U.S. Highway 92 West,,Daytona Beach,Florida,32124-1002,(386) 238-3171,,,,,,,,,,,278
+Work Releases,Dinsmore WRC (Male),13200 Old Kings Road,,Jacksonville,Florida,32219,(904) 924-1701,,,,,,,,,,,279
+Work Releases,Lake City WRC (Male),1099 N.W. Dot Gln,,Lake City,Florida,32055-2564,(386) 466-3077,,,,,,,,,,,280
+Work Releases,Re-Entry of Ocala WRC (Male),2006 N.E. 8th Road,,Ocala,Florida,34470-4231,(352) 351-1280,,,,,,,,,,,281
+Work Releases,Santa Fe WRC (Male),2901 Northeast 39th Avenue,,Gainesville,Florida,32602-1202,(352) 955-2070,,,,,,,,,,,282
+Work Releases,Atlantic WRC (Female),263 Fairgrounds Road,,West Palm Beach,Florida,33411-3639,(561) 791-4187,,,,,,,,,,,283
+Work Releases,Bartow WRC (Male),550 N. Restwood Avenue,,Bartow,Florida,33830-4200,(863) 534-7037,,,,,,,,,,,284
+Transition Center,Bradenton Transition Center (Female),2104 63rd Avenue East,,Bradenton,Florida,34203-5012,(941) 932-9030,,,,,,,,,,,285
+Work Releases,Bridges of Orlando WRC (Male),2011 Mercy Drive,,Orlando,Florida,32808-5613,(407) 291-1500,,,,,,,,,,,286
+Work Releases,Bridges of Pompano - Turning Point Work Release (Male),400 F SW 2nd Street,,Pompano Beach,Florida,33060-6822,(954) 580-0949,,,,,,,,,,,287
+Work Releases,Cocoa WRC (Male),585 Camp Road,,Cocoa,Florida,32927-4738,(321) 690-3210,,,,,,,,,,,288
+Work Releases,Ft. Pierce WRC (Male),1203 Bell Avenue,,Ft. Pierce,Florida,34982-6544,(772) 468-3929,,,,,,,,,,,289
+Work Releases,Hollywood WRC (Female),8501 W. Cypress Drive,,Pembroke Pines,Florida,33025-4542,(954) 985-4720,,,,,,,,,,,290
+Work Releases,Kissimmee WRC (Male),2925 Michigan Avenue,,Kissimmee,Florida,34744-1200,(407) 846-5210,,,,,,,,,,,291
+Work Releases,Miami North WRC (Male),7090 Northwest 41st Street,,Miami,Florida,33166-6817,(305) 470-5580,,,,,,,,,,,292
+Work Releases,Opa Locka WRC (Male),5400 Northwest 135th Street,,Opa Locka,Florida,33054-4310,(305) 827-4057,,,,,,,,,,,293
+Transition Center,Orlando Transition Center (Male),2025 North Mercy Drive,,Orlando,Florida,32808,(407) 770-0864,,,,,,,,,,,294
+Work Releases,Orlando WRC (Female),7300 Laurel Hill Drive,,Orlando,Florida,32818-5278,(407) 578-3510,,,,,,,,,,,295
+Work Releases,Pinellas WRC (Female),5205 Ulmerton Road,,Clearwater,Florida,33760-4002,(727) 570-5138,,,,,,,,,,,296
+Transfer Facility,Pompano Transit Center (Male),5600 Northwest 9th Avenue,,Ft. Lauderdale,Florida,33309-2800,(954) 358-2650,,,,,,,,,,,297
+Work Releases,St. Petersburg WRC (Male),4237 8th Avenue South,,St. Petersburg,Florida,33711-2000,(727) 893-2289,,,,,,,,,,,298
+Work Releases,Suncoast WRC (Female),10596 Gandy Boulevard,,St. Petersburg,Florida,33702-1422,(727) 523-1423,,,,,,,,,,,299
+Work Releases,Tarpon Springs WRC (Male),566 Brady Road,,Tarpon Springs,Florida,34689-6707,(727) 942-5420,,,,,,,,,,,300
+Transition Center,The Transition House (Male),900 East Vine Street,,Kissimmee,Florida,34744,(407) 846-0068,,,,,,,,,,,301
+Work Releases,West Palm Beach WRC (Male),261 West Fairgrounds Road,,West Palm Beach,Florida,33411-3639,(561) 791-4750,,,,,,,,,,,302
+State Correctional Facility,Arrendale State Prison (Lee Arrendale),"2023 Gainesville Highway, S",P.O. Box 709,Alto,Georgia,30510-0709,(706) 776-4700,,,,,,,,,,,303
+State Medical Facility,Augusta State Medical Prison,3001 Gordon Hwy,,Grovetown,Georgia,30813,(706) 855-4700,,,,,,,,,,,304
+State Correctional Facility,Autry State Prison (Jimmy Autry),3178 Mount Zion Church Rd,P.O. Box 648,Pelham,Georgia,31779,(229) 294-2940,,,,,,,,,,,305
+State Correctional Facility,Baldwin State Prison,301 Laying Farm Rd,P.O. Box 218,Hardwick,Georgia,31034,(478) 445-5218,,,,,,,,,,,306
+State Correctional Facility,Burruss C.T.C. (Al Burruss Correctional Training Center),1000 Indian Springs Drive,P.O. Box 5849,Forsyth,Georgia,31029,(478) 994-7512,,,,,,,,,,,307
+State Correctional Facility,Calhoun State Prison,27823 Main Street,P.O. Box 249,Morgan,Georgia,39866,(229) 849-5000,,,,,,,,,,,308
+State Correctional Facility,Central State Prison,4600 Fulton Mill Road,,Macon,Georgia,31208,(478) 471-2908,,,,,,,,,,,309
+State Correctional Facility,Coastal State Prison,200 Gulfstream Road,P.O. Box 7150,Garden City,Georgia,31418,(912) 965-6330,,,,,,,,,,,310
+State Correctional Facility,Dodge State Prison,2971 Old Bethel Road,P.O. Box 276,Chester,Georgia,31012-0276,(478) 358-7201,,,,,,,,,,,311
+State Correctional Facility,Dooly State Prison,1412 Plunkett Road,P.O. Box 750,Unadilla,Georgia,31091,(478) 627-2000,,,,,,,,,,,312
+State Correctional Facility,Emanuel Facility,714 Gumlog Road,P.O. Box 218,Swainsboro,Georgia,30401,(478) 289-2748,,,,,,,,,,,313
+State Correctional Facility,G.D.C.P. (GA Diagnostic And Classification State Prison),2978 Hwy 36 West,P.O. Box 3877,Jackson,Georgia,30233,(770) 504-2000,,,,,,,,,,,314
+State Correctional Facility,Georgia State Prison,300 1st Avenue South,,Reidsville,Georgia,30453,(912) 557-7301,,,,,,,,,,,315
+State Correctional Facility,Hancock State Prison,701 Prison Boulevard,P.O. Box 339,Sparta,Georgia,31087,(706) 444-1000,,,,,,,,,,,316
+State Correctional Facility,"Hays State Prison(Forest Hays, Jr. State Prison)",777 Underwood Road,P.O. Box 668,Trion,Georgia,30753,(706) 857-0400,,,,,,,,,,,317
+State Medical Facility,Helms Facility (Medical Holding Facility),1275 Constitution Road,,Atlanta,Georgia,30401,(404) 624-2413,,,,,,,,,,,318
+State Correctional Facility,Johnson State Prison,290 Donovan-Harrison Rd,,Wrightsville,Georgia,31096,(478) 864-4100,,,,,,,,,,,319
+State Correctional Facility,Lee State Prison,153 Pinewood Drive,,Leesburg,Georgia,31763,(229) 759-3110,,,,,,,,,,,320
+State Correctional Facility,Long Unit,1434 US Hwy 84 East,P.O. Box 70,Ludowici,Georgia,31316,(912) 545-3777,,,,,,,,,,,321
+State Correctional Facility,Macon State Prison,2728 Hwy 49 South,P.O. Box 426,Oglethorpe,Georgia,31068,(478) 472-3400,,,,,,,,,,,322
+State Correctional Facility,Montgomery State Prison,650 Mt. Vernon/Alston Rd,,Mt. Vernon,Georgia,30445,(912) 583-3600,,,,,,,,,,,323
+State Correctional Facility,Phillips State Prison (Clyde N. Phillips State Prison),2989 West Rock Quarry Road,,Buford,Georgia,30519,(770) 932-4500,,,,,,,,,,,324
+State Correctional Facility,Pulaski State Prison,373 Upper River Road,P.O. Box 839,Hawkinsville,Georgia,31036,(478) 783-6000,,,,,,,,,,,325
+State Correctional Facility,Richard Rogers State Prison,1978 GA Hwy 147,,Reidsville,Georgia,30453,(912) 557-7771,,,,,,,,,,,326
+State Correctional Facility,Rutledge State Prison (Jack T. Rutledge SP),7175 Manor Road,,Columbus,Georgia,31907,(706) 568-2340,,,,,,,,,,,327
+State Correctional Facility,Smith State Prison (Donald B. Smith SP),"9676 Hwy 301, North",P.O. Box 726,Glennville,Georgia,30427,(912) 654-5000,,,,,,,,,,,328
+State Correctional Facility,Telfair State Prison,210 Longbridge Road,P.O. Box 549,Helena,Georgia,31037,(229) 868-7721,,,,,,,,,,,329
+State Correctional Facility,Valdosta State Prison,3259 Val Tech Road,P.O. Box 310,Valdosta,Georgia,31603,(229) 333-7900,,,,,,,,,,,330
+State Correctional Facility,Walker State Prison,97 Kevin Lane,P.O. Box 98,Rock Springs,Georgia,30739,(706) 764-3600,,,,,,,,,,,331
+State Correctional Facility,Ware State Prison,3620 North Harris Road,,Waycross,Georgia,31503,(912) 285-6400,,,,,,,,,,,332
+State Correctional Facility,Washington State Prison,"13262 Hwy 24, East",P.O. Box 206,Davisboro,Georgia,31018,(478) 348-5814,,,,,,,,,,,333
+State Correctional Facility,Whitworth Women's Facility,414 Valley Hart Road,P.O. Box 769,Hartwell,Georgia,30643,(706) 856-2601,,,,,,,,,,,334
+State Correctional Facility,Wilcox State Prison,470 South Broad Street,P.O. Box 397,Abbeville,Georgia,31001,(229) 467-3000,,,,,,,,,,,335
+Contract Facility,Coffee Correctional Facility,1153 North Liberty Street,P.O. Box 650,Nicholls,Georgia,31554,(912) 345-5058 ext.25405,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,336
+Contract Facility,Jenkins Facility,34404 Kent Farm Drive,P.O. Box 948,Millen,Georgia,30442,(478) 982-6300,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,337
+Contract Facility,McRae Correctional Facility,1000 Jim Hammock Drive,,McRae,Georgia,31055,(229) 868-7778,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,338
+Contract Facility,D. Ray James Detention Facility,3423 Highway 252,PO Box 2005,Folkston,Georgia,31537,(912) 496-6905,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,339
+Contract Facility,D. Ray James Correctional Facility,3423 Highway 252,,Folkston,Georgia,31537,(912) 496-6242,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,340
+Contract Facility,North Georgia Detention Center,622 Main Street,,Gainesville,Georgia,30501,(770) 533-7500,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,341
+Contract Facility,Robert A. Deyton Detention Facility,11866 Hastings Bridge Road,PO Box 429,Lovejoy,Georgia,30250,(770) 305-8000,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,342
+Contract Facility,Riverbend Correctional Facility,196 Laying Farm Road,,Milledgeville,Georgia,31061,(478)414-2300,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,343
+Contract Facility,Stewart Detention Center,146 CCA Road,,Lumpkin,Georgia,31815,(229) 838-5000,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,344
+Contract Facility,Wheeler Correctional Facility,195 North Broad Street,P.O. Box 466,Alamo,Georgia,30411,(912) 568-1731,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,345
+County Prison,Athens/Clarke County Prison,2825 County Farm Road,,Athens,Georgia,30605,(706) 613-3400,,,,,,,,,,,346
+County Prison,Bulloch County Prison,17301 U.S. 301 North,,Statesboro,Georgia,30458,(912) 764-6217,,,,,,,,,,,347
+County Prison,Carroll County Prison,96 Horsley Mill Road,,Carrollton,Georgia,30117,(770) 830-5905,,,,,,,,,,,348
+County Prison,Clayton County Prison,11420 S.L. R. Boulevard,P.O. Box 309,Lovejoy,Georgia,30250,(770) 473-5777,,,,,,,,,,,349
+County Prison,Colquitt County Prison,200 S. Vandenberg Drive,,Moultrie,Georgia,31738,(229) 616-7490,,,,,,,,,,,350
+County Prison,Coweta County Prison,101 Selt Road,,Newnan,Georgia,30263,(770) 254-3723,,,,,,,,,,,351
+County Prison,Decatur County Prison,1153 Airport Road,,Bainbridge,Georgia,39817,(229) 248-3035,,,,,,,,,,,352
+County Prison,Effingham County Prison,321 HIGHWAY 119 S.,,Springfield,Georgia,31329,(912) 754-2108,,,,,,,,,,,353
+County Prison,Floyd County Prison,329 Black Bluff Road SW,,Rome,Georgia,30161,(706) 236-2490,,,,,,,,,,,354
+County Prison,Gwinnett County Prison,750 High Hope Road,,Lawrenceville,Georgia,30043,(678) 407-6000,,,,,,,,,,,355
+County Prison,Hall County Prison,1694 Barber Road,,Gainesville,Georgia,30507,(770) 531-6872,,,,,,,,,,,356
+County Prison,Harris County Prison,9982 Hwy 116,,Hamilton,Georgia,31811,(706) 628-4959,,,,,,,,,,,357
+County Prison,Jackson County Prison,265 I.W. Davis Road,,Jefferson,Georgia,30549,(706) 387-6460,,,,,,,,,,,358
+County Prison,Jefferson County Prison,1159 Clarks Mill Road,,Louisville,Georgia,30434,(478) 625-7230,,,,,,,,,,,359
+County Prison,Mitchell County Prison,"4838 Hwy 37, East",,Camilla,Georgia,31730,(229) 336-2045,,,,,,,,,,,360
+County Prison,Muscogee County Prison,7175 Sacerdote Lane,P.O. Box 84041,Columbus,Georgia,31908,(706) 561-3220,,,,,,,,,,,361
+County Prison,Richmond County Prison,2314 Tobacco Road,,Augusta,Georgia,30906,(706) 798-5572,,,,,,,,,,,362
+County Prison,Screven County Prison,859 Rockyford Road,,Sylvania,Georgia,30467,(912) 863-4555,,,,,,,,,,,363
+County Prison,Spalding County Prison,295 Justice Boulevard,,Griffin,Georgia,30224,(770) 467-4760,,,,,,,,,,,364
+County Prison,Sumter County Prison,346 McMath Mill Road,,Americus,Georgia,31709,(229) 928-4582,,,,,,,,,,,365
+County Prison,Terrell County Prison,3110 Albany Hwy,,Dawson,Georgia,31742,(229) 995-5381,,,,,,,,,,,366
+County Prison,Thomas County Prison,324 County Farm Road,,Thomasville,Georgia,31757,(229) 226-4394,,,,,,,,,,,367
+County Prison,Troup County Prison,2508 Hamilton Road,,LaGrange,Georgia,30240,(706) 883-1720,,,,,,,,,,,368
+State Correctional Facility,Oahu Community Correctional Center,2199 Kamehameha Highway,,Honolulu,Hawaii,96819,(808) 832-1777,,,,,,,,,,,369
+State Correctional Facility,Hawaii Community Correction Center,60 Punahele Street,,Hilo,Hawaii,96720,(808) 933-0428,,,,,,,,,,,370
+State Correctional Facility,Kauai Community Correctional Center,3-5351 Kuhio Highway,,Lihue,Hawaii,96766,(808) 241-3057,,,,,,,,,,,371
+State Correctional Facility,Maui Community Correctional Center,600 Waiale Drive,,Wailuku,Hawaii,96793,(808) 243-5861,,,,,,,,,,,372
+State Correctional Facility,Halawa Correctional Facility,99-902 Moanalua Road,,Aiea,Hawaii,96701,(808) 485-5200,,,,,,,,,,,373
+State Correctional Facility,Waiawa Correctional Facility,94-560 Kamehameha Highway,P.O. Box 1839,Waipahu,Hawaii,96797,(808) 677-6150,,,,,,,,,,,374
+State Correctional Facility,Womens Community Correctional Center,42-477 Kalanianaole Highway,,Kailua,Hawaii,96734,(808) 266-9580,,,,,,,,,,,375
+Contract Facility,Correctional Alternative Placement Program (CAPP),,,,Idaho,,(208) 336-9959,"43 27.706', -116 14.133'",43.4617667,-116.23555,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,376
+State Correctional Facility,Idaho Correctional Center (ICC),14601 Pleasant Valley,,Kuna,Idaho,83634,(208) 331-2760,"43 28.255', -116 14.213'",43.4709167,-116.2368833,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,377
+State Correctional Facility,Idaho Maximum Security Institution (IMSI),,,,Idaho,,(208) 338-1635,"43 28.767', -116 13.410'",43.47945,-116.2235,,,,,,,,378
+State Correctional Facility,Idaho State Correctional Institution (ISCI),,,,Idaho,,(208) 336-0740,"43 28.251', -116 14.234'",43.47085,-116.2372333,,,,,,,,379
+State Correctional Facility,South Boise Women's Correctional Center (SBWCC),,,,Idaho,,(208) 334-2731,"43 28.902', -116 13.855'",43.4817,-116.2309167,,,,,,,,380
+State Correctional Facility,South Idaho Correctional Institution (SICI),,,Kuna,Idaho,,(208) 336-1260,"43 28.435', -116 14.416'",43.4739167,-116.2402667,,,,,,,,381
+State Correctional Facility,North Idaho Correctional Institution (NICI),,,,Idaho,,(208) 962-3276,"46 4.770', -116 25.685'",46.0795,-116.4280833,,,,,,,,382
+State Correctional Facility,Idaho Correctional Institution-Orofino (ICIO),381 West Hospital Drive,,Orofino,Idaho,83544,(208) 476-3655,,,,,,,,,,,383
+State Correctional Facility,Pocatello Women's Correctional Center (PWCC),1451 Fore Road,,Pocatello,Idaho,83204,(208) 236-6360,,,,,,,,,,,384
+Work Camps / Work Release / Road Prisons,St. Anthony Work Camp (SAWC),125 N. 8th West,,St. Anthony,Idaho,83445,(208) 624-3775,,,,,,,,,,,385
+State Correctional Facility,Big Muddy River Correctional Center,251 N. Illinois Highway 37,,Ina,Illinois,62846,(618) 437-5300,,,,,,,,,,,386
+State Correctional Facility,Centralia Correctional Center,9330 Shattuc Road,P.O. Box 1266,Centralia,Illinois,62801,(618) 533-4111,,,,,,,,,,,387
+Work Camps / Work Release / Road Prisons,Clayton Work Camp,207 W. Morgan,,Clayton,Illinois,62324,(217) 894-6577,,,,,,,,,,,388
+Transition Center,CrossroadsAdult Transition Center,3210 West Arthington,,Chicago,Illinois,60624,(773) 533-5000,,,,,,,,,,,389
+State Correctional Facility,Danville Correctional Center,3820 East Main Street,,Danville,Illinois,61834,(217) 446-0441,,,,,,,,,,,390
+State Correctional Facility,Decatur Correctional Center,2310 East Mound Road,P.O. Box 3066,Decatur,Illinois,62524,(217) 877-0353,,,,,,,,,,,391
+State Correctional Facility,DixonCorrectional Center,2600 N. Brinton Avenue,P.O. Box 1200,Dixon,Illinois,61021,(815) 288-5561,,,,,,,,,,,392
+Work Camps / Work Release / Road Prisons,Dixon Springs Impact Incarceration Program (IIP),979 State Hwy 146 W.,,Golconda,Illinois,62938,(618) 949-3311,,,,,,,,,,,393
+State Correctional Facility,Du Quoin Impact Incarceration Program (IIP),275 Agriland Acres,,Du Quoin,Illinois,62832,(618) 542-5738,,,,,,,,,,,394
+State Correctional Facility,Dwight Correctional Center - CLOSED,23813 E. 3200 North Road,,Dwight,Illinois,60420,(815) 584-2806,,,,,,,,,,,395
+State Correctional Facility,East Moline Correctional Center,100 Hillcrest Road,,East Moline,Illinois,61244,(309) 755-4511,,,,,,,,,,,396
+Work Camps / Work Release / Road Prisons,East MolineWork Camp,100 Hillcrest Road,,East Moline,Illinois,61244,(309) 755-4511,,,,,,,,,,,397
+Transition Center,FoxValley Adult Transition Center,1329 North Lake Street,,Aurora,Illinois,60506,(630) 897-5610,,,,,,,,,,,398
+State Correctional Facility,Graham Correctional Center,12078 Illinois Route,,Hillsboro,Illinois,62049,(217) 532-6962,,,,,,,,,,,399
+Work Camps / Work Release / Road Prisons,GreeneCounty Impact Incarceration Program (IIP) - Jacksonville Correctional Center,US 67 South,,Roodhouse,Illinois,62082,(217) 374-2177,,,,,,,,,,,400
+Work Camps / Work Release / Road Prisons,Hardin County Work Camp,"Route 1, Box 99",,Cave-In-Rock,Illinois,62919,(618) 289-3237,,,,,,,,,,,401
+State Correctional Facility,Hill Correctional Center,600 South Linwood Road,P.O. Box 1327,Galesburg,Illinois,61402,(309) 343-4212,,,,,,,,,,,402
+State Correctional Facility,Illinois RiverCorrectional Center,1300W. Locust Street,,Canton,Illinois,61520,(309) 647-7030,,,,,,,,,,,403
+State Correctional Facility,JacksonvilleCorrectional Center,2268 East Morton Avenue,,Jacksonville,Illinois,62650,(217) 245-1481,,,,,,,,,,,404
+State Correctional Facility,LawrenceCorrectional Center,10940 Lawrence Road,,Sumner,Illinois,62466,(618) 936-2064,,,,,,,,,,,405
+State Correctional Facility,LincolnCorrectional Center,1098 1350th Street,P.O. Box 549,Lincoln,Illinois,62656,(217) 735-5411,,,,,,,,,,,406
+State Correctional Facility,LoganCorrectional Center,1096 1350th Street,P.O. Box 1000,Lincoln,Illinois,62656,(217) 735-5581,,,,,,,,,,,407
+State Correctional Facility,Menard Correctional Center,711 Kaskaskia Street,P.O. Box 711,Menard,Illinois,62259,(618) 826-5071,,,,,,,,,,,408
+Transition Center,NorthLawndale Adult Transition Center,2839 West Fillmore,,Chicago,Illinois,60612,(773) 638-8480,,,,,,,,,,,409
+Transition Center,Northern Reception and Classification Center,16830 So. Broadway Street,P.O. Box 112,Joliet,Illinois,60434,(815) 727-3607,,,,,,,,,,,410
+Transition Center,Peoria Adult Transition Center,607-613 North Main,,Peoria,Illinois,61602,(309) 671-3162,,,,,,,,,,,411
+State Correctional Facility,Pinckneyville Correctional Center,5835 State Route 154,,Pinckneyville,Illinois,62274,(618) 357-9722,,,,,,,,,,,412
+Work Camps / Work Release / Road Prisons,PittsfieldWork Camp,23540 365thStreet,,Pittsfield,Illinois,62363,(217) 285-2280,,,,,,,,,,,413
+State Correctional Facility,PontiacCorrectional Center,700 West Lincoln Street,,Pontiac,Illinois,61764,(815) 842-2816,,,,,,,,,,,414
+State Correctional Facility,PontiacMedium Security Unit,700 West Lincoln Street,,Pontiac,Illinois,61764,(815) 842-2816,,,,,,,,,,,415
+State Correctional Facility,Robinson Correctional Center,13423 East 1150th Avenue,,Robinson,Illinois,62454,(618) 546-5659,,,,,,,,,,,416
+State Correctional Facility,ShawneeCorrectional Center,Correctional Dr,,Grantsburg,Illinois,62943,(618) 658-8331,,,,,,,,,,,417
+State Correctional Facility,Sheridan Correctional Center,4017 E. 2603 Road,,Sheridan,Illinois,60551,(815) 496-2181,,,,,,,,,,,418
+Transition Center,Southern Illinois Adult Transition Center - CLOSED,805 West Freeman,,Carbondale,Illinois,62901,(618) 457-6705,,,,,,,,,,,419
+State Correctional Facility,Southwestern Illinois Correctional Center,950 Kingshighway Street,,East St. Louis,Illinois,62203,(618) 394-2200,,,,,,,,,,,420
+Work Camps / Work Release / Road Prisons,Southwestern Work Camp,950 Kingshighway Street,,East St. Louis,Illinois,62203,(618) 394-2200,,,,,,,,,,,421
+State Correctional Facility,Stateville Correctional Center,16830 So. Broadway St.,P.O. Box 112,Joliet,Illinois,60434,(815) 727-3607,,,,,,,,,,,422
+State Correctional Facility,Stateville Minimum Security Unit,16830 So. Broadway St.,P.O. Box 112,Joliet,Illinois,60434,(815) 727-3607,,,,,,,,,,,423
+State Correctional Facility,Tamms Correctional Center - CLOSED,8500 Supermax Road,,Tamms,Illinois,62988,(618) 747-2042,,,,,,,,,,,424
+State Correctional Facility,Tamms Minimum Security Unit- CLOSED,8500 Supermax Road,,Tamms,Illinois,62988,(618) 747-2042,,,,,,,,,,,425
+State Correctional Facility,Taylorville Correctional Center,1144 Illinois Route 29,,Taylorville,Illinois,62568,(217) 824-4004,,,,,,,,,,,426
+State Correctional Facility,Vandalia Correctional Center,Route 51 North,P.O. Box 500,Vandalia,Illinois,62471,(618) 283-4170,,,,,,,,,,,427
+Work Camps / Work Release / Road Prisons,Vandalia Work Camp,Route 51 North,P.O. Box 500,Vandalia,Illinois,62471,(618) 283-4170,,,,,,,,,,,428
+State Correctional Facility,Vienna Correctional Center,6695 State Route #146 East,,Vienna,Illinois,62995,(618) 658-8371,,,,,,,,,,,429
+Transition Center,West Side Adult Transition Center - CLOSED,121 North Campbell,,Chicago,Illinois,60612,(312) 633-3838,,,,,,,,,,,430
+State Correctional Facility,Western IllinoisCorrectional Center,2500 Rt. 99 South,,Mount Sterling,Illinois,62353,(217) 773-4441,,,,,,,,,,,431
+State Correctional Facility,Chain O'lakes Correctional Facility,3516 E 75 South,,Albion,Indiana,46701,(260) 636-3114,,,,,,,,,,,432
+State Correctional Facility,Edinburgh Correctional Facility,23rd & Schoolhouse Road,P.O. Box 470,Edinburgh,Indiana,46124,(812) 526-8434,,,,,,,,,,,433
+State Correctional Facility,Henryville Correctional Facility,1504 Schlamn Lake,P.O. Box 148,Henryville,Indiana,47126,(812) 294-4372,,,,,,,,,,,434
+Transition Center,Indianapolis Re-entry Educational Facility,401 North Randolph Street,,Indianapolis,Indiana,46201,(317) 639-2671,,,,,,,,,,,435
+State Correctional Facility,Madison Correctional Facility,800 MSH Bus Stop Drive,,Madison,Indiana,47250,(812) 265-6154,,,,,,,,,,,436
+Transition Center,South Bend Community Re-entry,4650 Old Cleveland Road,,South Bend,Indiana,46628,(574) 234-4094,,,,,,,,,,,437
+Contract Facility,Plainfield Short Term Offender Program (STOP),501 W. Main Street,,Plainfield,Indiana,46168,(317) 839-7751,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,438
+State Correctional Facility,Branchville Correctional Facility,21390 Old State Road 37,,Branchville,Indiana,47514,(812) 843-5921,,,,,,,,,,,439
+State Correctional Facility,Correctional Industrial Facility,5124 W. Reformatory Road,,Pendleton,Indiana,46064,(765) 778-8011,,,,,,,,,,,440
+Contract Facility,New Castle Correctional Facility,1000 Van Nuys Road,P.O. Box E,New Castle,Indiana,47362,(765) 593-0111,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,441
+Contract Facility,Marion County Jail II,730 E. Washington Street,,Indianapolis,Indiana,46202,(317) 266-0882,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,442
+State Correctional Facility,Plainfield Correctional Facility,727 Moon Road,,Plainfield,Indiana,46168,(317) 839-2513,,,,,,,,,,,443
+State Correctional Facility,Putnamville Correctional Facility,1946 West U.S. Hwy 40,,Greencastle,Indiana,46135,(765) 653-8441,,,,,,,,,,,444
+State Correctional Facility,Rockville Correctional Facility (Women),811 W. 50 N,,Rockville,Indiana,47872,(765) 569-3178,,,,,,,,,,,445
+State Correctional Facility,Westville Correctional Facility,5501 South 1100 West,,Westville,Indiana,46391,(219) 785-2511,,,,,,,,,,,446
+State Correctional Facility,Miami Correctional Facility,3038 West 850 South,,Bunker Hill,Indiana,46914,(765) 689-8920,,,,,,,,,,,447
+State Correctional Facility,Wabash Valley Correctional Facility,6908 S. Old U.S. Highway 41,P.O. Box 500,Carlisle,Indiana,47838,(812) 398-5050,,,,,,,,,,,448
+State Correctional Facility,Indiana State Prison,1 Park Row,,Michigan City,Indiana,46360,(219) 874-7258,,,,,,,,,,,449
+State Correctional Facility,Indiana Women's Prison,2596 Girls School Road,,Indianapolis,Indiana,46214,(317) 244-3387,,,,,,,,,,,450
+State Correctional Facility,Pendleton Correctional Facility,4490 W. Reformatory Rd.,,Pendleton,Indiana,46064,(765) 778-2107,,,,,,,,,,,451
+State Correctional Facility,Anamosa State Penitentiary,"406 North High Street, Box 10",,Anamosa,Iowa,52205,(319) 462-3504,,,,,,,,,,,452
+State Correctional Facility,Fort Dodge Correctional Facility,1550 L Street,,Fort Dodge,Iowa,50501-5767,(515) 574-4700,,,,,,,,,,,453
+State Correctional Facility,North Central Correctional Facility,313 Lanedale,,Rockwell City,Iowa,50579,(712) 297-7521,,,,,,,,,,,454
+State Correctional Facility,Clarinda Correctional Facility,2000 N. 16th Street,,Clarinda,Iowa,51632,(712) 542-5634 ext.5635,,,,,,,,,,,455
+State Correctional Facility,Iowa Correctional Institution for Women,"300 Elm Avenue, SW",,Mitchellville,Iowa,50169,(515) 967-4236,,,,,,,,,,,456
+State Correctional Facility,Newton Correctional Facility,307 S. 60th Avenue W.,P. O. Box 218,Newton,Iowa,50208,(641) 792-7552,,,,,,,,,,,457
+State Correctional Facility,Luster Heights,481 Luster Heights Road,,Harpers Ferry,Iowa,52146,,,,,,,,,,,,458
+State Medical Facility,Iowa Medical and Classification Center,2700 Coral Ridge Ave,,Coralville,Iowa,52241,(319) 626-2391,,,,,,,,,,,459
+State Correctional Facility,Mt. Pleasant Correctional Facility,1200 East Washington,,Mt. Pleasant,Iowa,52641,(319) 385-9511,,,,,,,,,,,460
+State Correctional Facility,Iowa State Penitentiary,3 John Bennett Drive,PO Box 316,Fort Madison,Iowa,52627,(319) 372-5432,,,,,,,,,,,461
+State Correctional Facility,El Dorado Correctional Facility,1737 SE Us Highway 54,,El Dorado,Kansas,67042,(316) 321-7284,,,,,,,,,,,462
+State Correctional Facility,Norton Correctional Facility,,,Norton,Kansas,,(785) 877-3389,"39 50.693', -99 48.981'",39.8448833,-99.81635,,,,,,,,463
+State Correctional Facility,Ellsworth Correctional Facility,1607 State St Ellsworth,,Ellsworth,Kansas,67439,(785) 472-5501,,,,,,,,,,,464
+State Correctional Facility,Topeka Correctional Facility,815 S.E. Rice Road,,Topeka,Kansas,66607,(785) 296-3432,,,,,,,,,,,465
+Contract Facility,Leavenworth Detention Center,100 Highway Terrace,,Leavenworth,Kansas,66048,(913) 727-3246,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,466
+State Correctional Facility,Hutchinson Correctional Facility,500 Reformatory St,,Hutchinson,Kansas,67501,(620) 662-2321,,,,,,,,,,,467
+State Correctional Facility,Winfield Correctional Facility,1806 Pinecrest Circle,,Winfield,Kansas,67156,(620) 221-6660,,,,,,,,,,,468
+State Correctional Facility,Lansing Correctional Facility,301 E Kansas Ave,,Lansing,Kansas,66043,(913) 727-3235,,,,,,,,,,,469
+Work Releases,Wichita Work Release Facility (WWRF),401 South Emporia,,Wichita,Kansas,67202,(316) 265-5211,,,,,,,,,,,470
+State Correctional Facility,Larned Correctional Facility,1318 KS Highway 264,,Larned,Kansas,67550-9304,(620) 285-6249,,,,,,,,,,,471
+State Correctional Facility,Kansas Correctional Industries,,,Lansing,Kansas,66043,(913) 727-3249,"39 15.061', -94 53.579'",39.2510167,-94.8929833,,,,,,,,472
+Work Camps / Work Release / Road Prisons,Bell County Forestry Camp,,,Pineville,Kentucky,40977,(606) 337-7065,"36 40.125', -83 51.124'",36.66875,-83.8520667,,,,,,,,473
+State Correctional Facility,Blackburn Correctional Complex,,,Lexington,Kentucky,40511,(859) 246-2366,"38 6.326', -84 33.604'",38.1054333,-84.5600667,,,,,,,,474
+State Correctional Facility,Eastern Kentucky Correctional Complex,200 Road to Justice,,West Liberty,Kentucky,41472,(606) 743-2800,,,,,,,,,,,475
+State Correctional Facility,Green River Correctional Complex,,,Central City,Kentucky,42330,(270) 754-5415,"37 18.867', -87 6.801'",37.31445,-87.11335,,,,,,,,476
+State Correctional Facility,Kentucky Correctional Institution for Women,3000 Ash Ave.,,Pewee Valley,Kentucky,40056,(502) 241-8454,,,,,,,,,,,477
+State Correctional Facility,Kentucky State Penitentiary,266 Water Street,,Eddyville,Kentucky,42038,(270) 388-2211,,,,,,,,,,,478
+State Correctional Facility,Kentucky State Reformatory,3001 W Hwy 146 LaGrange,,LaGrange,Kentucky,40032,(502) 222-9441,,,,,,,,,,,479
+State Correctional Facility,Little Sandy Correctional Complex,505 Prison Connector,,Sandy Hook,Kentucky,41171,(606) 738-6133,,,,,,,,,,,480
+State Correctional Facility,Luther Luckett Correctional Complex,"Dawkins Road, Box 6",,LaGrange,Kentucky,40031,(502) 222-0363,"38 24.738', -85 25.494'",38.4123,-85.4249,,,,,,,,481
+State Correctional Facility,Roederer Correctional Complex,,,LaGrange,Kentucky,40031,(502) 222-0170,"38 24.176', -85 25.798'",38.4029333,-85.4299667,,,,,,,,482
+State Correctional Facility,Western Kentucky Correctional Complex,374 New Bethel Church Road,,Fredonia,Kentucky,42411,(270) 388-9781,,,,,,,,,,,483
+State Correctional Facility,Northpoint Training Center,Walter Reed Rd,,Burgin,Kentucky,40310,,,,,,,,,,,,484
+Contract Facility,Marion Adjustment Center,95 Raywick Road,,St. Mary,Kentucky,40063,(270) 692-9622,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,485
+Contract Facility,Lee Adjustment Center,168 Lee Adjustment Center Drive,,Beattyville,Kentucky,41311,(606) 464-2866,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,486
+Contract Facility,Otter Creek Correctional Center,Correctional Rd,P.O. Box 500,Wheelwright,Kentucky,41669,,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,487
+Contract Facility,Allen Correctional Center,3751 Lauderdale Woodyard Road,,Kinder,Louisiana,70648,(337) 639-2943,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,488
+State Correctional Facility,Avoyelles Correctional Center,1630 Prison Road,,Cottonport,Louisiana,71327,(318) 876-2891,,,,,,,,,,,489
+Contract Facility,Caldwell Parish Detention Center,701 Highway 845,,Grayson,Louisiana,71435,(318) 649-2100,,,,"LCS Corrections Service, Inc.",100-D William O. Stutes Str.,,Lafayette,LA,70506,(337) 234-1533,490
+State Correctional Facility,David Wade Correctional Center,,,Homer,Louisiana,71040,(318) 927-0400,"32 54.218', -93 1.174'",32.9036333,-93.0195667,,,,,,,,491
+State Correctional Facility,Dixon Correctional Institute,,,Jackson,Louisiana,70748,(225) 634-1200,"30 48.780', -91 12.386'",30.813,-91.2064333,,,,,,,,492
+State Correctional Facility,Elayn Hunt Correctional Center,,,St. Gabriel,Louisiana,70776,(225) 642-3306,"30 15.892', -91 5.201'",30.2648667,-91.0866833,,,,,,,,493
+State Correctional Facility,Forcht-Wade Correctional Center - CLOSED,,,Keithville,Louisiana,71047,(318) 925-7100,"32 15.736', -93 56.098'",32.2622667,-93.9349667,,,,,,,,494
+State Correctional Facility,J. Levy Dabadie Correctional Center - CLOSED,1453 15th Street,,Pineville,Louisiana,71360,(318) 640-0351,,,,,,,,,,,495
+State Correctional Facility,Louisiana Correctional Institute for Women,,,St. Gabriel,Louisiana,70776,(225) 642-5529,"30 15.774', -91 4.416'",30.2629,-91.0736,,,,,,,,496
+State Correctional Facility,Louisiana State Penitentiary,17544 Tunica Trace,,Angola,Louisiana,70712,(225) 655-4411,,,,,,,,,,,497
+State Correctional Facility,C. Paul Phelps Correctional Center - CLOSED,14925 Highway 27,,DeQuincy,Louisiana,70633,(337) 786-7963,,,,,,,,,,,498
+Contract Facility,J.B. Evans Correctional Center,500 Routh Street,,Newellton,Louisiana,71357,(318) 467-3355,,,,"LCS Corrections Service, Inc.",100-D William O. Stutes Str.,,Lafayette,LA,70506,(337) 234-1533,499
+Contract Facility,Pine Prairie Correctional Center,1133 Hampton Dupre Road,,Pine Prairie,Louisiana,70576,(337) 599-2198,,,,"LCS Corrections Service, Inc.",100-D William O. Stutes Str.,,Lafayette,LA,70506,(337) 234-1533,500
+Contract Facility,South Louisiana Correctional Center,3843 Stagg Avenue,,Basile,Louisiana,70515,(337) 432-5493,,,,"LCS Corrections Service, Inc.",100-D William O. Stutes Str.,,Lafayette,LA,70506,(337) 234-1533,501
+State Correctional Facility,B.B. Rayburn Correctional Center,,,Angie,Louisiana,70426,(985) 661-6300,"30 55.302', -89 49.012'",30.9217,-89.8168667,,,,,,,,502
+Contract Facility,LaSalle Detention Facility,830 Pinehill Road,,Jena,Louisiana,71342,(318) 992-7800,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,503
+Contract Facility,Winn Correctional Center,180 CCA Blvd.,,Atlanta,Louisiana,71483,(318) 628-3971,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,504
+State Correctional Facility,Bolduc Correctional Facility,516 Cushing Rd,,Warren,Maine,04864,(207) 273-2036,,,,,,,,,,,505
+State Correctional Facility,Charleston Correctional Facility,1202 Dover Road,,Charleston,Maine,04422,(207) 285-0800,,,,,,,,,,,506
+State Correctional Facility,Downeast Correctional Facility,64 Base Road,,Machiasport,Maine,04655,(207) 255-1100,,,,,,,,,,,507
+State Correctional Facility,Maine Correctional Center,17 Mallison Falls Road,,Windham,Maine,04062,(207) 893-7000,,,,,,,,,,,508
+State Correctional Facility,Maine State Prison,807 Cushing Road,,Warren,Maine,04864,(207) 273-5300,,,,,,,,,,,509
+Work Releases,Southern Maine Re-entry Center,"2 Layman Way, Alfred",,Alfred,Maine,04002,(207) 490-5205,,,,,,,,,,,510
+State Correctional Facility,Baltimore City Correctional Center,901 Greenmount Avenue,,Baltimore,Maryland,21202,(410) 332-4340,,,,,,,,,,,511
+State Correctional Facility,Brockbridge Correctional Facility,7930 Brock Bridge Road,,Jessup,Maryland,20794,(410) 799-1363,,,,,,,,,,,512
+Transition Center,Baltimore Pre-Release Unit,926 Greenmount Ave,,Baltimore,Maryland,21202,(410) 234-1878,,,,,,,,,,,513
+State Correctional Facility,Chesapeake Detention Facility (Formerly MCAC),401 E Madison St,,Baltimore,Maryland,21202,(410) 539-5445,,,,,,,,,,,514
+State Correctional Facility,Central Home Detention Unit,2100 Guilford Ave,,Baltimore,Maryland,21218,(443) 263-3800,,,,,,,,,,,515
+State Correctional Facility,Central Maryland Correctional Facility(Formerly CLF),7301 Buttercup Rd,,Sykesville,Maryland,21784,(410) 781-4444,,,,,,,,,,,516
+State Correctional Facility,Correctional Mental Health Center - Jessup,7555 Waterloo Rd,,Jessup,Maryland,20794,(410) 799-3400,,,,,,,,,,,517
+State Correctional Facility,Dismas House East - CLOSED,,,,Maryland,,,,,,,,,,,,,518
+State Correctional Facility,Dismas House West - CLOSED,,,,Maryland,,,,,,,,,,,,,519
+State Correctional Facility,Dorsey Run Correctional Facility,2020 Toulson Road,,Jessup,Maryland,20794,(410) 379-6021,,,,,,,,,,,520
+State Correctional Facility,Eastern Correctional Institution,30420 Revells Neck Rd,,Westover,Maryland,21890,(410) 845-4000,,,,,,,,,,,521
+Work Releases,Eastern Correctional Institution Annex,30420 Revells Neck Rd,,Westover,Maryland,21890,(410) 845-4000,,,,,,,,,,,522
+Transition Center,Eastern Pre-Release Unit,700 Flat Iron Square Rd,,Church Hill,Maryland,21623,(410) 810-5400,,,,,,,,,,,523
+State Correctional Facility,Herman L. Toulson Correctional Facility(Formerly TBC) - CLOSED,,,,Maryland,,,,,,,,,,,,,524
+State Correctional Facility,Jessup Correctional Institution,7800 House of Correction Rd,,Jessup,Maryland,20794,(410) 799-6100,,,,,,,,,,,525
+Transition Center,Jessup Pre-Release Unit,2000 Toulson Rd,,Jessup,Maryland,20794,(410) 540-2700,,,,,,,,,,,526
+State Correctional Facility,Maryland Correctional Institution - Hagerstown,7931 Brock Bridge Rd,,Jessup,Maryland,20794,(410) 799-7610,,,,,,,,,,,527
+State Correctional Facility,Maryland Correctional Institution - Jessup,7804 House of Correction Rd,,Jessup,Maryland,20794,(410) 799-7610,,,,,,,,,,,528
+State Correctional Facility,Maryland Correctional Institution for Women,7932 Brock Bridge Rd,,Jessup,Maryland,20794,(410) 379-3800,,,,,,,,,,,529
+Transition Center,Maryland Correctional Pre-Release System Admin Offices,7931 Brock Bridge Rd,,Jessup,Maryland,20794,(410) 799-1363,,,,,,,,,,,530
+State Correctional Facility,Maryland Correctional Training Center,18800 Roxbury Rd,,Hagerstown,Maryland,21746,(240) 420-1601,,,,,,,,,,,531
+State Correctional Facility,"Maryland Reception, Diagnostic and Classification Center",550 E Madison St,,Baltimore,Maryland,21202,(410) 878-3500,,,,,,,,,,,532
+Transition Center,Metropolitan Transition Center,954 Forrest St,,Baltimore,Maryland,21202,(410) 837-2135,,,,,,,,,,,533
+State Correctional Facility,North Branch Correctional Institution,14100 Mcmullen Hwy Sw,,Cumberland,Maryland,21502,(301) 729-7400,,,,,,,,,,,534
+State Correctional Facility,Patuxent Institution,7555 Waterloo Rd,,Jessup,Maryland,20794,(410) 799-3400,,,,,,,,,,,535
+Transition Center,Poplar Hill Pre-Release Unit,24090 Nanticoke Road,,Quantico,Maryland,21856,(410) 845-4580,,,,,,,,,,,536
+State Correctional Facility,Roxbury Correctional Institution,18701 Roxbury Rd,,Hagerstown,Maryland,21746,(240) 420-3000,,,,,,,,,,,537
+Transition Center,Southern Maryland Pre-Release Unit,14320 Oaks Rd,,Charlotte Hall,Maryland,20622,(301) 274-4701,,,,,,,,,,,538
+State Correctional Facility,Threshold,1702 Saint Paul St,,Baltimore,Maryland,21202,(410) 727-0100,,,,,,,,,,,539
+State Correctional Facility,Western Correctional Institution,13800 McMullen Hwy SW,,Cumberland,Maryland,21502,(301) 729-7000,,,,,,,,,,,540
+State Correctional Facility,Baltimore Central Booking and Intake Center,300 E Madison St,,Baltimore,Maryland,21202,(410) 545-8122,,,,,,,,,,,541
+State Correctional Facility,Baltimore City Detention Center,401 E Eager St,,Baltimore,Maryland,21202,(410) 209-4001,,,,,,,,,,,542
+State Correctional Facility,Bay State CorrectionalCenter,28 Clark Street,P.O. Box 73,Norfolk,Massachusetts,02056-0073,(508) 668-1687,,,,,,,,,,,543
+State Correctional Facility,Boston Pre-Release Center,430 Canterbury St.,,Roslindale,Massachusetts,02131,(617) 822-5000,,,,,,,,,,,544
+State Correctional Facility,Bridgewater Correctional Complex,Administration Road,,Bridgewater,Massachusetts,02324,(508) 279-6000,,,,,,,,,,,545
+State Medical Facility,Bridgewater State Hospital,20 Administration Road,,Bridgewater,Massachusetts,02324,(508) 279-4500,,,,,,,,,,,546
+State Medical Facility,Lemuel Shattuck Hospital Correctional Unit,180 Morton Street,,Jamaica Plain,Massachusetts,02130,(617) 522-7585,,,,,,,,,,,547
+State Medical Facility,Massachusetts Alcohol and Substance Abuse Center,2 Administration Road,,Bridgewater,Massachusetts,02324,(508) 279-3500,,,,,,,,,,,548
+State Medical Facility,Massachusetts Treatment Facility,30 Administration Road,,Bridgewater,Massachusetts,02324,(508) 279-8100,,,,,,,,,,,549
+State Correctional Facility,MCI-Cedar Junction,2414 Main St,,Walpole,Massachusetts,02081,(508) 660-8000,,,,,,,,,,,550
+State Correctional Facility,MCI-Concord,965 Elm Street,P.O. Box 9106,Concord,Massachusetts,01742,(978) 405-6100,,,,,,,,,,,551
+State Correctional Facility,MCI-Framingham,99 Loring Drive,P.O. Box 9007,Framingham,Massachusetts,01704-9007,(508) 532-5100,,,,,,,,,,,552
+State Correctional Facility,MCI-Norfolk,2 Clark Street,P.O. Box 43,Norfolk,Massachusetts,02056,(508) 660-5900,,,,,,,,,,,553
+State Correctional Facility,MCI Plymouth,1 Bumps Pond Rd,,South Carver,Massachusetts,02366,(508) 291-2441,,,,,,,,,,,554
+State Correctional Facility,Shirley Correctional Complex,Harvard Road,,Shirley,Massachusetts,01464,(978) 425-4341,,,,,,,,,,,555
+State Correctional Facility,North Central Correctional Institute - Gardner,500 colony Road,P.O. Box 466,Gardner,Massachusetts,01440-0466,(978) 630-6000,,,,,,,,,,,556
+State Correctional Facility,Northeastern Correctional Center,976 Barrett's Mill Road,P.O. Box 1069,West Concord,Massachusetts,01742-1069,(978) 371-7941,,,,,,,,,,,557
+State Correctional Facility,Old Colony Correctional Center,Administration Road,,Bridgewater,Massachusetts,02324,(508) 279-6000,,,,,,,,,,,558
+State Correctional Facility,Pondville Correctional Center,Industries Drive,,Norfolk,Massachusetts,02056,(508) 660-3924,,,,,,,,,,,559
+State Correctional Facility,South Middlesex Correctional Center,135 Western Avenue,P.O. Box 850,Framingham,Massachusetts,01701-0850,(508) 879-1241,,,,,,,,,,,560
+State Correctional Facility,Souza-Baranowski Correctional Center,1 Harvard Road,,Shirley,Massachusetts,01464,(978) 514-6500,,,,,,,,,,,561
+State Correctional Facility,Alger Correctional Facility (LMF),N6141Industrial Park Drive,,Munising,Michigan,49862,(906) 387-5000,,,,,,,,,,,562
+State Correctional Facility,Baraga Correctional Facility (AMF),13924 Wadaga Road,,Baraga,Michigan,49908-9204,(906) 353-7070,,,,,,,,,,,563
+State Correctional Facility,Bellamy Creek Correctional Facility (IBC),1727 West Bluewater Highway,,Ionia,Michigan,48846,(616) 527-2510,,,,,,,,,,,564
+State Correctional Facility,Boyer Road Correctional Facility - Consolidated with Carson City,10274 Boyer Road,,Carson City,Michigan,48811,(989) 584-3941,,,,,,,,,,,565
+State Correctional Facility,Carson City Correctional Facility (DRF),10274 Boyer Road,,Carson City,Michigan,48811,(989) 584-3941,,,,,,,,,,,566
+State Correctional Facility,Central Michigan Correctional Facility (STF),320 N. Hubbard,,St. Louis,Michigan,48880,(989) 681-6668,,,,,,,,,,,567
+Transition Center,Charles Egeler Reception & Guidance Center (RGC),3855Cooper St.,,Jackson,Michigan,49201-7547,(517) 780-5600,,,,,,,,,,,568
+State Correctional Facility,Chippewa Correctional Facility (URF),4269 W. M-80,,Kincheloe,Michigan,49784,(906) 495-2275,,,,,,,,,,,569
+State Correctional Facility,Cooper Street Correctional Facility (JCS),3100 Cooper St.,,Jackson,Michigan,49201,(517) 780-6175,,,,,,,,,,,570
+Transition Center,Detroit Reentry Center (PRF),17600 Ryan Road,,Detroit,Michigan,48212,(313) 368-3200,,,,,,,,,,,571
+State Correctional Facility,Earnest C. Brooks Correctional Facility (LRF),2500 S. Sheridan Drive,,Muskegon Heights,Michigan,49444,(231) 773-9200,,,,,,,,,,,572
+State Correctional Facility,Florence Crane Correctional Facility (ACF) - CLOSED,38 Fourth Street,,Coldwater,Michigan,49036,(517) 279-9165,,,,,,,,,,,573
+State Correctional Facility,G. Robert Cotton Correctional Facility (JCF),3500 N. Elm Road,,Jackson,Michigan,49201,(517) 780-5000,,,,,,,,,,,574
+State Correctional Facility,Gus Harrison Correctional Facility (ARF),2727 East Beecher St.,,Adrian,Michigan,49221,(517) 265-3900,,,,,,,,,,,575
+State Correctional Facility,Ionia Correctional Facility (ICF),1576 W. Bluewater Highway,,Ionia,Michigan,48846,(616) 527-6331,,,,,,,,,,,576
+State Correctional Facility,Kinross Correctional Facility (KCF),16770 S. Watertower Drive,,Kincheloe,Michigan,49788,(906) 495-2282,,,,,,,,,,,577
+State Correctional Facility,Lakeland Correctional Facility (LCF),141 First St.,,Coldwater,Michigan,49036,(517) 278-6942,,,,,,,,,,,578
+State Correctional Facility,Macomb Correctional Facility (MRF),34625 26 Mile Rd.,,New Haven,Michigan,48048,(586) 749-4900,,,,,,,,,,,579
+State Correctional Facility,Marquette Branch Prison (MBP),1960 U.S. Hwy. 41 South,,Marquette,Michigan,49855,(906) 226-6531,,,,,,,,,,,580
+State Correctional Facility,Michigan Reformatory (RMI),1342 W. Main,,Ionia,Michigan,48846,(616) 527-2500,,,,,,,,,,,581
+State Correctional Facility,Mid-Michigan/Pine River Correctional Facility NKA Central Michigan Correctional Facility,320 N. Hubbard,,St. Louis,Michigan,48880,(989) 681-6668,,,,,,,,,,,582
+State Correctional Facility,Mound Correctional Facility (NRF) - Closed,17601 Mound Road,,Detroit,Michigan,48212,(313) 368-8300,,,,,,,,,,,583
+State Correctional Facility,Muskegon Correctional Facility (MCF),2400 S. Sheridan Drive,,Muskegon,Michigan,49442,(231) 773-3201,,,,,,,,,,,584
+State Correctional Facility,Newberry Correctional Facility (NCF),13747 E. County Road 428,,Newberry,Michigan,49868,(906) 293-6200,,,,,,,,,,,585
+State Correctional Facility,Oaks Correctional Facility (ECF),1500 Caberfae Highway,,Manistee,Michigan,49660,(231) 723-8272,,,,,,,,,,,586
+State Correctional Facility,Ojibway Correctional Facility (OCF),N 5705 Ojibway Road,,Marenisco,Michigan,49947-9771,(906) 787-2217,,,,,,,,,,,587
+State Correctional Facility,Parnall Correctional Facility (SMT),1780 E. Parnall,,Jackson,Michigan,49201,(517) 780-6004,,,,,,,,,,,588
+State Correctional Facility,Parr Highway Correctional Facility - Consolidated with Gus Harrison,2727 East Beecher St.,,Adrian,Michigan,49221,(517) 263-3500,,,,,,,,,,,589
+State Correctional Facility,Pugsley Correctional Facility (MPF),7401 East Walton Road,,Kingsley,Michigan,49649,(231) 263-5253,,,,,,,,,,,590
+State Correctional Facility,Richard A. Handlon Correctional Facility (MTU),1728 Bluewater Highway,,Ionia,Michigan,48846,(616) 527-3100,,,,,,,,,,,591
+State Correctional Facility,Saginaw Correctional Facility (SRF),9625 Pierce Rd.,,Freeland,Michigan,48623,(989) 695-9880,,,,,,,,,,,592
+State Correctional Facility,Special Alternative Incarceration Facility (SAI),18901 Waterloo Rd.,,Chelsea,Michigan,48118,(734) 475-1368,,,,,,,,,,,593
+State Correctional Facility,St. Louis Correctional Facility (SLF),8585 N. Croswell Road,,St. Louis,Michigan,48880,(989) 681-6444,,,,,,,,,,,594
+State Correctional Facility,Straits Correctional Facility - Consolidated with Chippewa,4387 W. M-80,,Kincheloe,Michigan,49785,(906) 495-5674,,,,,,,,,,,595
+State Correctional Facility,Thumb Correctional Facility (TCF),3225 John Conley Drive,,Lapeer,Michigan,48446,(810) 667-2045,,,,,,,,,,,596
+State Correctional Facility,West Shoreline Correctional Facility (MTF),2500 S. Sheridan Drive,,Muskegon Heights,Michigan,49444,(231) 773-9200,,,,,,,,,,,597
+State Correctional Facility,Women's Huron Valley Correctional Facility (WHV),3201 Bemis Road,,Ypsilanti,Michigan,48197-0911,(734)572-9900,,,,,,,,,,,598
+State Correctional Facility,Woodland Center Correctional Facility (WCC),9036 E. M-36,,Whitmore Lake,Michigan,48189,(734) 449-3320,,,,,,,,,,,599
+State Correctional Facility,Minnesota Correctional Facility - Faribault,1101 Linden Lane,,Faribault,Minnesota,55021-6400,(507) 334-0700,,,,,,,,,,,600
+State Correctional Facility,Minnesota Correctional Facility - Lino Lakes,7525 Fourth Avenue,,Lino Lakes,Minnesota,55014,(651) 717-6100,,,,,,,,,,,601
+State Correctional Facility,Minnesota Correctional Facility - Oak Park Heights,5329 Osgood Avenue North,,Stillwater,Minnesota,55082-1117,(651) 779-1400,,,,,,,,,,,602
+State Correctional Facility,Minnesota Correctional Facility - Red Wing,1079 Highway 292,,Red Wing,Minnesota,55066,(651) 267-3600,,,,,,,,,,,603
+State Correctional Facility,Minnesota Correctional Facility - Rush City,7600 - 525th St.,,Rush City,Minnesota,55069,(320) 358-0400,,,,,,,,,,,604
+State Correctional Facility,Minnesota Correctional Facility - St. Cloud,2305 Minnesota Boulevard S.E.,,St. Cloud,Minnesota,56304,(320) 240-300,,,,,,,,,,,605
+State Correctional Facility,Minnesota Correctional Facility - Shakopee,1010 West Sixth Avenue,,Shakopee,Minnesota,55379,(952) 496-4440,,,,,,,,,,,606
+State Correctional Facility,Minnesota Correctional Facility - Stillwater,970 Pickett Street,,Bayport,Minnesota,55003-1490,(651) 779-2700,,,,,,,,,,,607
+State Correctional Facility,Minnesota Correctional Facility - Willow River/moose Lake,1000 Lake Shore Drive,,Moose Lake,Minnesota,55767,(218) 485-5000,,,,,,,,,,,608
+Work Camps / Work Release / Road Prisons,Minnesota Correctional Facility - Togo,62741 Co Rd. 551,,Togo,Minnesota,55723,(218) 376-4411,,,,,,,,,,,609
+Contract Facility,Prairie Correctional Facility - CLOSED,445 South Munsterman Street,,Appleton,Minnesota,56208,,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,610
+Contract Facility,Adams County Correctional Center,20 Hobo Fork Road,,Natchez,Mississippi,39120,(601) 304-2500,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,611
+State Correctional Facility,Central Mississippi Correctional Facility,3794 Mississippi 468,Post Office Box 88550,Pearl,Mississippi,39208,(601) 932-2880,,,,,,,,,,,612
+State Correctional Facility,Mississippi State Penitentiary,Hwy 49 West,,Parchman,Mississippi,38738,(662) 745-6611,,,,,,,,,,,613
+State Correctional Facility,South Mississippi Correctional Institution,22689 Mississippi 63,,Leakesville,Mississippi,39451,(601) 394-5600,,,,,,,,,,,614
+State Correctional Facility,Alcorn County Regional Correctional Facility,2839 South Harper Rd.,,Corinth,Mississippi,38834,(662) 286-7085,,,,,,,,,,,615
+State Correctional Facility,Bolivar County Correctional Facility,2792 Hwy 8 West,,Cleveland,Mississippi,38732,(662) 843-3284 Ext. 2956,,,,,,,,,,,616
+State Correctional Facility,Carroll-Montgomery County/Regional Correctional Facility,33714 MS Highway 35,,Vaiden,Mississippi,39176,(662) 464-5440,,,,,,,,,,,617
+State Correctional Facility,Chickasaw County RCF,120 Lancaster Cr,,Houston,Mississippi,38851,(662) 456-3319,,,,,,,,,,,618
+State Correctional Facility,Holmes-Humphreys County/Regional Correctional Facility,23234 Hwy. 12 East,,Lexington,Mississippi,39095,(662) 834-5016,,,,,,,,,,,619
+State Correctional Facility,Issaquena County Correctional Facility,,,,Mississippi,39113,(662) 873-2153,"32 53.998', -91 2.929'",32.8999667,-91.0488167,,,,,,,,620
+State Correctional Facility,Jefferson-Franklin County/Regional Correctional Facility,279 Highway 33,P.O. Box 218,Fayette,Mississippi,39069,(601) 786-2284,,,,,,,,,,,621
+State Correctional Facility,Kemper-Neshoba County/Regional Correctional Facility,374 Stennis Industrial Park Road,,DeKalb,Mississippi,39328,(601) 743-5767,,,,,,,,,,,622
+State Correctional Facility,Leake County Correctional Facility,399 C. O. Brooks Street,,Carthage,Mississippi,39051,(601) 298-9003,,,,,,,,,,,623
+State Correctional Facility,Marion-Walthall County/Regional Correctional Facility,503 South Main Street,,Columbia,Mississippi,39429,(601) 736-3621,,,,,,,,,,,624
+State Correctional Facility,Winston-Choctaw County/Regional Correctional Facility,P.O Drawer 1437,,Louisville,Mississippi,39339,(662) 773-2528,,,,,,,,,,,625
+State Correctional Facility,Stone County Correctional Facility,1420 Industrial Park Road,,Wiggins,Mississippi,39577,(601) 928-7042,,,,,,,,,,,626
+State Correctional Facility,Yazoo County Correctional Facility,154 Roosevelt Hudson Dr,,Yazoo City,Mississippi,39194,(662) 751-8484,,,,,,,,,,,627
+State Correctional Facility,George-Greene County/Regional Correctional Facility,154 Industrial Park Rd.,,Lucedale,Mississippi,39452,(601) 947-9399,,,,,,,,,,,628
+State Correctional Facility,Washington County/Regional Correctional Facility,60 Stokes King Road,,Greenville,Mississippi,38701,(662) 537-2000,,,,,,,,,,,629
+Contract Facility,East Mississippi Correctional Facility,10641 Highway 80 East,,Meridian,Mississippi,39307,(601) 485-5255,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,630
+Contract Facility,Marshall County Correctional Facility,833 West Street,,Holly Springs,Mississippi,38634,(662) 252-7111,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,631
+Contract Facility,Tallahatchie County Correctional Facility,,,Tutwiler,Mississippi,38963,(622) 345-6567,"34 1.618', -90 26.727'",34.0269667,-90.44545,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,632
+Contract Facility,Wilkinson County Correctional Center,2999 US Highway 61 North,,Woodville,Mississippi,39669,(601) 888-3199,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,633
+Contract Facility,Walnut Grove Correctional Facility,1650 Mississippi 492,,Walnut Grove,Mississippi,39189,(601) 253-2348,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,634
+State Correctional Facility,Algoa Correctional Center (Minimum),8501 No More Victims Road,,Jefferson City,Missouri,65101,(573) 751-3911,,,,,,,,,,,635
+State Correctional Facility,Boonville Correctional Center (Minimum),1216 East Morgan Street,,Boonville,Missouri,65233-1300,(660) 882-6521,,,,,,,,,,,636
+State Correctional Facility,Chillicothe Correctional Center (Minimum/Medium/Maximum),3151 Litton Road,,Chillicothe,Missouri,64601,(660) 646-4032,,,,,,,,,,,637
+Transition Center,Cremer Therapeutic Community Center,,,Fulton,Missouri,65251,(573) 592-4013,"38 50.701', -91 56.297'",38.8450167,-91.9382833,,,,,,,,638
+State Correctional Facility,Crossroads Correctional Center (Maximum/Medium),1115 East Pence Road,,Cameron,Missouri,64429,(816) 632-2727,,,,,,,,,,,639
+State Correctional Facility,Eastern Reception Diagnostic and Correctional Center (Minimum/Medium/Maximum Diagnostic),2727 Highway K,,Bonne Terre,Missouri,63628,(573) 358-5516,,,,,,,,,,,640
+State Correctional Facility,Farmington Correctional Center (Medium/Minimum),1012 West Columbia Street,,Farmington,Missouri,63640,(573) 218-7100,,,,,,,,,,,641
+Transition Center,Fulton Reception and Diagnostic Center (Minimum Diagnostic),1393 Highway O PO Box 190,,Fulton,Missouri,65251,(573) 592-4040,,,,,,,,,,,642
+State Correctional Facility,Jefferson City Correctional Center (Maximum/Medium),8200 No More Victims Road,,Jefferson City,Missouri,65101,(573) 751-3224,,,,,,,,,,,643
+State Correctional Facility,Maryville Treatment Center (Minimum),30227 US Highway 136,,Maryville,Missouri,64468,(660) 582-6542,,,,,,,,,,,644
+State Correctional Facility,Missouri Eastern Correctional Center (Medium/Minimum),18701 US Highway 66,,Pacific,Missouri,63069,(636) 257-3322,,,,,,,,,,,645
+State Correctional Facility,Moberly Correctional Center (Medium/Minimum),5201 South Morley,,Moberly,Missouri,65270,(660) 263-3778,,,,,,,,,,,646
+State Correctional Facility,Northeast Correctional Center (Medium/Minimum),13698 Airport Road,,Bowling Green,Missouri,63334,(573) 324-9975,,,,,,,,,,,647
+State Correctional Facility,Ozark Correctional Center (Minimum),929 Honor Camp Lane,,Fordland,Missouri,65652,(417) 767-4491,,,,,,,,,,,648
+State Correctional Facility,Potosi Correctional Center (Minimum/Medium/Maximum),11593 State Highway O,,Mineral Point,Missouri,63660,(573) 438-6000,,,,,,,,,,,649
+State Correctional Facility,South Central Correctional Center (Minimum/Medium/Maximum),255 West Highway 32,,Licking,Missouri,65542,(573) 674-4470,,,,,,,,,,,650
+State Correctional Facility,Southeast Correctional Center (Minimum/Medium Maximum),300 East Pedro Simmons Drive,,Charleston,Missouri,63834,(573) 683-4409,,,,,,,,,,,651
+State Correctional Facility,Tipton Correctional Center (Minimum),619 North Osage Avenue,,Tipton,Missouri,65081,(660) 433-2031,,,,,,,,,,,652
+State Correctional Facility,Western Missouri Correctional Center (Medium Minimum),609 East Pence Road,,Cameron,Missouri,64429,(816) 632-1390,,,,,,,,,,,653
+Transition Center,Western Reception Diagnostic and Correctional Center (Minimum Diagnostic),3401 Faraon,,St Joseph,Missouri,64506,(816) 387-2158,,,,,,,,,,,654
+State Correctional Facility,Women's Eastern Reception Diagnostic and Correctional Center (Minimum/Medium/Maximum Diagnostic),1101 East Highway 54,,Vandalia,Missouri,63382,(573) 594-6686,,,,,,,,,,,655
+State Correctional Facility,Montana State Prison - Deer Lodge,400 Conley Lake Road,,Deer Lodge,Montana,59722,(406) 846-1320,,,,,,,,,,,656
+Contract Facility,Crossroads Correctional Center,50 Crossroads Drive,,Shelby,Montana,59474,(406) 434-7055,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,657
+State Correctional Facility,Cascade County Regional Prison,3800 Ulm North Frontage Road,,Great Falls,Montana,59404,(406) 454-6823,,,,,,,,,,,658
+State Correctional Facility,Dawson County Correctional Facility,440 Colorado Blvd.,,Glendive,Montana,59330,(406) 377-7687,,,,,,,,,,,659
+Transition Center,Lewistown Infirmary,800 Casino Creek Dr.,,Lewistown,Montana,59457,(406) 535-6923,,,,,,,,,,,660
+State Correctional Facility,Missoula County Detention Facility,2340 Mullan Rd.,,Missoula,Montana,59802,(406) 258-4000,,,,,,,,,,,661
+State Correctional Facility,Montana Women's Prison,701 S. 27th St.,,Billings,Montana,59101,(406)247-5100,,,,,,,,,,,662
+State Correctional Facility,Community Corrections Center - Lincoln,2720 W Van Dorn St,,Lincoln,Nebraska,68522,(402) 471-0740,,,,,,,,,,,663
+State Correctional Facility,Community Corrections Center - Omaha,2323 Ave J,,Omaha,Nebraska,68110,(402) 595-2010,,,,,,,,,,,664
+State Correctional Facility,Lincoln Correctional Center,3216 West Van Dorn St,,Lincoln,Nebraska,68522,(406)247-5100,,,,,,,,,,,665
+State Correctional Facility,Nebraska Correctional Center for Women,1107 Recharge Rd,,York,Nebraska,68467-8003,(402) 362-3317,,,,,,,,,,,666
+State Correctional Facility,Nebraska Correctional Youth Facility,2610 N 20th St East,,Omaha,Nebraska,68110,(402) 595-2000,,,,,,,,,,,667
+State Correctional Facility,Nebraska State Penitentiary,4201 So. 14th Street,,Lincoln,Nebraska,68502,(402) 479-3227,,,,,,,,,,,668
+State Correctional Facility,Tecumseh State Correctional Institution,,,Tecumseh,Nebraska,68450,(402) 335-5998,"40 24.135', -96 11.104'",40.40225,-96.1850667,,,,,,,,669
+Work Camps / Work Release / Road Prisons,Work Ethic Camp,2309 N. Hwy 83,,McCook,Nebraska,69001,(308) 345-8405,,,,,,,,,,,670
+State Correctional Facility,Ely State Prison (ESP),4569 North State Rt.,,Ely,Nevada,89301,(775) 289-8800,,,,,,,,,,,671
+State Correctional Facility,Florence McClure Women's Correctional Center (FMWCC),4370 Smiley Road,,Las Vegas,Nevada,89115-1808,(702) 668-7200,,,,,,,,,,,672
+State Correctional Facility,High Desert State Prison (HDSP),22010 Cold Creek Road,P.O. Box 650,Indian Springs,Nevada,89070,(702) 879-6789,,,,,,,,,,,673
+State Correctional Facility,Lovelock Correctional Center (LCC),1200 Prison Rd.,,Lovelock,Nevada,89419,(775) 688-1777,,,,,,,,,,,674
+State Correctional Facility,Nevada State Prison (NSP) - CLOSED,,,,Nevada,,,,,,,,,,,,,675
+State Correctional Facility,Northern Nevada Correctional Center (NNCC),1721 E. Snyder Ave.,P.O. Box 7000,Carson City,Nevada,89701,(775) 887-9297,,,,,,,,,,,676
+State Correctional Facility,Southern Desert Correctional Center (SDCC),22010 Cold Creek Road,P.O. Box 208,Indian Springs,Nevada,89070,(702) 879-3800,,,,,,,,,,,677
+State Correctional Facility,Southern Nevada Correctional Center (SNCC) - CLOSED,,,,Nevada,,,,,,,,,,,,,678
+State Correctional Facility,Warm Springs Correctional Center (WSCC),3301 E. 5th Street,P.O. Box 7007,Carson City,Nevada,89701,(775) 684-3000,,,,,,,,,,,679
+Contract Facility,Nevada Southern Detention Center,2190 East Mesquite Avenue,,Pahrump,Nevada,89060,(775) 751-4500,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,680
+Work Camps / Work Release / Road Prisons,Carlin Conservation Camp (CCC),124 Suzie Creek Road,P.O. Box 1490,Carlin,Nevada,89822,(775) 754-6307,,,,,,,,,,,681
+Work Camps / Work Release / Road Prisons,Ely Conservation Camp (ECC),HC 10 BOX 10813,,Ely,Nevada,89301,(775) 289-8430,,,,,,,,,,,682
+Work Camps / Work Release / Road Prisons,Humboldt Conservation Camp (HCC),8105 Conservation Road,P.O. Box 1069,Winnemucca,Nevada,89446,(775) 623-6530,,,,,,,,,,,683
+Work Camps / Work Release / Road Prisons,Jean Conservation Camp (JCC),3 Prison Rd.,P.O. Box 19859,Jean,Nevada,89019,(702) 874-2509,,,,,,,,,,,684
+Work Camps / Work Release / Road Prisons,Pioche Conservation Camp (PCC),1 Hardtimes Road,P.O. Box 509,Pioche,Nevada,89043,(775) 962-5125,,,,,,,,,,,685
+Work Camps / Work Release / Road Prisons,Silver Springs Conservation Camp (SSCC) - CLOSED,,,,Nevada,,,,,,,,,,,,,686
+Work Camps / Work Release / Road Prisons,Stewart Conservation Camp (SCC),1721 Snyder Ave.,P.O. Box 5005,Carson City,Nevada,89702,(775) 887-9310,,,,,,,,,,,687
+Work Camps / Work Release / Road Prisons,Three Lakes Valley Boot Camp (TLVBC),20825 Cold Creek Road,P.O. Box 208,Indian Springs,Nevada,89070,(702) 879-1369,,,,,,,,,,,688
+Work Camps / Work Release / Road Prisons,Three Lakes Valley Conservation Camp (TLVCC),20825 Cold Creek Road,P.O. Box 208,Indian Springs,Nevada,89070,(702) 879-5472,,,,,,,,,,,689
+Work Camps / Work Release / Road Prisons,Tonopah Conservation Camp (TCC),Gregg Cir,Box 8045,Tonopah,Nevada,89049,(775) 482-6700,,,,,,,,,,,690
+Work Camps / Work Release / Road Prisons,Wells Conservation Camp (WCC),HC 67-50,,Wells,Nevada,89835,(775) 478-5120,,,,,,,,,,,691
+Transition Center,Northern Nevada Restitution Center (NNRC),2595 E Second Street,,Reno,Nevada,89502,(775) 688-1140,,,,,,,,,,,692
+Transition Center,Casa Grande Transitional Housing (CGTH),3955 W. Russell Road,,Las Vegas,Nevada,89118-2316,(702) 486-9906,,,,,,,,,,,693
+State Correctional Facility,New Hampshire State Prison for Men,81 North State Street,,Concord,New Hampshire,03302-0014,(603) 271-1801,,,,,,,,,,,694
+State Correctional Facility,New Hampshire State Prison for Women,317 Mast Road,,Goffstown,New Hampshire,03045,(603) 668-6137,,,,,,,,,,,695
+State Correctional Facility,Northern NH Correctional Facility,138 East Milan Road,,Berlin,New Hampshire,03570,(603) 752-2906,,,,,,,,,,,696
+State Correctional Facility,Lakes Region Facility - CLOSED,,,,New Hampshire,,,,,,,,,,,,,697
+State Correctional Facility,Adult Diagnostic and Treatment Center,8 Production Way,,Avenel,New Jersey,07001,(732) 574-2250,,,,,,,,,,,698
+State Correctional Facility,Albert C. Wagner Youth Correctional Facility,,,BORDENTOWN,New Jersey,08505,(609) 298-0500,"40 9.580', -74 40.613'",40.1596667,-74.6768833,,,,,,,,699
+State Correctional Facility,Bayside State Prison,4293 RT. 47,,LEESBURG,New Jersey,08327,(856) 785-0040,,,,,,,,,,,700
+State Correctional Facility,Central Reception and Assignment Facility,,,Trenton,New Jersey,08628,(609) 984-6000,"40 14.865', -74 48.253'",40.24775,-74.8042167,,,,,,,,701
+State Correctional Facility,East Jersey State Prison,1100 Woodbridge Rd,,Rahway,New Jersey,07065,(732) 499-5010,,,,,,,,,,,702
+Contract Facility,Elizabeth Detention Center,625 Evans Street,,Elizabeth,New Jersey,07201,(908) 352-3776,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,703
+State Correctional Facility,Edna Mahan Correctional Facility for Women,30 Pittstown Rd,,Clinton,New Jersey,08809,(908) 735-7111,,,,,,,,,,,704
+State Correctional Facility,Garden State Youth Correctional Facility,99 Highbridge Rd,,Trenton,New Jersey,08620,(609) 298-6300,,,,,,,,,,,705
+State Correctional Facility,Mid-State Correctional Facility,,,Wrightstown,New Jersey,08562,(609) 723-4221,"39 59.882', -74 35.018'",39.9980333,-74.5836333,,,,,,,,706
+State Correctional Facility,Mountainview Youth Correctional Facility,31 Petticoat Lane,,Annandale,New Jersey,08801,(908) 638-6191,,,,,,,,,,,707
+State Correctional Facility,New Jersey State Prison,3rd St and Federal,,"Trenton,",New Jersey,08611,(609) 292-9700,,,,,,,,,,,708
+State Correctional Facility,Northern State Prison,168 Frontage Road,,Newark,New Jersey,07114,(973) 465-0068,,,,,,,,,,,709
+State Correctional Facility,South Woods State Prison,215 South Burlington Rd.,,Bridgeton,New Jersey,08302,(856) 459-7000,,,,,,,,,,,710
+State Correctional Facility,Southern State Correctional Facility,4295 Route 47,,Delmont,New Jersey,08314,(856) 785-1300,,,,,,,,,,,711
+Contract Facility,Northeast New Mexico Detention Facility,185 Dr. Michael Jenkins Road,,Clayton,New Mexico,88415,(575) 374-4005,"36 26.129', -103 7.425'",36.4354833,-103.12375,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,712
+State Correctional Facility,Springer Correctional Facility,,,Springer,New Mexico,87747,(575) 483-3100,"36 23.215', -104 37.559'",36.3869167,-104.6259833,,,,,,,,713
+State Correctional Facility,Penitentiary of New Mexico,4311 New Mexico 14,,Santa Fe,New Mexico,87504,(505) 827-8201,,,,,,,,,,,714
+Contract Facility,Cibola County Correctional Center,2000 Cibola Loop,,Milan,New Mexico,87021,(505) 285-4900,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,715
+Contract Facility,Torrance County Detention Facility,209 County Road AO49,,Estancia,New Mexico,87016,(505) 384-2711,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,716
+Contract Facility,New Mexico Women's Correctional Facility,1700 East Old Highway 66,P.O. Box 800,Grants,New Mexico,87020,(505) 287-2941,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,717
+State Correctional Facility,Western New Mexico Correctional Facility,2111 Lobo Canyon Road,,Grants,New Mexico,87020,(505) 876-8300,,,,,,,,,,,718
+State Correctional Facility,Central New Mexico Correctional Facility,1525 Morris Road,P.O. Drawer 1328,Los Lunas,New Mexico,87031-1328,(505) 383-3325,,,,,,,,,,,719
+Contract Facility,Guadalupe County Correctional Facility,,PO Box 520,Santa Rosa,New Mexico,,(575) 472-1001,"34 54.513', -104 42.182'",34.90855,-104.7030333,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,720
+State Correctional Facility,Roswell Correctional Center,578 W. Chickasaw Road,,Hagerman,New Mexico,88232,(575) 625.3100,,,,,,,,,,,721
+Contract Facility,Otero County Prison Facility,10 McGregor Range Road,,Chaparral,New Mexico,88081,(575) 824.4884,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,722
+Contract Facility,Lea County Correctional Facility,,,Hobbs,New Mexico,88244,(575) 392.4055,"32 45.844', -103 13.454'",32.7640667,-103.2242333,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,723
+State Correctional Facility,Adirondack Correctional Facility,196 Ray Brook Road,P.O. Box 110,Ray Brook,New York,12977-0110,(518) 891-1343,,,,,,,,,,,724
+State Correctional Facility,Albion Correctional Facility,3595 State School Road,,Albion,New York,14411-9399,(585) 589-5511,,,,,,,,,,,725
+State Correctional Facility,Altona Correctional Facility,555 Devils Den Road,P.O. Box 3000,Altona,New York,12910-2090,(518) 236-7841,,,,,,,,,,,726
+State Correctional Facility,Attica Correctional Facility,639 Exchange St,,Attica,New York,14011-0149,(585) 591-2000,,,,,,,,,,,727
+State Correctional Facility,Auburn Correctional Facility,135 State Street,,Auburn,New York,13024-9000,(315) 253-8401,,,,,,,,,,,728
+State Correctional Facility,Bare Hill Correctional Facility,181 Brand Rd.,Caller Box #20,Malone,New York,12953-0020,(518) 483-8411,,,,,,,,,,,729
+State Correctional Facility,Bedford Hills Correctional Facility,247 Harris Road,,Bedford Hills,New York,10507-2400,(914) 241-3100,,,,,,,,,,,730
+State Correctional Facility,Butler Correctional Facility,14001 Westbury Cutoff Rd,,Red Creek,New York,13143,(315) 754-8001,,,,,,,,,,,731
+State Correctional Facility,Cape Vincent Correctional Facility,36560 State Route 12E,,Cape Vincent,New York,13618-0599,(315) 654-4100,,,,,,,,,,,732
+State Correctional Facility,Cayuga Correctional Facility,2202 State Route 38A,,Moravia,New York,13118-1150,(315) 497-1110,,,,,,,,,,,733
+State Correctional Facility,Chateaugay Correctional Facility,7874 State Route 11,P.O. Box 320,Chateaugay,New York,12920-0320,(518) 497-3300,,,,,,,,,,,734
+State Correctional Facility,Clinton Correctional Facility,1156 Rt. 374,,Dannemora,New York,12929-2000,(518) 492-2511,,,,,,,,,,,735
+State Correctional Facility,Collins Correctional Facility,Middle Road,P.O. Box 490,Collins,New York,14034-0490,(716) 532-4588,,,,,,,,,,,736
+State Correctional Facility,Coxsackie Correctional Facility,11260 Route 9W,,Coxsackie,New York,12051-0200,(518) 731-2781,,,,,,,,,,,737
+State Correctional Facility,Downstate Correctional Facility,121 Red Schoolhouse Road,P.O. Box 445,Fishkill,New York,12524-0445,(845) 831-6600,,,,,,,,,,,738
+State Correctional Facility,Eastern NY Correctional Facility,30 Institution Rd,,Napanoch,New York,12458-0338,(845) 647-7400,,,,,,,,,,,739
+Transition Center,Edgecombe Residential Treatment Facility,611 Edgecombe Avenue,,New York,New York,10032-4398,(212) 923-2575,,,,,,,,,,,740
+State Correctional Facility,Elmira Correctional Facility,1879 Davis St,,Elmira,New York,14901-0500,(607) 734-3901,,,,,,,,,,,741
+State Correctional Facility,Fishkill Correctional Facility,18 Strack Drive,,Beacon,New York,12508-0307,(845) 831-4800,,,,,,,,,,,742
+State Correctional Facility,Five Points Correctional Facility,6600 State Route 96,Caller Box 400,Romulus,New York,14541,(607) 869-5111,,,,,,,,,,,743
+State Correctional Facility,Franklin Correctional Facility,62 Bare Hill Road,P.O. Box 10,Malone,New York,12953-0010,(518) 483-6040,,,,,,,,,,,744
+State Correctional Facility,Gouverneur Correctional Facility,112 Scotch Settlement Road,P.O. Box 370,Gouverneur,New York,13642-0370,(315) 287-7351,,,,,,,,,,,745
+State Correctional Facility,Gowanda Correctional Facility,South Road,P.O. Box 350,Gowanda,New York,14070-0350,(716) 532-0177,,,,,,,,,,,746
+State Correctional Facility,Great Meadow Correctional Facility,11739 State Route 22,P.O. Box 51,Comstock,New York,12821-0051,(518) 639-5516,,,,,,,,,,,747
+State Correctional Facility,Green Haven Correctional Facility,594 Rt. 216,,Stormville,New York,12582-0010,(845) 221-2711,,,,,,,,,,,748
+State Correctional Facility,Greene Correctional Facility,165 Plank Road,P.O. Box 8,Coxsackie,New York,12051-0008,(518) 731-2741,,,,,,,,,,,749
+State Correctional Facility,Groveland Correctional Facility,7000 Sonyea Road,P.O. Box 50,Sonyea,New York,14556-0050,(585) 658-2871,,,,,,,,,,,750
+State Correctional Facility,Hale Creek ASACTC,279 Maloney Road,,Johnstown,New York,12095-3769,(518) 736-2094,,,,,,,,,,,751
+State Correctional Facility,Hudson Correctional Facility,50 East Court Street,P.O. Box 576,Hudson,New York,12534-0576,(518) 828-4311,,,,,,,,,,,752
+State Correctional Facility,Lakeview Shock Incarceration Correctional Facility,9300 Lake Avenue,P.O. Box T,Brocton,New York,14716-9798,(716) 792-7100,,,,,,,,,,,753
+State Correctional Facility,Lincoln Correctional Facility,31-33 West 110th Street,,New York,New York,10026-4398,(212) 860-9400,,,,,,,,,,,754
+State Correctional Facility,Livingston Correctional Facility,7005 Sonyea Road,P.O. Box 49,Sonyea,New York,14556-0049,(585) 658-3710,,,,,,,,,,,755
+State Correctional Facility,Marcy Correctional Facility,9000 Old River Road,P.O. Box 5000,Marcy,New York,13403-5000,(315) 768-1400,,,,,,,,,,,756
+State Correctional Facility,Mid-State Correctional Facility,9005 Old River Road,P.O. Box 216,Marcy,New York,13403-0216,(315) 768-8581,,,,,,,,,,,757
+State Correctional Facility,Mohawk Correctional Facility,6514 Rt. 26,P.O. Box 8450,Rome,New York,13440,(315) 339-5232,,,,,,,,,,,758
+State Correctional Facility,Monterey Shock Incarceration Correctional Facility,2150 Evergreen Hill Road,,Beaver Dams,New York,14812-9718,(607) 962-3184,,,,,,,,,,,759
+State Correctional Facility,Moriah Shock Incarceration Correctional Facility,75 Burhart Lane,P.0. Box 999,Mineville,New York,12956-0999,(518) 942-7561,,,,,,,,,,,760
+State Correctional Facility,Mt. McGregor Correctional Facility,1000 Mt. McGregor Road,P.O. Box 2071,Wilton,New York,12831-5071,(518) 587-3960,,,,,,,,,,,761
+State Correctional Facility,Ogdensburg Correctional Facility,One Correction Way,,Ogdensburg,New York,13669-2288,(315) 393-0281,,,,,,,,,,,762
+State Correctional Facility,Orleans Correctional Facility,3595 Gaines Basin Road,,Albion,New York,14411-9199,(585) 589-6820,,,,,,,,,,,763
+State Correctional Facility,Otisville Correctional Facility,57 Sanitorium Road,P.O. Box 8,Otisville,New York,10963-0008,(845) 386-1490,,,,,,,,,,,764
+Contract Facility,Queens Detention Facility,182-22 150th Avenue,,Jamaica,New York,11413,(718) 553-5420,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,765
+State Correctional Facility,Queensboro Correctional Facility,47-04 Van Dam Street,,Long Island City,New York,,(718) 361-8920,,,,,,,,,,,766
+State Correctional Facility,Riverview Correctional Facility,1110 Tibbits Drive,P.O. Box 158,Ogdensburg,New York,13669-0158,(315) 393-8400,,,,,,,,,,,767
+State Correctional Facility,Rochester Correctional Facility,470 Ford Street,,Rochester,New York,14608-2499,(585) 454-2280,,,,,,,,,,,768
+State Correctional Facility,Shawangunk Correctional Facility,200 Quick Road,P.O. Box 750,Wallkill,New York,12589-0750,(845) 895-2081,,,,,,,,,,,769
+State Correctional Facility,Sing Sing Correctional Facility,354 Hunter Street,,Ossining,New York,10562-5442,(914) 941-0108,,,,,,,,,,,770
+State Correctional Facility,Southport Correctional Facility,236 Bob Masia Drive,P.O. Box 2000,Pine City,New York,14871-2000,(607) 737-0850,,,,,,,,,,,771
+State Correctional Facility,Sullivan Correctional Facility,325 Riverside Drive,P.O. Box 116,Fallsburg,New York,12733-0116,(845) 434-2080,,,,,,,,,,,772
+State Correctional Facility,Taconic Correctional Facility,250 Harris Road,,Bedford Hills,New York,10507-2497,(914) 241-3010,,,,,,,,,,,773
+State Correctional Facility,Ulster Correctional Facility,750 Berme Road,P.O. Box 800,Napanoch,New York,12458-0800,(845) 647-1670,,,,,,,,,,,774
+State Correctional Facility,Upstate Correctional Facility,309 Bare Hill Road,P.O. Box 2000,Malone,New York,12953,(518) 483-6997,,,,,,,,,,,775
+State Correctional Facility,Wallkill Correctional Facility,50 McKendrick Road,P.O. Box G,Wallkill,New York,12589-0286,(845) 895-2021,,,,,,,,,,,776
+State Correctional Facility,Washington Correctional Facility,72 Lock Eleven Lane,P.O. Box 180,Comstock,New York,12821-0180,(518) 639-4486,,,,,,,,,,,777
+State Correctional Facility,Watertown Correctional Facility,23147 Swan Road,,Watertown,New York,13601-9340,(315) 782-7490,,,,,,,,,,,778
+State Correctional Facility,Wende Correctional Facility,3040 Wende Road,,Alden,New York,14004-1187,(716) 937-4000,,,,,,,,,,,779
+Transition Center,Willard Drug Treatment Campus,7116 County Route 132,P.O. Box 303,Willard,New York,14588-0303,(607) 869-5500,,,,,,,,,,,780
+State Correctional Facility,Woodbourne Correctional Facility,99 Prison Road,P.O. Box 1000,Woodbourne,New York,12788-1000,(845) 434-7730,,,,,,,,,,,781
+State Correctional Facility,Wyoming Correctional Facility,3203 Dunbar Road,P.O. Box 501,Attica,New York,14011-0501,(585) 591-1010,,,,,,,,,,,782
+State Correctional Facility,Albemarle Correctional Institution,44150 Airport Road,,New London,North Carolina,28127,(704) 422-3036,,,,,,,,,,,783
+State Correctional Facility,Alexander Correctional Institution,633 Old Landfill Road,,Taylorsville,North Carolina,28681,(828) 632-1331,,,,,,,,,,,784
+State Correctional Facility,Avery-Mitchell Correctional Institution,600 Amity Park Road,,Spruce Pine,North Carolina,28777,(828) 765-0229,,,,,,,,,,,785
+State Correctional Facility,Bertie Correctional Institution,218 Cooper Hill Road,,Windsor,North Carolina,27983,(252) 794-8600,,,,,,,,,,,786
+State Correctional Facility,Brown Creek Correctional Institution,248 Prison Camp Road,,Polkton,North Carolina,28135,(704) 694-2622,,,,,,,,,,,787
+State Correctional Facility,Buncombe Correctional Center,2988 Riverside Dr.,,Asheville,North Carolina,28804,(828) 645-7630,,,,,,,,,,,788
+State Correctional Facility,Caldwell Correctional Center,480 Pleasant Hill Road,,Lenoir,North Carolina,28645,(828) 726-2509,,,,,,,,,,,789
+State Correctional Facility,Caledonia Correctional Institution,2787 Caledonia Drive,,Tillery,North Carolina,27882,(252) 826-5621,,,,,,,,,,,790
+State Correctional Facility,Carteret Correctional Center,1084 Orange Street,,Newport,North Carolina,28570,(252) 223-5100,,,,,,,,,,,791
+State Correctional Facility,Caswell Correctional Center,444 County Home Road,,Blanch,North Carolina,27212,(336) 694-4531,,,,,,,,,,,792
+State Correctional Facility,Catawba Correctional Center,1347 Prison Camp Road,,Newton,North Carolina,28658,(828) 466-5521,,,,,,,,,,,793
+State Correctional Facility,Central Prison,1300 Western Blvd.,,Raleigh,North Carolina,27606,(919) 733-0800,,,,,,,,,,,794
+State Correctional Facility,Columbus Correctional Institution,1255 Prison Camp Road,,Brunswick,North Carolina,28424,(910) 642-3285,,,,,,,,,,,795
+State Correctional Facility,Craggy Correctional Center,2992 Riverside Drive,,Asheville,North Carolina,28804,(828) 645-5315,,,,,,,,,,,796
+State Correctional Facility,Craven Correctional Institution,600 Alligator Road,,Vanceboro,North Carolina,28586,(252) 244-3337,,,,,,,,,,,797
+Work Camps / Work Release / Road Prisons,Dan River Prison Work Farm,981 Murray Road,,Blanch,North Carolina,27212,(336) 694-1583,,,,,,,,,,,798
+State Correctional Facility,Davidson Correctional Center,1400 Thomason Street,,Lexington,North Carolina,27292,(336) 249-7528,,,,,,,,,,,799
+State Correctional Facility,Eastern Correctional Institution,2821 Hwy 903,,Maury,North Carolina,28554,(252) 747-8101,,,,,,,,,,,800
+State Correctional Facility,Foothills Correctional Institution,5150 Western Avenue,,Morganton,North Carolina,28655,(828) 438-5585,,,,,,,,,,,801
+State Correctional Facility,Forsyth Correctional Center,307 Craft Drive,,Winston-Salem,North Carolina,27105,(336) 896-7041,,,,,,,,,,,802
+State Correctional Facility,Fountain Correctional Center for Women,300 Fountain School Road,,Rocky Mount,North Carolina,27804,(252) 442-9712,,,,,,,,,,,803
+State Correctional Facility,Franklin Correctional Center,5918 Hwy 39 South,,Bunn,North Carolina,27508,(919) 496-6119,,,,,,,,,,,804
+State Correctional Facility,Gaston Correctional Center,520 Justice Court,,Dallas,North Carolina,28034,(704) 922-3861,,,,,,,,,,,805
+State Correctional Facility,Greene Correctional Institution,2699 Hwy 903,,Maury,North Carolina,28554,(252) 747-3676,,,,,,,,,,,806
+State Correctional Facility,Harnett Correctional Institution,1210 E. McNeil Street,,Lillington,North Carolina,27546,(910) 893-2751,,,,,,,,,,,807
+State Correctional Facility,Hoke Correctional Institution,243 Old Hwy 211,,Raeford,North Carolina,28376,(910) 944-7612,,,,,,,,,,,808
+State Correctional Facility,Johnston Correctional Institution,2465 US 70 West,,Smithfield,North Carolina,27577,(919) 934-8386,,,,,,,,,,,809
+State Correctional Facility,Lanesboro Correctional Institution,552 Prison Camp Road,,Polkton,North Carolina,28135,(704) 695-1013,,,,,,,,,,,810
+State Correctional Facility,Lincoln Correctional Center,464 Roper Drive,,Lincolnton,North Carolina,28092,(704) 735-0485,,,,,,,,,,,811
+State Correctional Facility,Lumberton Correctional Institution,75 Legend Road,,Lumberton,North Carolina,28359,(910) 618-5574,,,,,,,,,,,812
+State Correctional Facility,Marion Correctional Institution,355 Old Glenwood Rd,,Marion,North Carolina,28752,(828) 659-7810,,,,,,,,,,,813
+State Correctional Facility,Maury Correctional Institution,2568 Moore Rouse Road,,Hookerton,North Carolina,28538,(252) 747-1400,,,,,,,,,,,814
+State Correctional Facility,Morrison Correctional Institution,1573 McDonald Church Road,,Hoffman,North Carolina,28347,(910) 281-3161,,,,,,,,,,,815
+Contract Facility,Mountain View Correctional Institution,545 Amity Park Road,,Spruce Pine,North Carolina,28777,(828) 766-2555,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,816
+State Correctional Facility,Nash Correctional Institution,2869 US 64 Alt,,Nashville,North Carolina,27856,(252) 459-4455,,,,,,,,,,,817
+State Correctional Facility,Neuse Correctional Institution,701 Stevens Mill Rd,,Goldsboro,North Carolina,27530,(919) 731-2023,,,,,,,,,,,818
+State Correctional Facility,New Hanover Correctional Center,330 Division Drive,,Wilmington,North Carolina,28402,(910) 251-2666,,,,,,,,,,,819
+State Correctional Facility,North Carolina Correctional Institution for Women,1034 Bragg Street,,Raleigh,North Carolina,27610,(919) 733-4340,,,,,,,,,,,820
+State Correctional Facility,North Piedmont Correctional Center for Women,1420 Raleigh Road,,Lexington,North Carolina,27292,(336) 242-1259,,,,,,,,,,,821
+State Correctional Facility,Odom Correctional Institution,485 Odom Prison Rd,,Jackson,North Carolina,27845,(252) 534-5611,,,,,,,,,,,822
+State Correctional Facility,Orange Correctional Center,2110 Clarence Walters Road,,Hillsborough,North Carolina,27278,(919) 732-9301,,,,,,,,,,,823
+State Correctional Facility,Pamlico Correctional Institution,601 North Third Street,,Bayboro,North Carolina,28515,(252) 745-3074,,,,,,,,,,,824
+State Correctional Facility,Pasquotank Correctional Institution,527 Commerce Drive,,Elizabeth City,North Carolina,27906,(252) 331-4881,,,,,,,,,,,825
+State Correctional Facility,Pender Correctional Institution,906 Penderlea Highway,,Burgaw,North Carolina,28425,(910) 259-8735,,,,,,,,,,,826
+State Correctional Facility,Piedmont Correctional Institution,1245 Camp Road,,Salisbury,North Carolina,28147,(704) 639-7540,,,,,,,,,,,827
+State Correctional Facility,Polk Correctional Institution,1001 Veazey Road,,Butner,North Carolina,27509,(919) 575-3070,,,,,,,,,,,828
+State Correctional Facility,Raleigh Correctional Center for Women,1201 South State St.,,Raleigh,North Carolina,27610,(919) 733-4248,,,,,,,,,,,829
+State Correctional Facility,Randolph Correctional Center,2760 US Hwy 220 Bus,,Asheboro,North Carolina,27203,(336) 625-2578,,,,,,,,,,,830
+Contract Facility,Rivers Correctional Institution,145 Parker's Fishery Road,PO Box 840,Winton,North Carolina,27986,(252) 358-5200,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,831
+State Correctional Facility,Rutherford Correctional Center,549 Ledbetter Road,,Spindale,North Carolina,28160,(828) 286-4121,,,,,,,,,,,832
+State Correctional Facility,Sampson Correctional Institution,"700 Northwest Blvd, Hwy 421 N",,Clinton,North Carolina,28328,(910) 592-2151,,,,,,,,,,,833
+State Correctional Facility,Sanford Correctional Center,417 Advancement Center Road,,Sanford,North Carolina,27330,(919) 776-4325,,,,,,,,,,,834
+State Correctional Facility,Scotland Correctional Institution,22385 McGirt's Bridge Rd.,,Laurinburg,North Carolina,28353,(910) 844-3078,,,,,,,,,,,835
+State Correctional Facility,Southern Correctional Institution,272 Glen Road,,Troy,North Carolina,27371,(910) 572-3784,,,,,,,,,,,836
+State Correctional Facility,Swannanoa Correctional Center for Women,55 Lake Eden Road,,Black Mountain,North Carolina,28711,(828) 259-6000,,,,,,,,,,,837
+State Correctional Facility,Tabor Correctional Institution,4600 Swamp Fox Hwy,,West Tabor City,North Carolina,28463,(910) 653-6413,,,,,,,,,,,838
+State Correctional Facility,Tillery Correctional Center,1984 Caledonia Drive,State Rd. 1141,Tillery,North Carolina,27887,(252) 826-4165,,,,,,,,,,,839
+Work Camps / Work Release / Road Prisons,Tyrrell Prison Work Farm,Snell Road,,Columbia,North Carolina,27925,(252) 796-1085,,,,,,,,,,,840
+State Correctional Facility,Wake Correctional Center,1000 Rock Quarry Road,,Raleigh,North Carolina,27610,(919) 733-7988,,,,,,,,,,,841
+State Correctional Facility,Warren Correctional Institution,379 Collins Road,,Manson,North Carolina,27553,(252) 456-3400,,,,,,,,,,,842
+State Correctional Facility,Wilkes Correctional Center,404 Statesville Road,,North Wilkesboro,North Carolina,28659,(336) 667-4533,,,,,,,,,,,843
+State Correctional Facility,North Dakota State Penitentiary,3100 Railroad Avenue,PO Box 5521,Bismarck,North Dakota,58506-5521,(701) 328-6100,,,,,,,,,,,844
+State Correctional Facility,Dakota Women's Correctional and Rehabilitation Center,440 McKenzie Street,,New England,North Dakota,58647,(701) 579-5100,,,,,,,,,,,845
+State Correctional Facility,James River Correctional Center,2521 Circle Drive,,Jamestown,North Dakota,58401,(701) 253-3660,,,,,,,,,,,846
+State Correctional Facility,Missouri River Correctional Center,1800 48th Avenue S.W.,,Bismarck,North Dakota,58506,(701) 328-9696,,,,,,,,,,,847
+State Correctional Facility,North Dakota Youth Correctional Center,701 16th Ave SW,,Mandan,North Dakota,58554,(701) 667-1400,,,,,,,,,,,848
+State Correctional Facility,Lucas County Correctional Treatment Facility,1100 Jefferson Ave.,,Toledo,Ohio,43624,(419) 213-6200,,,,,,,,,,,849
+State Correctional Facility,"Community Correctional Center of Butler, Clermont and Warren Counties (Male Facility)",5234 State Route 63,,Lebanon,Ohio,45036,(513) 933-9304,,,,,,,,,,,850
+State Correctional Facility,Crosswaeh Community Based Correctional Facility (Male Facility),3055 South State Rte 100,P O Box 350,Tiffin,Ohio,44883,(419) 447-1444,,,,,,,,,,,851
+State Correctional Facility,Crosswaeh Community Based Correctional Facility (Female Facility),3091 South State Route 100,P O Box 350,Tiffin,Ohio,44883,(419) 447-1444,,,,,,,,,,,852
+State Correctional Facility,Cuyahoga Community Based Correctional Facility,3540Croton Avenue,,Cleveland,Ohio,44115,(216) 698-3100,,,,,,,,,,,853
+State Correctional Facility,Eastern Ohio Correction Center - (Male Facility),470 State Route 43,P.O. Box 2400,Wintersville,Ohio,43953,(740) 765-4324,,,,,,,,,,,854
+State Correctional Facility,Eastern Ohio Correction Center - (Female Facility),227 N. Market Street,,Lisbon,Ohio,44432,(330) 420-0288,,,,,,,,,,,855
+State Correctional Facility,Franklin County Community Based Correctional Facility (Male and Female Facility),1745 Alum Creek Drive,,Columbus,Ohio,43207,(614) 525-4600,,,,,,,,,,,856
+State Correctional Facility,Licking/Muskingum Community Correction Center (Male Facility),119 East Main Street,,Newark,Ohio,43055,(740) 670-5366,,,,,,,,,,,857
+State Correctional Facility,Lorain/Medina Community Based Correctional Facility (Male and Female Facility),9892 Murray Ridge Rd.,,Elyria,Ohio,44035,(440) 281-9708,,,,,,,,,,,858
+Contract Facility,CBCF - Mahoning CCA,1507 Market Street,,Youngstown,Ohio,44507,(330) 744-5143,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,859
+Contract Facility,Northeast Ohio Correctional Center,2240 Hubbard Road,,Youngstown,Ohio,44505,(330) 746-3777,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,860
+Contract Facility,Lake Erie Correctional Institution,501 Thompson Road,,Conneaut,Ohio,44030-8668,(440) 599-4100,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,861
+Contract Facility,North Central Correctional Complex,670 Marion-Williamsport Road,,Marion,Ohio,43302,(740) 387-7040,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,862
+State Correctional Facility,MonDay Community Correctional Institution (Male and Female Facility),1951 S. Gettysburg Ave.,,Dayton,Ohio,45408,(937) 496-7300,,,,,,,,,,,863
+State Correctional Facility,NorthEast Ohio Community Alternative Program (NEOCAP) (Male and Female Facility),411 Pine Avenue S.E.,,Warren,Ohio,44483,(330) 675-2669,,,,,,,,,,,864
+State Correctional Facility,NorthWest Community Corrections Center (Male Facility),1740 E. Gypsy Lane Road,,Bowling Green,Ohio,43402,(419) 354-7444,,,,,,,,,,,865
+State Correctional Facility,River City Correctional Center (Male and Female Facility),3220 Colerain Avenue,,Cincinnati,Ohio,45225,(513) 946-6800,,,,,,,,,,,866
+State Correctional Facility,SEPTA Correctional Facility (Male Facility),7 W. Twenty-Nine Drive,,Nelsonville,Ohio,45764,(740) 753-5000,,,,,,,,,,,867
+State Correctional Facility,STAR Community Justice Center (Male and Female Facility),4578 Gallia Pike,,Franklin Furnace,Ohio,45629,(740) 354-9026,,,,,,,,,,,868
+State Correctional Facility,Stark Regional Community Correction Center (Male and Female Facility),4433 Lesh Street,,Louisville,Ohio,44641,(330) 588-2500,,,,,,,,,,,869
+State Correctional Facility,Summit County Community Based Correctional Facility (Male Facility),264 E Crosier Street,P O Box 1501,Akron,Ohio,44309,(330) 996-7296,,,,,,,,,,,870
+State Correctional Facility,Cliff Skeen CBCF for Women,941 Sherman Street,P O Box 1501,Akron,Ohio,44309,(330) 374-9610,,,,,,,,,,,871
+State Correctional Facility,West Central Community Correctional Facility (Male and Female Facility),18200 Ohio 4,,Marysville,Ohio,43040,(937) 644-2838,,,,,,,,,,,872
+State Correctional Facility,Western Ohio Regional Treatment and Habilitation Center (Male and Female Facility),243 E. Bluelick Rd,P.O. Box 5305,Lima,Ohio,45802-5305,(419) 222-3339,,,,,,,,,,,873
+State Correctional Facility,"Charles E. ""Bill"" Johnson Correctional Center",1856 E. Flynn Street,,Alva,Oklahoma,73717-3005,(580) 327-8000,,,,,,,,,,,874
+State Correctional Facility,Dick Conner Correctional Center,129 Conner Road,P.O. Box 220,Hominy,Oklahoma,74035-0220,(918) 594-1300,,,,,,,,,,,875
+State Correctional Facility,Dr. Eddie Warrior Correctional Center,400 Oak Street,P.O. Box 315,Taft,Oklahoma,74463-0315,(918) 683-8365,,,,,,,,,,,876
+State Correctional Facility,Howard McLeod Correctional Center,1970 E. Whippoorwill Lane,,Atoka,Oklahoma,74525-8415,(580) 889-6651,,,,,,,,,,,877
+State Correctional Facility,Jackie Brannon Correctional Center,900 N. West Street,,McAlester,Oklahoma,74502-1999,(918) 421-3339,,,,,,,,,,,878
+State Correctional Facility,James Crabtree Correctional Center,216 N. Murray Street,,Helena,Oklahoma,73741-1017,(580) 852-3221,,,,,,,,,,,879
+State Correctional Facility,Jess Dunn Correctional Center,601 South 124th Street West,,Taft,Oklahoma,74463-0316,(918) 682-7841,,,,,,,,,,,880
+State Correctional Facility,Jim E. Hamilton Correctional Center,53468 Mineral Springs Road,,Hodgen,Oklahoma,74939-3064,(918) 653-7831,,,,,,,,,,,881
+State Correctional Facility,John H. Lilley Correctional Center,105150 N. 3670 Rd,"Rt. 1, Box 407971",Boley,Oklahoma,74829,(918) 667-3381,,,,,,,,,,,882
+State Correctional Facility,Joseph Harp Correctional Center,16161 Moffat Rd.,P.O. Box 548,Lexington,Oklahoma,73051-0548,(405) 527-5593,,,,,,,,,,,883
+State Correctional Facility,Lexington Assessment & Reception Center,15151 Highway 39,P.O. Box 260,Lexington,Oklahoma,73051-0260,(405) 527-5676,,,,,,,,,,,884
+State Correctional Facility,Mabel Bassett Correctional Center,29501 Kickapoo Rd.,,McLoud,Oklahoma,74851,(405) 964-3020,,,,,,,,,,,885
+State Correctional Facility,Mack Alford Correctional Center,1151 North Highway 69,P.O. Box 220,Stringtown,Oklahoma,74569-0220,(580) 346-7301,,,,,,,,,,,886
+State Correctional Facility,Northeast Oklahoma Correctional Center,442586 E. 250 Road,,Vinita,Oklahoma,74301,(918) 256-3392,,,,,,,,,,,887
+State Correctional Facility,Oklahoma State Penitentiary,Corner of West & Stonewall,P.O. Box 97,McAlester,Oklahoma,74502-0097,(918) 423-4700,,,,,,,,,,,888
+State Correctional Facility,Oklahoma State Reformatory,1700 East First Street,P.O. Box 514,Granite,Oklahoma,73547-0514,(580) 480-3700,,,,,,,,,,,889
+State Correctional Facility,William S. Key Correctional Center,One William S. Key Boulevard,P.O. Box 61,Fort Supply,Oklahoma,73841-9718,(580) 766-2224,,,,,,,,,,,890
+Contract Facility,Cimarron Correctional Facility,3200 S. Kings Highway,,Cushing,Oklahoma,74023,(918) 225-3336,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,891
+Contract Facility,Davis Correctional Facility,6888 East 133rd Road,,Holdenville,Oklahoma,74848-9033,(405) 379-6400,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,892
+Contract Facility,Lawton Correctional Facility,8607 SE Flower Mound Road,,Lawton,Oklahoma,73501,(580) 351-2778,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,893
+Contract Facility,Diamondback Correctional Facility,,,Watonga,Oklahoma,73772,,,35.8822833,-98.3965167,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,,894
+Contract Facility,North Fork Correctional Facility,1605 East Main,,Sayre,Oklahoma,73662,(580) 928-8200,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,895
+Community Corrections,Clara Waters Community Corrections Center,9901 N I-35 Service Road,,Oklahoma City,Oklahoma,73131-5228,(405) 254-3200,,,,,,,,,,,896
+Community Corrections,Enid Community Corrections Center,2020 E. Maine Avenue,,Enid,Oklahoma,73701-6445,(580) 977-3800,,,,,,,,,,,897
+Community Corrections,Kate Barnard Community Corrections Center,3300 Martin Luther King Avenue,,Oklahoma City,Oklahoma,73111,(405) 425-2900,,,,,,,,,,,898
+Community Corrections,Lawton Community Corrections Center,605 Southwest Coombs Road,,Lawton,Oklahoma,73501-8294,(580) 248-6703,,,,,,,,,,,899
+Community Corrections,Oklahoma City Community Corrections Center,315 West I-44 Service Road,,Oklahoma City,Oklahoma,73118-7634,(405) 463-7800,,,,,,,,,,,900
+Community Corrections,Union City Community Corrections Center,700 North State Highway 81,P.O. Box 129,Union City,Oklahoma,73090-0129,(405) 483-5900,,,,,,,,,,,901
+State Correctional Facility,Coffee Creek Correctional Facility,24499 SW Grahams Ferry Road,,Wilsonville,Oregon,97070,(503) 570-6412,,,,,,,,,,,902
+State Correctional Facility,Deer Ridge Correctional Institution,3920 East Ashwood Road,,Madras,Oregon,97741,(541) 325-5999,,,,,,,,,,,903
+State Correctional Facility,Mill Creek Correctional Facility,5465 Turner Road SE,,Salem,Oregon,97317,(503) 378-2453,,,,,,,,,,,904
+State Correctional Facility,Oregon State Penitentiary,2605 State Street,,Salem,Oregon,97310-0505,(503) 378-2453,,,,,,,,,,,905
+State Correctional Facility,Santiam Correctional Institution,4005 Aumsville Hwy SE,,Salem,Oregon,97317,(503) 378-2144,,,,,,,,,,,906
+State Correctional Facility,Snake River Correctional Institution,777 Stanton Blvd,,Ontario,Oregon,97914-8335,(541) 881-5000,,,,,,,,,,,907
+State Correctional Facility,Two Rivers Correctional Institution,82911 Beach Access Rd,,Umatilla,Oregon,97882,(541) 922-2001,,,,,,,,,,,908
+State Correctional Facility,Columbia River Correctional Institution,9111 NE Sunderland Avenue,,Portland,Oregon,97211-1799,(503) 280-6646,,,,,,,,,,,909
+State Correctional Facility,Eastern Oregon Correctional Institution,2500 Westgate,,Pendleton,Oregon,97801-9699,(541) 276-0700,,,,,,,,,,,910
+State Correctional Facility,Oregon State Correctional Institution,3405 Deer Park Drive SE,,Salem,Oregon,97310-9385,(503) 373-0125,,,,,,,,,,,911
+State Correctional Facility,Powder River Correctional Facility,3600 - 13th Street,,Baker City,Oregon,97814-1346,(541) 523-6680,,,,,,,,,,,912
+State Correctional Facility,Shutter Creek Correctional Institution,95200 Shutters Landing Lane,,North Bend,Oregon,97459-0303,(541) 756-6666,,,,,,,,,,,913
+Work Camps / Work Release / Road Prisons,South Fork Forest Camp,48300 Wilson River Hwy,,Tillamook,Oregon,97141-9799,(503) 842-2811,,,,,,,,,,,914
+State Correctional Facility,Warner Creek Correctional Facility,20654 Rabbit Hill Road,,Lakeview,Oregon,97630-5000,(541) 947-8200,,,,,,,,,,,915
+State Correctional Facility,SCIAlbion,10745 Route 18,,Albion,Pennsylvania,16475-0001,(814) 756-5778,,,,,,,,,,,916
+State Correctional Facility,SCI Benner Township,301 Institution Drive,,Bellefonte,Pennsylvania,16823,(814) 353-3630,,,,,,,,,,,917
+State Correctional Facility,SCI Cambridge Springs,451 Fullerton Avenue,,Cambridge Springs,Pennsylvania,16403-1238,(814) 398-5400,,,,,,,,,,,918
+State Correctional Facility,SCIChester,500 E. Fourth Street,,Chester,Pennsylvania,19013,(610) 490-5412,,,,,,,,,,,919
+State Correctional Facility,SCI Coal Township,1 Kelley Drive,,Coal Township,Pennsylvania,17866-1020,(570) 644-7890,,,,,,,,,,,920
+State Correctional Facility,SCI Dallas,1000 Follies Rd,,Dallas,Pennsylvania,18612,(570) 675-1101,,,,,,,,,,,921
+State Correctional Facility,SCIFayette,50 Overlook Drive,,LaBelle,Pennsylvania,15450-1050,(724) 364-2200,,,,,,,,,,,922
+State Correctional Facility,SCI Forest,286 Woodland Drive,PO Box 307,Marienville,Pennsylvania,16239-0307,(814) 621-2110,,,,,,,,,,,923
+State Correctional Facility,SCI Frackville,1111 Altamont Boulevard,,Frackville,Pennsylvania,17931-2699,(570) 874-4516,,,,,,,,,,,924
+State Correctional Facility,SCI Graterford,,,Graterford,Pennsylvania,19426-0246,(610) 489-4151,"40 13.974', -75 25.933'",40.2329,-75.4322167,,,,,,,,925
+State Correctional Facility,SCI Greene,175 Progress Drive,,Waynesburg,Pennsylvania,15370,(724) 852-2902,,,,,,,,,,,926
+State Correctional Facility,SCI Houtzdale,,,Houtzdale,Pennsylvania,16698-1000,(814) 378-1000,"40 48.761', -78 21.284'",40.8126833,-78.3547333,,,,,,,,927
+State Correctional Facility,SCI Huntingdon,1100 Pike Street,,Huntingdon,Pennsylvania,16654-1112,(814) 643-2400,,,,,,,,,,,928
+State Correctional Facility,SCI Laurel Highlands,5706 Glades Pike,P.O. Box 631,Somerset,Pennsylvania,15501-0631,(814) 445-6501,,,,,,,,,,,929
+State Correctional Facility,SCI Mahanoy,301 Morea Road,,Frackville,Pennsylvania,17932,(570) 773-2158,,,,,,,,,,,930
+Contract Facility,Moshannon Valley Correctional Center,555 GEO Drive,,Philipsburg,Pennsylvania,16866,(814) 768-1200,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,931
+State Correctional Facility,SCI Mercer,801 Butler Pike,,Mercer,Pennsylvania,16137,(724) 662-1837,,,,,,,,,,,932
+State Correctional Facility,SCI Muncy,6454 Pennsylvania 405,,Muncy,Pennsylvania,17756,(570) 546-3171,,,,,,,,,,,933
+State Correctional Facility,SCI Pine Grove,191 Fyock Road,,Indiana,Pennsylvania,15701,(724) 465-9630,,,,,,,,,,,934
+State Correctional Facility,SCI Pittsburgh,3001 Beaver Avenue,,Pittsburgh,Pennsylvania,15233,(412) 761-1955,,,,,,,,,,,935
+State Correctional Facility,Quehanna Boot Camp,4510 Quehanna Highway,,Karthaus,Pennsylvania,16845,(814) 263-4125,,,,,,,,,,,936
+State Correctional Facility,SCI Retreat,660 State Route 11,,Hunlock Creek,Pennsylvania,18621,(570) 735-8754,,,,,,,,,,,937
+State Correctional Facility,SCI Rockview,"Route 26, 1 Rockview Place",,Bellefonte,Pennsylvania,16823,(814) 355-4874,,,,,,,,,,,938
+State Correctional Facility,SCI Smithfield,1120 Pike Street,P.O. Box 999,Huntingdon,Pennsylvania,16652,(814) 643-6520,,,,,,,,,,,939
+State Correctional Facility,SCI Somerset,1600 Walters Mill Road,,Somerset,Pennsylvania,15510-0001,(814) 443-8100,,,,,,,,,,,940
+State Correctional Facility,SCI Waymart,100 Route 6,,Waymart,Pennsylvania,18472,(570) 488-5811,,,,,,,,,,,941
+State Correctional Facility,Anthony P. Travisono Intake Service Center (ISC),,,Cranston,Rhode Island,02920,(401) 462-3801,"41 44.918', -71 27.832'",41.7486333,-71.4638667,,,,,,,,942
+State Correctional Facility,High Security Center (HSC),,,Cranston,Rhode Island,02921,(401) 462-1266,"41 44.986', -71 27.697'",41.7497667,-71.4616167,,,,,,,,943
+State Correctional Facility,Maximum Security,,,Cranston,Rhode Island,02922,(401) 462-2637,"41 44.801', -71 27.350'",41.7466833,-71.4558333,,,,,,,,944
+State Correctional Facility,John J. Moran Medium Security Facility,,,Cranston,Rhode Island,02923,(401) 462-3700,"41 44.590', -71 28.072'",41.7431667,-71.4678667,,,,,,,,945
+State Correctional Facility,Minimum Security,,,Cranston,Rhode Island,02924,(401) 462-1234,"41 44.768', -71 27.819'",41.7461333,-71.46365,,,,,,,,946
+State Correctional Facility,Gloria McDonald Awaiting Trial and Medium Security Facility,,,Cranston,Rhode Island,02924,(401) 462-2366,"41 44.776', -71 27.668'",41.7462667,-71.4611333,,,,,,,,947
+State Correctional Facility,Bernadette Building,,,Cranston,Rhode Island,02924,(401) 462-2366,"41 44.750', -71 27.637'",41.7458333,-71.4606167,,,,,,,,948
+State Correctional Facility,Livesay Correctional Institution,104 Broadcast Drive,,Spartanburg,South Carolina,29303,(803) 734-1375,,,,,,,,,,,949
+State Correctional Facility,Allendale Correctional Institution (L2),1057 Revolutionary Trail,,Fairfax,South Carolina,29827,(803) 632-2561,,,,,,,,,,,950
+Transition Center,Lower Savannah Pre-Release Center (L1-A),361 Wire Road,,Aiken,South Carolina,29801,(803) 648-8865,,,,,,,,,,,951
+State Correctional Facility,Broad River Correctional Institution (L3),4460 Broad River Road,,Columbia,South Carolina,29210,(803) 896-2234,,,,,,,,,,,952
+State Correctional Facility,MacDougall Correctional Institution (L2),1516 Old Gilliard Road,,Ridgeville,South Carolina,29472,(843) 688-5251,,,,,,,,,,,953
+Transition Center,Campbell Pre-Release Center (L1-A),4530 Broad River Road,,Columbia,South Carolina,29210,(803) 896-8560,,,,,,,,,,,954
+State Correctional Facility,Manning Correctional Institution (L1-B),502 Beckman Drive,,Columbia,South Carolina,29203,(803) 935-6000,,,,,,,,,,,955
+Transition Center,Catawba Pre-Release Center (L1-A),1030 Milling Road,,Rock Hill,South Carolina,29730,(803) 324-5361,,,,,,,,,,,956
+State Correctional Facility,McCormick Correctional Institution (L3),386 Redemption Way,,McCormick,South Carolina,29899,(864) 443-2114,,,,,,,,,,,957
+Transition Center,Coastal Pre-Release Center (L1-A),3765 Leeds Avenue,,Charleston,South Carolina,29405,(843) 740-1630,,,,,,,,,,,958
+Transition Center,Palmer Pre-Release Center (L1-A),2012 Pisgah Road,,Florence,South Carolina,29501,(843) 661-4770,,,,,,,,,,,959
+State Correctional Facility,Evans Correctional Institution (L2),610 Highway 9 West,,Bennettsville,South Carolina,29512,(843) 479-4181,,,,,,,,,,,960
+State Correctional Facility,Perry Correctional Institution (L3),430 Oaklawn Road,,Pelzer,South Carolina,29669,(864) 243-4700,,,,,,,,,,,961
+State Correctional Facility,Goodman Correctional Institution,4556 Broad River Road,,Columbia,South Carolina,29210,(803) 896-8565,,,,,,,,,,,962
+State Correctional Facility,Ridgeland Correctional Institution (L2),5 Correctional Road,,Ridgeland,South Carolina,29936,(803) 896-3200,,,,,,,,,,,963
+State Correctional Facility,Graham (Camille Griffin) Correctional Institution (Women L3),4450 Broad River Road,,Columbia,South Carolina,29210,(803) 896-8590,,,,,,,,,,,964
+State Correctional Facility,Trenton Correctional Institution (L2),84 Greenhouse Road,,Trenton,South Carolina,29847,(803) 896-3000,,,,,,,,,,,965
+State Correctional Facility,Kershaw Correctional Institution (L2),4848 Goldmine Highway,,Kershaw,South Carolina,29067,(803) 475-5770,,,,,,,,,,,966
+State Correctional Facility,Turbeville Correctional Institution (L2),,,Turbeville,South Carolina,29162,(843) 659-4800,,33.8863167,-80.0819333,,,,,,,,967
+Transition Center,Kirkland Reception and Evaluation Center (L3),4344 Broad River Road,,Columbia,South Carolina,29210,(803) 896-1521,,,,,,,,,,,968
+State Correctional Facility,Tyger River Correctional Institution (L2),100-200 Prison Road,,Enoree,South Carolina,29355,(803) 896-3501,,,,,,,,,,,969
+State Correctional Facility,Leath Correctional Institution (Women L3),2809 Airport Road,,Greenwood,South Carolina,29649,(803) 896-1000,,,,,,,,,,,970
+State Correctional Facility,Walden Correctional Institution (L1-B),4340 Broad River Road,,Columbia,South Carolina,29210,(803) 896-8580,,,,,,,,,,,971
+State Correctional Facility,Lee Correctional Institution (L3),990 Wisacky Highway,,Bishopville,South Carolina,29010,(803) 428-2800,,,,,,,,,,,972
+State Correctional Facility,Wateree River Correctional Institution (L2),,,Rembert,South Carolina,29128,(803) 432-6191,,34.0817167,-80.5866,,,,,,,,973
+State Correctional Facility,Lieber Correctional Institution (L3),136 Wilborn Avenue,,Ridgeville,South Carolina,29472,(843) 875-3332,,,,,,,,,,,974
+State Correctional Facility,South Dakota State Penitentiary,1600 North Drive,PO Box 5911,Sioux Falls,South Dakota,57117,(605) 367-5051,,,,,,,,,,,975
+State Correctional Facility,Mike Durfee State Prison,1412 Wood Street,,Springfield,South Dakota,57062,(605) 369-2201,,,,,,,,,,,976
+State Correctional Facility,Rapid City Minimum Unit,2725 Creek Drive,,Rapid City,South Dakota,57703,(605) 394-5294,,,,,,,,,,,977
+State Correctional Facility,Jameson Annex,1600 North Drive,PO Box 5911,Sioux Falls,South Dakota,57117,(605) 367-5120,,,,,,,,,,,978
+State Correctional Facility,South Dakota Women's Prison,3200 E Sd Highway 34,,Pierre,South Dakota,57501,(605) 773-6636,,,,,,,,,,,979
+State Correctional Facility,Yankton Minimum Unit,178 Mickelson Drive,,Yankton,South Dakota,57078,(605) 668-3354,,,,,,,,,,,980
+State Correctional Facility,Bledsoe County Correctional Complex,1045 Horsehead Road,,Pikeville,Tennessee,37367,(423) 881-3251,,,,,,,,,,,981
+State Correctional Facility,Charles B. Bass Correctional Complex,7177 Cockrill Bend Boulevard,,Nashville,Tennessee,37243-0470,(615) 350-3361,,,,,,,,,,,982
+Contract Facility,Hardeman County Correctional Facility,2520 Union Spring Road,P.O. Box 549,Whiteville,Tennessee,38075,(731) 254-6000,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,983
+Contract Facility,Metro-Davidson County Detention Facility,5115 Harding Place,,Nashville,Tennessee,37211,(615) 831-7088,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,984
+Contract Facility,Silverdale Detention Facilities,7609 Standifer Gap Rd,P.O. Box 23148,Chattanooga,Tennessee,37422,(423) 892-0921,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,985
+State Correctional Facility,Lois M. DeBerry Special Needs Facility,7177 Cockrill Bend Boulevard,,Nashville,Tennessee,37243-0470,(615) 350-2700,,,,,,,,,,,986
+State Correctional Facility,Mark H. Luttrell Correctional Center,6000 State Road,,Memphis,Tennessee,38134,(901) 372-2080,,,,,,,,,,,987
+State Correctional Facility,Morgan County Correctional Complex,541 Wayne Cotton Morgan Drive,P.O. Box 2000,Wartburg,Tennessee,37887,(423) 346-1300,,,,,,,,,,,988
+State Correctional Facility,Northeast Correctional Complex,5249 Highway 67 West,P.O. Box 5000,Mountain City,Tennessee,37683,(423) 727-7387,,,,,,,,,,,989
+State Correctional Facility,Northwest Correctional Complex,960 State Route 212,,Tiptonville,Tennessee,38079,(731) 253-5000,,,,,,,,,,,990
+State Correctional Facility,Riverbend Maximum Security Institution,7475 Cockrill Bend Boulevard,,Nashville,Tennessee,37243-0471,(615) 350-3100,,,,,,,,,,,991
+Contract Facility,South Central Correctional Facility,555 Forest Avenue,P.O. Box 279,Clifton,Tennessee,38425-0279,(931) 676-5372,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,992
+State Correctional Facility,Tennessee Prison for Women,3881 Stewarts Lane,,Nashville,Tennessee,37243-0468,(615) 741-1255,,,,,,,,,,,993
+State Correctional Facility,Turney Center Industrial Complex,1499 R.W. Moore Memorial Highway,,Only,Tennessee,37140-4050,(931) 729-5161,,,,,,,,,,,994
+Contract Facility,West Tennessee Detention Facility,6299 Finde Naifeh Jr. Drive,,Mason,Tennessee,38049,(901) 294-3060,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,995
+State Correctional Facility,West Tennessee State Penitentiary,480 Green Chapel Road,P.O. Box 1150,Henning,Tennessee,38041-1150,(731) 738-5044,,,,,,,,,,,996
+Contract Facility,Whiteville Correctional Facility,1440 Union Spring Road,P.O. Box 679,Whiteville,Tennessee,38075,(731) 254-9400,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,997
+State Correctional Facility,James V. Allred Unit,2101 FM 369 North,,Iowa Park,Texas,76367,(940) 855-7477,,,,,,,,,,,998
+Contract Facility,Bartlett State Jail,1018 Arnold Drive,,Bartlett,Texas,76511,(254) 527-3300,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,999
+Contract Facility,Eden Detention Center,702 East Broadway,,Eden,Texas,76837,(325) 869-2704,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,1000
+State Correctional Facility,George Beto Unit,1391 FM 3328,,Tennessee Colony,Texas,75880,(903) 928-2217,,,,,,,,,,,1001
+State Correctional Facility,William R. Boyd Unit,200 Spur 113,,Teague,Texas,75860-2007,(254) 739-5555,,,,,,,,,,,1002
+Contract Facility,James Bradshaw State Jail,3900 West Loop 571 North,,Henderson,Texas,75653,(903) 655-0880,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,1003
+Contract Facility,Bridgeport Correctional Center,4000 North Tenth Street,,Bridgeport,Texas,76426,(940) 683-3010,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,1004
+Contract Facility,Bridgeport Pre-Parole Transfer Facility,222 Lake Road,,Bridgeport,Texas,76426,(940) 683-2162,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,1005
+Contract Facility,Brooks County Detention Center,901 County Road 201,,Falfurrias,Texas,78355,(361) 325-3340,,,,"LCS Corrections Service, Inc.",100-D William O. Stutes Str.,,Lafayette,LA,70506,(337) 234-1533,1006
+State Correctional Facility,Dolph Briscoe Unit,1459 West Highway 85,,Dilley,Texas,78017,(830) 965-4444,,,,,,,,,,,1007
+State Correctional Facility,"James ""Jay"" H. Byrd Unit",21 FM 247,,Huntsville,Texas,77320,(936) 295-5768,,,,,,,,,,,1008
+Contract Facility,Coastal Bend Detention Center,4909 FM 2826,,Robstown,Texas,78380,(361) 767-3400,,,,"LCS Corrections Service, Inc.",100-D William O. Stutes Str.,,Lafayette,LA,70506,(337) 234-1533,1009
+State Correctional Facility,Clemens Unit,11034 Hwy 36,,Brazoria,Texas,77422,(979) 798-2188,,,,,,,,,,,1010
+State Correctional Facility,William P. Clements Unit,9601 Spur 591,,Amarillo,Texas,79107-9606,(806) 381-7080,,,,,,,,,,,1011
+Contract Facility,Cleveland Correctional Center,901 East Fifth Street,,Cleveland,Texas,77328,(281) 592-9559,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,1012
+State Correctional Facility,H. H. Coffield Unit,2661 FM 2054,,Tennessee Colony,Texas,75884,(903) 928-2211,,,,,,,,,,,1013
+State Correctional Facility,Buster Cole State Jail,3801 Silo Road,,Bonham,Texas,75418,(903) 583-1100,,,,,,,,,,,1014
+State Correctional Facility,John B. Connally Unit,899 FM 632,,Kenedy,Texas,78119,(830) 583-4003,,,,,,,,,,,1015
+Transfer Facility,Cotulla Transfer Facility,610 FM 624,,Cotulla,Texas,78014,(830) 879-3077,,,,,,,,,,,1016
+State Correctional Facility,Christina Melton Crain Unit,1401 State School Road,,Gatesville,Texas,76599-2999,(254) 865-8431,,,,,,,,,,,1017
+State Correctional Facility,Dalhart Unit,11950 FM 998,,Dalhart,Texas,79022,(806) 249-8655,,,,,,,,,,,1018
+State Correctional Facility,Price Daniel Unit,938 South FM 1673,,Snyder,Texas,79549,(325) 573-1114,,,,,,,,,,,1019
+State Correctional Facility,Darrington Unit,59 Darrington Road,,Rosharon,Texas,77583,(281) 595-3465,,,,,,,,,,,1020
+State Correctional Facility,James Lynaugh Unit,1098 South Highway 2037,,Fort Stockton,Texas,79735,(432) 395-2938,,,,,,,,,,,1021
+Contract Facility,Diboll Correctional Center,1604 South First Street,,Diboll,Texas,75941,(936) 829-2295,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,1022
+State Correctional Facility,Fabian Dale Dominguez State Jail,6535 Cagnon Road,,San Antonio,Texas,78252-2202,(210) 675-6620,,,,,,,,,,,1023
+State Correctional Facility,Rufus H. Duncan Geriatric Facility,1502 South First Street,,Diboll,Texas,75941,(936) 829-2616,,,,,,,,,,,1024
+Contract Facility,East Texas Multi-Use Facility,900 Industrial Drive,,Henderson,Texas,75652,(903) 655-3300,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,1025
+State Correctional Facility,Eastham Unit,2665 Prison Road #1,,Lovelady,Texas,75851,(936) 636-7321,,,,,,,,,,,1026
+Contract Facility,East Hidalgo Detention Center,1300 Highway 107,,LaVilla,Texas,78562,(956) 262-4511,,,,"LCS Corrections Service, Inc.",100-D William O. Stutes Str.,,Lafayette,LA,70506,(337) 234-1533,1027
+State Correctional Facility,O.B. Ellis Unit,1697 FM 980,,Huntsville,Texas,77343,(936) 295-5756,,,,,,,,,,,1028
+State Correctional Facility,"W. J. ""Jim"" Estelle Unit",264 FM 3478,,Huntsville,Texas,77320-3320,(936) 291-4200,,,,,,,,,,,1029
+Contract Facility,"Sanders ""Sandy"" Estes Unit",1100 Hwy 1807,,Venus,Texas,76084,(972) 366-3334,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,1030
+State Correctional Facility,Jim Ferguson Unit,12120 Savage Drive,,Midway,Texas,75852,(936) 348-3751,,,,,,,,,,,1031
+State Correctional Facility,Formby State Jail,998 County Road AA,,Plainview,Texas,79072,(806) 296-2448,,,,,,,,,,,1032
+Transfer Facility,Fort Stockton Transfer Facility,1536 IH-10 East,,Fort Stockton,Texas,79735,(432) 336-7676,,,,,,,,,,,1033
+Transfer Facility,Garza East Transfer Facility,4304 Highway 202,,Beeville,Texas,78102,(361) 358-9880,,,,,,,,,,,1034
+Transfer Facility,Garza West Transfer Facility,4250 Highway 202,,Beeville,Texas,78102,(361) 358-9890,,,,,,,,,,,1035
+State Correctional Facility,Larry Gist State Jail,3295 FM 3514,,Beaumont,Texas,77705,(409) 727-8400,,,,,,,,,,,1036
+Contract Facility,Giles W. Dalby Correctional Facility,805 North Avenue F,,Post,Texas,79356,(806) 495-2175,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,1037
+State Correctional Facility,Ernestine Glossbrenner Unit,5100 South FM 1329,,San Diego,Texas,78384,(361) 279-2705,,,,,,,,,,,1038
+Transfer Facility,Glen Ray Goodman Transfer Facility,349 Private Road 8430,,Jasper,Texas,75951,(409) 383-0012,,,,,,,,,,,1039
+State Correctional Facility,Thomas Goree Unit,7405 Hwy 75 South,,Huntsville,Texas,77344,(936) 295-6331,,,,,,,,,,,1040
+Transfer Facility,Joe F. Gurney Transfer Facility,1385 FM 3328,,Palestine,Texas,75803,(903) 928-3118,,,,,,,,,,,1041
+State Correctional Facility,Ellen Halbert Unit,800 Ellen Halbert Drive,,Burnet,Texas,78611,(512) 756-6171,,,,,,,,,,,1042
+Transfer Facility,J. W. Hamilton Unit,200 Lee Morrison Lane,,Bryan,Texas,77807,(979) 779-1633,,,,,,,,,,,1043
+Transfer Facility,Thomas R. Havins Unit,500 FM 45 East,,Brownwood,Texas,76801,(325) 643-5575,,,,,,,,,,,1044
+State Correctional Facility,Dempsie Henley State Jail,7581 Hwy 321,,Dayton,Texas,77535,(936) 258-2476,,,,,,,,,,,1045
+State Correctional Facility,L.V. Hightower Unit,902 FM 686,,Dayton,Texas,77535,(936) 258-8013,,,,,,,,,,,1046
+State Correctional Facility,Hilltop Unit,1500 State School Road,,Gatesville,Texas,76598-2996,(254) 865-8901,,,,,,,,,,,1047
+State Correctional Facility,William P. Hobby Unit,742 FM 712,,Marlin,Texas,76661,(254) 883-5561,,,,,,,,,,,1048
+State Correctional Facility,Jerry H. Hodge Unit,379 FM 2972,,Rusk,Texas,75785,(903) 683-5781,,,,,,,,,,,1049
+Transfer Facility,Reverend C.A. Holliday Transfer Facility,295 IH-45 North,,Huntsville,Texas,77320-8443,(936) 295-8200,,,,,,,,,,,1050
+State Medical Facility,Hospital Galveston,Substation #1,P.O. Box 48,Galveston,Texas,77555,(409) 772-2875,,,,,,,,,,,1051
+State Correctional Facility,Alfred D. Hughes Unit,3201 FM 929,,Gatesville,Texas,76597,(254) 865-6663,,,,,,,,,,,1052
+State Correctional Facility,Huntsville Unit,815 12th Street,,Huntsville,Texas,77348,(936) 437-1555,,,,,,,,,,,1053
+State Correctional Facility,Hutchins State Jail,1500 East Langdon Road,,Dallas,Texas,75241,(972) 225-1304,,,,,,,,,,,1054
+State Correctional Facility,Beauford H. Jester I Unit,1 Jester Road,,Richmond,Texas,77406,(281) 277-3030,,,,,,,,,,,1055
+State Correctional Facility,Beauford H. Jester III Unit,3 Jester Road,,Richmond,Texas,77406,(281) 277-7000,,,,,,,,,,,1056
+State Correctional Facility,Beauford H. Jester IV Unit,4 Jester Road,,Richmond,Texas,77406,(281) 277-7000,,,,,,,,,,,1057
+State Correctional Facility,Clyde M. Johnston Unit,703 Airport Road,,Winnsboro,Texas,75494,(903) 342-6166,,,,,,,,,,,1058
+State Correctional Facility,Rufe Jordan Unit,1992 Helton Road,,Pampa,Texas,79065,(806) 665-7070,,,,,,,,,,,1059
+State Correctional Facility,Joe Kegans State Jail,707 Top Street,,Houston,Texas,77002,(713) 224-6584,,,,,,,,,,,1060
+Contract Facility,Kyle Correctional Center,23001 IH-35,,Kyle,Texas,78640,(512) 268-0079,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,1061
+State Correctional Facility,Richard P. LeBlanc Unit,3695 FM 3514,,Beaumont,Texas,77705,(409) 724-1515,,,,,,,,,,,1062
+State Correctional Facility,Gib Lewis Unit,777 FM 3497,,Woodville,Texas,75990,(409) 283-8181,,,,,,,,,,,1063
+Contract Facility,Houston Processing Center,15850 Export Plaza Drive,,Houston,Texas,77032,(281) 449-1481,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,1064
+Contract Facility,John R. Lindsey State Jail,1620 FM 3344,,Jacksboro,Texas,76458,(940) 567-2272,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,1065
+Contract Facility,Lockhart Correctional Facility - Female,1400 Industrial Blvd,,Lockhart,Texas,78644,(512) 398-3480,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,1066
+Contract Facility,Lockhart Correctional Facility,1400 Industrial Blvd,,Lockhart,Texas,78644,(512) 398-3480,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,1067
+State Correctional Facility,Reynoldo V. Lopez State Jail,1203 El Cibolo Road,,Edinburg,Texas,78542,(956) 316-3810,,,,,,,,,,,1068
+State Correctional Facility,O.L. Luther Unit,1800 Luther Drive,,Navasota,Texas,77868,(936) 825-7547,,,,,,,,,,,1069
+State Correctional Facility,Pam Lychner State Jail,2350 Atascocita Road,,Humble,Texas,77396,(281) 454-5036,,,,,,,,,,,1070
+Transfer Facility,Marlin Transfer Facility,2893 State Hwy 6,,Marlin,Texas,76661-6588,(254) 883-3858,,,,,,,,,,,1071
+State Correctional Facility,William G. McConnell Unit,3001 South Emily Drive,,Beeville,Texas,78102,(361) 362-2300,,,,,,,,,,,1072
+State Correctional Facility,Mark W. Michael Unit,2664 FM 2054,,Tennessee Colony,Texas,75886,(903) 928-2311,,,,,,,,,,,1073
+Transfer Facility,John Middleton Transfer Facility,13055 FM 3522,,Abilene,Texas,79601,(325) 548-9075,,,,,,,,,,,1074
+State Correctional Facility,John Montford Unit,8602 Peach Street,,Lubbock,Texas,79404,(806) 745-1021,,,,,,,,,,,1075
+Contract Facility,Billy Moore Correctional Center,8500 North FM 3053,,Overton,Texas,75684,(903) 834-6186,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,1076
+Transfer Facility,Choice Moore Transfer Facility,1700 North FM 87,,Bonham,Texas,75418,(903) 583-4464,,,,,,,,,,,1077
+State Correctional Facility,Mountain View Unit,2305 Ransom Road,,Gatesville,Texas,76528,(254) 865-7226,,,,,,,,,,,1078
+State Correctional Facility,Dr. Lane Murray Unit,1916 North Hwy 36 Bypass,,Gatesville,Texas,76596,(254) 865-2000,,,,,,,,,,,1079
+State Correctional Facility,Nathaniel J. Neal Unit,9055 Spur 591,,Amarillo,Texas,79107-9696,(806) 383-1175,,,,,,,,,,,1080
+State Correctional Facility,Joe Ney State Jail,114 Private Road 4303,,Hondo,Texas,78861-3812,(830) 426-8030,,,,,,,,,,,1081
+State Correctional Facility,Wallace Pack Unit,2400 Wallace Pack Road,,Navasota,Texas,77868,(936) 825-3728,,,,,,,,,,,1082
+State Correctional Facility,Lucile Plane State Jail,904 FM 686,,Dayton,Texas,77535,(936) 258-2476,,,,,,,,,,,1083
+State Correctional Facility,Allan B. Polunsky Unit,3872 FM 350 South,,Livingston,Texas,77351,(936) 967-8082,,,,,,,,,,,1084
+State Correctional Facility,Louis C. Powledge Unit,1400 FM 3452,,Palestine,Texas,75803,(903) 723-5074,,,,,,,,,,,1085
+State Correctional Facility,W. F. Ramsey Unit,1100 FM 655,,Rosharon,Texas,77583,(281) 595-3491,,,,,,,,,,,1086
+State Correctional Facility,T.L. Roach Unit,15845 FM 164,,Childress,Texas,79201,(940) 937-6364,,,,,,,,,,,1087
+State Correctional Facility,French Robertson Unit,12071 FM 3522,,Abilene,Texas,79601,(325) 548-9035,,,,,,,,,,,1088
+Transfer Facility,Jim Rudd Transfer Facility,2004 Lamesa Highway,,Brownfield,Texas,79316,(806) 637-4470,,,,,,,,,,,1089
+Transfer Facility,San Saba Transfer Facility,206 South Wallace Creek Road,,San Saba,Texas,76877,(325) 372-4255,,,,,,,,,,,1090
+State Correctional Facility,Rogelio Sanchez State Jail,3901 State Jail Road,,El Paso,Texas,79938-8456,(915) 856-0046,,,,,,,,,,,1091
+State Correctional Facility,Walker Sayle Unit,4176 FM 1800,,Breckenridge,Texas,76424-7301,(254) 559-1581,,,,,,,,,,,1092
+State Correctional Facility,Wayne Scott Unit,6999 Retrieve,,Angleton,Texas,77515,(979) 849-9306,,,,,,,,,,,1093
+State Correctional Facility,Manuel A. Segovia Unit,1201 E. El Cibolo Road,,Edinburg,Texas,78542,(956) 316-2400,,,,,,,,,,,1094
+State Correctional Facility,Skyview Unit,379 FM 2972,,Rusk,Texas,75785,(903) 683-5781,,,,,,,,,,,1095
+State Correctional Facility,Preston E. Smith Unit,1313 CR 19,,Lamesa,Texas,79331-1898,(806) 872-6741,,,,,,,,,,,1096
+State Correctional Facility,Clarence N. Stevenson Unit,1525 FM 766,,Cuero,Texas,77954,(361) 275-2075,,,,,,,,,,,1097
+State Correctional Facility,Mark W. Stiles Unit,3060 FM 3514,,Beaumont,Texas,77705,(409) 722-5255,,,,,,,,,,,1098
+State Correctional Facility,"A.M. ""Mac"" Stringfellow Unit",1200 FM 655,,Rosharon,Texas,77583,(281) 595-3413,,,,,,,,,,,1099
+State Correctional Facility,Barry B. Telford Unit,3899 State Hwy 98,,New Boston,Texas,75570,(903) 628-3171,,,,,,,,,,,1100
+State Correctional Facility,C.T. Terrell Unit,1300 FM 655,,Rosharon,Texas,77583,(281) 595-3481,,,,,,,,,,,1101
+State Correctional Facility,Ruben M. Torres Unit,125 Private Road 4303,,Hondo,Texas,78861,(830) 426-5325,,,,,,,,,,,1102
+Contract Facility,T. Don Hutto Residential Center,1001 Welch Street,,Taylor,Texas,76574,(512) 218-2400,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,1103
+State Correctional Facility,Travis County State Jail,8101 FM 969,,Austin,Texas,78724,(512) 926-4482,,,,,,,,,,,1104
+Transfer Facility,Tulia Transfer Facility,4000 Highway 86 West,,Tulia,Texas,79088,(806) 995-4109,,,,,,,,,,,1105
+State Correctional Facility,Carol S. Vance Unit,2 Jester Road,,Richmond,Texas,77406,(281) 277-3030,,,,,,,,,,,1106
+State Correctional Facility,Daniel Webster Wallace Unit,1675 South FM 3525,,Colorado City,Texas,79512,(325) 728-2162,,,,,,,,,,,1107
+Transfer Facility,Dick Ware Transfer Facility,1681 South FM 3525,,Colorado City,Texas,79512,(325) 728-2162,,,,,,,,,,,1108
+State Correctional Facility,J.B. Wheeler State Jail,986 County Road AA,,Plainview,Texas,79072,(806) 293-1081,,,,,,,,,,,1109
+Contract Facility,Willacy County State Jail,1695 South Buffalo Drive,,Raymondville,Texas,78580,(956) 689-4900,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,1110
+Contract Facility,Wiillacy Country Correctional Center,1800 Industrial Drive,,Raymondville,Texas,78580,(956) 689-9218,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,1111
+Contract Facility,Wiillacy Country Regional Detention Facility,1601 Buffalo Drive,,Raymondville,Texas,78580,(956) 689-5075,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,1112
+State Correctional Facility,Linda Woodman State Jail,1210 Coryell City Road,,Gatesville,Texas,76528,(254) 865-9398,,,,,,,,,,,1113
+State Correctional Facility,John M. Wynne Unit,810 FM 2821,,Huntsville,Texas,77349,(936) 295-9126,,,,,,,,,,,1114
+State Medical Facility,Carole S. Young Medical Facility,5509 Attwater Ave,,Dickinson,Texas,77539,(409) 948-0001,,,,,,,,,,,1115
+State Correctional Facility,Baten Intermediate Sanction Facility,1995 Helton Road,,Pampa,Texas,79065,(806) 665-7070,,,,,,,,,,,1116
+State Correctional Facility,South Texas Intermediate Sanction Facility,1511 Preston Road,,Houston,Texas,77002,(713) 223-0601,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,1117
+State Correctional Facility,West Texas Intermediate Sanction Facility,2002 Lamesa Hwy,,Brownfield,Texas,79316,(806) 637-4032,,,,Management and Training Corporation,500 N. Market Place Drive,P.O. Box 10,Centerville,Utah,84014,(801) 693-2600,1118
+Contract Facility,Reeves County Detention Complex (R1&R2),98 West County Road 204,PO Box 1560,Pecos,Texas,79772,(432) 447-2926,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,1119
+State Correctional Facility,Lunenburg Correctional Center,690 Falls Road,P. O. Box 1424,Victoria,Virginia,23974,(434) 696-2045,,,,,,,,,,,1120
+Contract Facility,Big Spring Correctional Center,1701 Apron Drive,,Big Spring,Texas,79720,(432) 264-0060,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,1121
+Contract Facility,Val Verde Correctional Facility,253 FM 2523 Hamilton Lane,,Del Rio,Texas,78840,(830) 778-0096,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,1122
+Contract Facility,South Texas Detention Complex,566 Veterans Drive,,Pearsall,Texas,78061,(830) 334-2939,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,1123
+Contract Facility,Joe Corley Detention Facility,500 Hilbig Street,,Conroe,Texas,77301,(936) 521-4000,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,1124
+Contract Facility,Rio Grande Detention Center,1001 San Rio Boulevard,,Laredo,Texas,78046,(956) 718-4700,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,1125
+Contract Facility,Webb County Detention Center,9998 S. Highway 83,,Laredo,Texas,78046,(956) 723-1985,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,1126
+Contract Facility,Laredo Processing Center,4702 E. Saunders,,Laredo,Texas,78041,(956) 727-4118,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,1127
+Contract Facility,Mineral Wells Pre-Parole Transfer Facility,759 Heintzelman Road,,Mineral Wells,Texas,76067,(940) 325-6933,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,1128
+Contract Facility,Central Texas Detention Facility,218 South Laredo Street,,San Antonio,Texas,78207,(210) 227-5600,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,1129
+Contract Facility,Karnes County Correctional Center,810 Commerce Street,,Karnes City,Texas,78118,(830) 780-3525,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,1130
+Contract Facility,Karnes County Civil Detention Center,409 FM 1144,,Karnes City,Texas,78118,(830) 254-2000,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,1131
+State Correctional Facility,Utah State Prison - Draper,14425 S. Bitterbrush Lane,P.O. Box 250,Draper,Utah,84020,(801) 576-7000,,,,,,,,,,,1132
+State Correctional Facility,Central Utah Correctional Facility - Gunnison,255 E. 300 North,P.O. Box 550,Gunnison,Utah,84634,(435) 528-6000,,,,,,,,,,,1133
+State Correctional Facility,Northern State Correctional Facility (NSCF) - Newport,2559 Glen Road,,Newport,Vermont,05855,(802) 334-3364,,,,,,,,,,,1134
+State Correctional Facility,Northwest State Correctional Facility (NWSCF) - Swanton,3649 Lower Newton Road,,Swanton,Vermont,05488,(802) 524-6771,,,,,,,,,,,1135
+State Correctional Facility,Chittenden Regional Correctional Facility (CRCF) - South Burlington,7 Farrell Street,,South Burlington,Vermont,05403,(802) 863-7356,,,,,,,,,,,1136
+State Correctional Facility,Northeast Correctional Complex (NERCF & CCWC) - St. Johnsbury,1266-1270 US Route 5,,St.Johnsbury,Vermont,05819,(802)748-8151,,,,,,,,,,,1137
+State Correctional Facility,Marble Valley Regional Correctional Facility (MVRCF) - Rutland,167 State Street,,Rutland,Vermont,05701,(802) 786-5830,,,,,,,,,,,1138
+State Correctional Facility,Southeast State Correctional Facility (SESCF) - Windsor,546 State Farm Road,,Windsor,Vermont,05089,(802) 674-6717,,,,,,,,,,,1139
+State Correctional Facility,Southern State Correctional Facility (SSCF) - Springfield,700 Charlestown Road,,Springfield,Vermont,05156,(802) 885-9800,,,,,,,,,,,1140
+State Correctional Facility,Augusta Correctional Center,1821 Estaline Valley Road,,Craigsville,Virginia,24430,(540) 997-7000,,,,,,,,,,,1141
+State Correctional Facility,Baskerville Correctional Center,4150 Hayes Mill Road,,Baskerville,Virginia,23915,(434) 447-3857,,,,,,,,,,,1142
+State Correctional Facility,Bland Correctional Center,256 Bland Farm Road,,Bland,Virginia,24315-9615,(276) 688-3341,,,,,,,,,,,1143
+State Correctional Facility,Buckingham Correctional Center,1349 Correctional Center Road,,Dillwyn,Virginia,23936,(434) 983-4400,,,,,,,,,,,1144
+State Correctional Facility,Brunswick Work Center,1147 Planters Road,P.O. Box 207C,Lawrenceville,Virginia,23868,(434) 848-4131,,,,,,,,,,,1145
+State Correctional Facility,Caroline Correctional Unit #2,31285 Camp Road,,Hanover,Virginia,23069,(804) 994-2161,,,,,,,,,,,1146
+State Correctional Facility,Central Virginia Correctional Unit #13,6900 Courthouse Road,,Chesterfield,Virginia,23832,(804)796-4277,,,,,,,,,,,1147
+State Correctional Facility,Coffeewood Correctional Center,12352 Coffeewood Drive,P. O. Box 500,Mitchells,Virginia,22729,(540) 829-6483,,,,,,,,,,,1148
+State Correctional Facility,Cold Springs Correctional Unit #10,221 Spitler Circle,,Greenville,Virginia,24440,(540) 337-1818,,,,,,,,,,,1149
+State Correctional Facility,Deerfield Correctional Center,21360 Deerfield Drive,,Capron,Virginia,23829,(434) 658-4368,,,,,,,,,,,1150
+State Correctional Facility,Deep Meadow Correctional Center,3500 Woods Way,,State Farm,Virginia,23160,(804) 598-5503,,,,,,,,,,,1151
+State Correctional Facility,Dillwyn Correctional Center,1522 Prison Road,P.O. Box 670,Dillwyn,Virginia,23936,(434) 983-4200,,,,,,,,,,,1152
+State Correctional Facility,Fluvanna Correctional Center for Women,144 Prison Lane,,Troy,Virginia,22974,(434) 984-3700,,,,,,,,,,,1153
+State Correctional Facility,Green Rock Correctional Center,475 Green Rock Lane,,Chatham,Virginia,24531,(434) 797-2000,,,,,,,,,,,1154
+State Correctional Facility,Greensville Correctional Center/Greensville Work Center,901 Corrections Way,,Jarratt,Virginia,23870-9614,(434) 535-7000,,,,,,,,,,,1155
+State Correctional Facility,Halifax Correctional Unit #23,1200 Farm Road,Box 1789,Halifax,Virginia,24558,(434) 572-2683,,,,,,,,,,,1156
+State Correctional Facility,Haynesville Correctional Center,421 Barnfield Road,P. O. Box 129,Haynesville,Virginia,22472,(804) 333-3577,,,,,,,,,,,1157
+State Correctional Facility,Haynesville Correctional Unit #17,Camp Seventeen Road,P. O. Box 39,Haynesville,Virginia,22472,(804) 333-3577,,,,,,,,,,,1158
+State Correctional Facility,Indian Creek Correctional Center,801 Sanderson Road,P. O. Box 16481,Chesapeake,Virginia,23328-6481,(757) 421-0095,,,,,,,,,,,1159
+State Correctional Facility,James River Work Center,1954 State Farm Road,,State Farm,Virginia,23160,(804) 556-7060,,,,,,,,,,,1160
+State Correctional Facility,Keen Mountain Correctional Center,State Route 629,P. O. Box 860,Oakwood,Virginia,24631,(276) 498-7411,,,,,,,,,,,1161
+Contract Facility,Lawrenceville Correctional Center,1607 Planters Road,,Lawrenceville,Virginia,23868,(434) 848-9349,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,1162
+State Correctional Facility,Marion Correctional Center,110 Wright Street,,Marion,Virginia,24354-3145,(276) 783-7154,,,,,,,,,,,1163
+State Correctional Facility,MCV Security Ward,401 N. 12th Street,,Richmond,Virginia,,(804) 828-0804,,,,,,,,,,,1164
+State Correctional Facility,Nottoway Correctional Center,2892 Schutt Road,P. O. Box 488,Burkeville,Virginia,23922,(434) 767-5543,,,,,,,,,,,1165
+State Correctional Facility,Patrick Henry Correctional Unit #28,18155 A. L. Philpott Highway,P. O. Box 1090,Ridgeway,Virginia,24148,(276) 957-2234,,,,,,,,,,,1166
+State Correctional Facility,Pocahontas State Correctional Center,317 Old Mountain Road,P.O. Box 518,Pocahontas,Virginia,24635-0518,(276) 945-9173,,,,,,,,,,,1167
+State Correctional Facility,Powhatan Correctional Center,3600 Woods Way,,State Farm,Virginia,23160,(804) 598-4251,,,,,,,,,,,1168
+State Correctional Facility,Red Onion State Prison,10800 H. Jack Rose Highway,P. O. Box 970,Pound,Virginia,24279,(276) 796-7510,,,,,,,,,,,1169
+State Correctional Facility,River North Correctional Center,329 Dell Brook Lane,,Independence,Virginia,24348,(276) 773-2518,,,,,,,,,,,1170
+State Correctional Facility,Rustburg Correctional Unit #9,479 Camp Nine Road,,Rustburg,Virginia,24588,(434) 332-7354,,,,,,,,,,,1171
+State Correctional Facility,St. Brides Correctional Center,701 Sanderson Road,P. O. Box 16482,Chesapeake,Virginia,23328-6482,(757) 421-6600,,,,,,,,,,,1172
+State Correctional Facility,Sussex I State Prison,24414 Musselwhite Drive,,Waverly,Virginia,23891-1111,(804) 834-9967,,,,,,,,,,,1173
+State Correctional Facility,Sussex II State Prison,24427 Musselwhite Drive,,Waverly,Virginia,23891-2222,(804) 834-2678,,,,,,,,,,,1174
+State Correctional Facility,Virginia Correctional Center for Women,2841 River Road,P. O. Box 1,Goochland,Virginia,23063,(804) 556-7500,,,,,,,,,,,1175
+State Correctional Facility,Wallens Ridge State Prison,272 Dogwood Drive,,Big Stone Gap,Virginia,24219,(276) 523-3310,,,,,,,,,,,1176
+State Correctional Facility,Wise Correctional Unit,3703 Dungannon Rd,,Coeburn,Virginia,24230,(276) 679-9204,,,,,,,,,,,1177
+State Correctional Facility,Airway Heights Corrections Center,11919 W. Sprague Avenue,PO Box 1899,Airway Heights,Washington,99001-1899,(509) 244-6700,,,,,,,,,,,1178
+State Correctional Facility,Cedar Creek Corrections Center,12200 Bordeaux Road,PO Box 37,Littlerock,Washington,98556-0037,(360) 359-4100,,,,,,,,,,,1179
+State Correctional Facility,Clallam Bay Corrections Center,1830 Eagle Crest Way,,Clallam Bay,Washington,98326,(360) 963-2000,,,,,,,,,,,1180
+State Correctional Facility,Coyote Ridge Corrections Center,1301 N Ephrata Ave,PO Box 769,Connell,Washington,99326,(509) 543-5800,,,,,,,,,,,1181
+State Correctional Facility,Larch Corrections Center,15314 NE Dole Valley Road,,Yacolt,Washington,98675-9531,(360) 260-6300,,,,,,,,,,,1182
+State Correctional Facility,Mission Creek Corrections Center For Women,3420 NE Sand Hill Road,,Belfair,Washington,98528,(360) 277-2400,,,,,,,,,,,1183
+State Correctional Facility,Monroe Correctional Complex,16550 177th Avenue SE,PO Box 777,Monroe,Washington,98272,(360) 794-2600,,,,,,,,,,,1184
+State Correctional Facility,Olympic Corrections Center,11235 Hoh Mainline,,Forks,Washington,98331,(360) 374-6181,,,,,,,,,,,1185
+State Correctional Facility,Stafford Creek Corrections Center,191 Constantine Way,,Aberdeen,Washington,98520,(360) 537-1800,,,,,,,,,,,1186
+State Correctional Facility,Washington Corrections Center,2321 West Dayton Airport Road,PO Box 900,Shelton,Washington,98584,(360) 426-4433,,,,,,,,,,,1187
+State Correctional Facility,Washington Corrections Center For Women,9601 Bujacich Rd. NW,,Gig Harbor,Washington,98332-8300,(253) 858-4200,,,,,,,,,,,1188
+Contract Facility,Northwest Detention Center,1623 East J Street,,Tacoma,Washington,98421,(253) 396-1611,,,,"The GEO Group, Inc.",One Park Place,"621 NW 53rd Street, Suite 700",Boca Raton,Florida,33487,(866) 301-4436,1189
+State Correctional Facility,Washington State Penitentiary,1313 North 13th Avenue,,Walla Walla,Washington,99362,(509) 525-3610,,,,,,,,,,,1190
+Contract Facility,Correctional Treatment Facility,"1901 E Street, S.E.,",,Washington,Washington D.C.,20003,(202) 698-3000,,,,Corrections Corporation of America,10 Burton Hills Boulevard,,Nashville,TN,37215,(615) 263-3000,1191
+State Correctional Facility,Anthony Correctional Center,"Box N-1, HC 70",,White Sulphur Springs,West Virginia,24986,(304) 536-3911,,,,,,,,,,,1192
+State Correctional Facility,Ohio County Correctional Complex,1501 Eoff Street,,Wheeling,West Virginia,26003,(304) 238-1007,,,,,,,,,,,1193
+State Correctional Facility,Northern Correctional Facility,112 Northern Regional Correctional Drive,,Moundsville,West Virginia,26041,(304) 843-4067,,,,,,,,,,,1194
+State Correctional Facility,Saint Marys Correctional Center,2880 N. Pleasants Highway,,St. Marys,West Virginia,26170,(304) 684-5500,,,,,,,,,,,1195
+State Correctional Facility,Pruntytown Correctional Center,2006 Trap Springs Road,,Grafton,West Virginia,26354,(304) 265-6111,,,,,,,,,,,1196
+State Correctional Facility,Martinsburg Correctional Center,38 Grapevine Road,,Martinsburg,West Virginia,25401,(304) 267-0156,,,,,,,,,,,1197
+State Correctional Facility,Lakin Correctional Center,11264 Ohio River Road,,West Columbia,West Virginia,25287,(304) 674-2440,,,,,,,,,,,1198
+State Correctional Facility,West Virginia Corrections Academy,103 Academy Drive,,Glenville,West Virginia,26351,(304) 462-3044,,,,,,,,,,,1199
+Work Camps / Work Release / Road Prisons,Huntington Work/Study Release Center,1236 Fifth Avenue,,Huntington,West Virginia,25701,(304) 529-6885,,,,,,,,,,,1200
+State Correctional Facility,Huttonsville Correctional Center,,,Huttonsville,West Virginia,26273,(304) 335-2291,"38 41.669', -79 58.781'",38.6944833,-79.9796833,,,,,,,,1201
+Work Camps / Work Release / Road Prisons,Charleston Work Release Center,607 Brooks Street,,Charleston,West Virginia,25301-1319,(304) 558-2763,,,,,,,,,,,1202
+State Correctional Facility,Mount Olive Correctional Complex,1 Mountainside Way,,Mt. Olive,West Virginia,25185,(304) 442-7213,,,,,,,,,,,1203
+State Correctional Facility,Denmar Correctional Center,4319 Denmar Road,,Hillsboro,West Virginia,24946,(304) 653-4201,,,,,,,,,,,1204
+State Correctional Facility,Beckley Correctional Center,111 S. Eisenhower Drive,,Beckley,West Virginia,25801,(304) 256-6780,,,,,,,,,,,1205
+State Correctional Facility,Chippewa Valley Correctional Treatment Facility,2909 E. Park Ave.,,Chippewa Falls,Wisconsin,54729,(715) 720-2850,,,,,,,,,,,1206
+State Correctional Facility,Columbia Correctional Institution,2925 Columbia Drive,P.O. Box 950,Portage,Wisconsin,53901-0950,(608) 742-9100,,,,,,,,,,,1207
+State Correctional Facility,Dodge Correctional Institution,1 W. Lincoln St.,P.O. Box 661,Waupun,Wisconsin,53963-0661,(920) 324-5577,,,,,,,,,,,1208
+State Correctional Facility,Fox Lake Correctional Institution,W10237 Lake Emily Road,P.O. Box 147,Fox Lake,Wisconsin,53933-0147,(920) 928-3151,,,,,,,,,,,1209
+State Correctional Facility,Green Bay Correctional Institution,2833 Riverside Drive,P.O. Box 19033,Green Bay,Wisconsin,54307-9033,(920) 432-4877,,,,,,,,,,,1210
+State Correctional Facility,Jackson Correctional Institution,N6500 Haipek Road,P.O. Box 232,Black River Falls,Wisconsin,54615-0232,(715) 284-4550,,,,,,,,,,,1211
+State Correctional Facility,Kettle Moraine Correctional Institution,W9071 Forest Drive,P.O. Box 31,Plymouth,Wisconsin,53073,(920) 526-3244,,,,,,,,,,,1212
+State Correctional Facility,Milwaukee Secure Detention Facility,1015 N. 10th St.,P.O. Box 05740,Milwaukee,Wisconsin,53205-0740,(414) 212-3535,,,,,,,,,,,1213
+State Correctional Facility,New Lisbon Correctional Institution,2000 Progress Road,P.O. Box 2000,New Lisbon,Wisconsin,53950-2000,(608) 562-6400,,,,,,,,,,,1214
+State Correctional Facility,Oakhill Correctional Institution,5212 County Hwy. M,P.O. Box 140,Oregon,Wisconsin,53575-0140,(608) 835-3101,,,,,,,,,,,1215
+State Correctional Facility,Oshkosh Correctional Institution,1730 W. Snell Road,P.O. Box 3530,Oshkosh,Wisconsin,54903-3530,(920) 231-4010,,,,,,,,,,,1216
+State Correctional Facility,Prairie du Chien Correctional Institution,500 E. Parrish St.,P.O. Box 6000,Prairie du Chien,Wisconsin,53821-6000,(608) 326-7828,,,,,,,,,,,1217
+State Correctional Facility,Racine Correctional Institution,2019 Wisconsin St.,,Sturtevant,Wisconsin,53177-1829,(262) 886-3214,,,,,,,,,,,1218
+State Correctional Facility,Racine Youthful Offender Correctional Facility,1501 Albert St.,P.O. Box 2200,Racine,Wisconsin,53404-0001,(262) 638-1999,,,,,,,,,,,1219
+State Correctional Facility,Redgranite Correctional Institution,1006 County Road EE,P.O. Box 900,Redgranite,Wisconsin,54970,(920) 566-2600,,,,,,,,,,,1220
+State Correctional Facility,Stanley Correctional Institution,100 Corrections Drive,,Stanley,Wisconsin,54768-6500,(715) 644-2960,,,,,,,,,,,1221
+Transition Center,Sturtevant Transitional Facility,9351 Rayne Road,,Sturtevant,Wisconsin,53177,(262) 884-2410,,,,,,,,,,,1222
+State Correctional Facility,Taycheedah Correctional Institution,751 County Road K,,Fond du Lac,Wisconsin,54936-1947,(920) 929-3800,,,,,,,,,,,1223
+State Correctional Facility,Waupun Correctional Institution,200 S. Madison St.,P.O. Box 351,Waupun,Wisconsin,53963-0351,(920) 324-5571,,,,,,,,,,,1224
+State Correctional Facility,Wisconsin Secure Program Facility,1101 Morrison Drive,P.O. Box 1000,Boscobel,Wisconsin,53805-0900,(608) 375-5656,,,,,,,,,,,1225
+State Correctional Facility,Black River Correctional Center,W6898 E Staffon Road,P.O. Box 19033,Black River Falls,Wisconsin,54615-6426,(715) 333-5681,,,,,,,,,,,1226
+State Medical Facility,Drug Abuse Correctional Center,4280 N. Sherman Road,P.O. Box 36,Winnebago,Wisconsin,54985-0036,(920) 236-2700,,,,,,,,,,,1227
+State Correctional Facility,Felmers O. Chaney Correctional Center,2825 N. 30th St.,,Milwaukee,Wisconsin,53210,(414) 874-1600,,,,,,,,,,,1228
+State Correctional Facility,Flambeau Correctional Center,N671 County Road M,,Hawkins,Wisconsin,54530-9400,(715) 585-6394,,,,,,,,,,,1229
+State Correctional Facility,Gordon Correctional Center,10401 E. County Road G,,Gordon,Wisconsin,54838,(715) 376-2680,,,,,,,,,,,1230
+State Correctional Facility,John C. Burke Correctional Center,900 S. Madison St.,P.O. Box 900,Waupun,Wisconsin,53963-0900,(920) 324-3460,,,,,,,,,,,1231
+State Correctional Facility,Kenosha Correctional Center,6353 14th Ave.,,Kenosha,Wisconsin,53143,(262) 653-7099,,,,,,,,,,,1232
+State Correctional Facility,Marshall E. Sherrer Correctional Center,1318 North 14th St.,,Milwaukee,Wisconsin,53205-2596,(414) 343-5000,,,,,,,,,,,1233
+State Correctional Facility,McNaughton Correctional Center,8500 Rainbow Road,,Lake Tomahawk,Wisconsin,54539-9558,(715) 277-2484,,,,,,,,,,,1234
+State Correctional Facility,Oregon Correctional Center,5140 Hwy. M,P.O. Box 25,Oregon,Wisconsin,53575-0025,(608) 835-3233,,,,,,,,,,,1235
+State Correctional Facility,Sanger B. Powers Correctional Center,N8375 County Line Road,,Oneida,Wisconsin,54155-9300,(920) 869-1095,,,,,,,,,,,1236
+State Correctional Facility,St. Croix Correctional Center,1859 N. 4th St.,P.O. Box 36,New Richmond,Wisconsin,54017-0036,(715) 246-6971,,,,,,,,,,,1237
+State Correctional Facility,Thompson Correctional Center,434 State Farm Road,,Deerfield,Wisconsin,53531-9562,(608) 423-3415,,,,,,,,,,,1238
+State Correctional Facility,Winnebago Correctional Center,4300 Sherman Road,P.O. Box 128,Winnebago,Wisconsin,54985-0128,(920) 424-0402,,,,,,,,,,,1239
+State Correctional Facility,Robert E. Ellsworth Correctional Center,21425-A Spring St.,,Union Grove,Wisconsin,53182-9408,(262) 878-6000,,,,,,,,,,,1240
+State Correctional Facility,Milwaukee Women's Correctional Center,615 West Keefe Ave.,,Milwaukee,Wisconsin,53212,(414) 267-6101,,,,,,,,,,,1241
+State Correctional Facility,Copper Lake School,W4380 Copper Lake Road,,Irma,Wisconsin,54442,(715) 536-8386,,,,,,,,,,,1242
+State Correctional Facility,Lincoln Hillls School for Boys,W4380 Copper Lake Road,,Irma,Wisconsin,54442,(715) 536-8386,,,,,,,,,,,1243
+State Correctional Facility,Wyoming State Penitentiary,2900 S. Higley Road,P.O. Box 400,Rawlins,Wyoming,82301-0400,(307) 328-1441,,,,,,,,,,,1244
+State Correctional Facility,Wyoming Women's Center,1000 West Griffith,P.O. Box 300,Lusk,Wyoming,82225,(307) 334-3693,,,,,,,,,,,1245
+Work Camps / Work Release / Road Prisons,Wyoming Honor Farm,40 Honor Farm Road,,Riverton,Wyoming,82501-9411,(307) 856-9578,,,,,,,,,,,1246
+Work Camps / Work Release / Road Prisons,Wyoming Honor Conservation Camp & Boot Camp,40 Pippen Road,P.O. Box 160,Newcastle,Wyoming,82701-0160,(307) 746-4436,,,,,,,,,,,1247
+State Correctional Facility,Wyoming Medium Correctional Institution,7076 Road 55F,,Torrington,Wyoming,82240,(307) 532-3198,,,,,,,,,,,1248
